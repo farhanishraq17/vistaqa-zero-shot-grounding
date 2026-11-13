@@ -7,6 +7,7 @@
 One shard per account (shard k = image ids k::N). State lives in runs/RUN/manifest.json.
 An account can also be a shared GPU PC, "PC1:1+0" = PC1's GPUs 1 and 0 in that order (--need 13 6: free GiB each must have).
 There, cfg values starting with "@/" resolve inside the PC's workspace, e.g. {"data": "@/data/proxy2"}.
+The account LOCAL runs the shard on this machine, in the foreground, with the GPUs it can see (no Kaggle account needed).
 """
 import argparse
 import json
@@ -110,6 +111,14 @@ def push(a):
         shutil.rmtree(kdir, ignore_errors=True); kdir.mkdir(parents=True)
         shard_cfg = {**cfg, "shard": k, "num_shards": len(accounts), **({"samples": samples} if samples else {})}
         cfg_log = {k2: v for k2, v in cfg.items() if k2 not in ("boxes", "concepts", "pairs", "marks")}
+        if alias == "LOCAL":  # the same script as a kernel runs, here and now; collect then reads its output folder
+            od = run_dir / "out" / f"shard{k}"
+            od.mkdir(parents=True, exist_ok=True)
+            (kdir / "main.py").write_text(f"CFG = {({**shard_cfg, 'out': str(od)})!r}\n" + src, encoding="utf-8")
+            manifest.append({"shard": k, "alias": alias})
+            if not a.only or k in a.only:
+                subprocess.run([sys.executable, str(kdir / "main.py")], cwd=ROOT, check=True)
+            continue
         if alias in dl_hosts():
             manifest.append({"shard": k, "alias": alias, "gpus": gpus})
             if not a.only or k in a.only:
@@ -152,6 +161,9 @@ def marks_from(run):
 
 def status(a):
     for s in json.loads((ROOT / "runs" / a.run / "manifest.json").read_text())["shards"]:
+        if s["alias"] == "LOCAL":
+            print(f"shard{s['shard']} LOCAL        finished (push ran it in the foreground)")
+            continue
         if "kernel" not in s:
             print(f"shard{s['shard']} {s['alias']:12s} {dl_status(a.run, s)}")
             continue
@@ -167,7 +179,7 @@ def collect(a):
         od.mkdir(parents=True, exist_ok=True)
         if "kernel" in s:
             kgl.run(s["alias"], ["kernels", "output", s["kernel"], "-p", str(od), "-o"], capture=True)
-        else:
+        elif s["alias"] != "LOCAL":  # a LOCAL shard wrote straight into od
             if dl_status(a.run, s).startswith("RUNNING"):
                 print(f"WARNING shard{s['shard']} on {s['alias']} is still running: partial output")
             host, ws = dl_hosts()[s["alias"]]

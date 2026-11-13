@@ -2,7 +2,7 @@
 
     python Scripts/kgl.py list                      # aliases + usernames
     python Scripts/kgl.py check                     # verify every token works
-    python Scripts/kgl.py K01 kernels status user16/vistaqa-shard0
+    python Scripts/kgl.py K01 kernels status user13/vistaqa-shard0
     python Scripts/kgl.py K01 kernels push -p kernels/shard0
     python Scripts/kgl.py upload DIR SLUG K01 K02 ...   # private dataset on each account
 

@@ -9,12 +9,12 @@
   {
    "shard": 0,
    "alias": "K09",
-   "kernel": "user07/vlm4rwd-final-cnt-s0"
+   "kernel": "user05/vlm4rwd-final-cnt-s0"
   },
   {
    "shard": 1,
    "alias": "K07",
-   "kernel": "user18/vlm4rwd-final-cnt-s1"
+   "kernel": "user15/vlm4rwd-final-cnt-s1"
   }
  ]
 }
