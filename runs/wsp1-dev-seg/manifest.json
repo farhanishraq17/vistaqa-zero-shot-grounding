@@ -1,0 +1,19 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "data": "inline"
+ },
+ "boxes_from": "wsp1-dev",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K07",
+   "kernel": "user18/vlm4rwd-wsp1-dev-seg-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K09",
+   "kernel": "user07/vlm4rwd-wsp1-dev-seg-s1"
+  }
+ ]
+}

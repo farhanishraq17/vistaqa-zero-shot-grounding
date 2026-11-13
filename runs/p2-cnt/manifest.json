@@ -1,0 +1,16 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-8B-Instruct",
+  "seg": "",
+  "expand_short": true,
+  "plain_only": true,
+  "data": "vlm4rwd-proxy2"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K06",
+   "kernel": "user03/vlm4rwd-p2-cnt-s0"
+  }
+ ]
+}

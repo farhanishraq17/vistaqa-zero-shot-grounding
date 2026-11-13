@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.4232016730729234,
+    "text_acc": 0.547104580812446,
+    "mask_miou": 0.46914475106380454
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.46346074842477397
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.4133462367665102
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.4521519041503646
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.43048980516899715
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.49005480122059697
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.30076381125363494
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6431498694630721
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.4937937807329757
+      },
+      {
+        "group": "math",
+        "standard_average": 0.20710669040635105
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5008701551881327
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.2863949496408088
+      },
+      {
+        "group": "science",
+        "standard_average": 0.35286663312540867
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.4449399000538225
+      },
+      {
+        "group": "true",
+        "standard_average": 0.3648407643312102
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.3648407643312102
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4938652410622292
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.3268852310618775
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.4242704005847528,
+    "text_acc": 0.5453759723422644,
+    "mask_miou": 0.46988788951183474
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.4755796729973143
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.40667192818448256
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.45348871055795825
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.4184524458022448
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.4838508319539402
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.3188604563218246
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.636416793956446
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.4912698149205882
+      },
+      {
+        "group": "math",
+        "standard_average": 0.19922232285823166
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5092449513917466
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.2940872826534071
+      },
+      {
+        "group": "science",
+        "standard_average": 0.35834085101195
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.44106862808607233
+      },
+      {
+        "group": "true",
+        "standard_average": 0.379171974522293
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.379171974522293
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4884604793870073
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.3267142014651927
+      }
+    ]
+  }
+}

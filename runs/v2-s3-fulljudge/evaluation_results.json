@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.4262544161672782,
+    "text_acc": 0.547104580812446,
+    "mask_miou": 0.46988788951183474
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.47720471299894685
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.41457771377213787
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.45542613335043025
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.43228653937856626
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.48345945691997444
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.30484130519820074
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6431498694630721
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.4937937807329757
+      },
+      {
+        "group": "math",
+        "standard_average": 0.211875567846264
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5008701551881327
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.2863949496408088
+      },
+      {
+        "group": "science",
+        "standard_average": 0.3666739475576714
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.44283079419399873
+      },
+      {
+        "group": "true",
+        "standard_average": 0.38175159235668793
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.38175159235668793
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4903044029186739
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.3282790905506529
+      }
+    ]
+  }
+}

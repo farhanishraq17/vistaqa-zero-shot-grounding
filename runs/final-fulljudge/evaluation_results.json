@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.48143634616570574,
+    "text_acc": 0.6058772687986171,
+    "mask_miou": 0.5205233321676995
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5323413734623076
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.44841938776996787
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.42127744126123795
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.5136852304392275
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5739197384298822
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.4061870085985425
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6842195249193981
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5334559272211596
+      },
+      {
+        "group": "math",
+        "standard_average": 0.2780487181992319
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5573058736705109
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.3014589832799203
+      },
+      {
+        "group": "science",
+        "standard_average": 0.48147052830576703
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.41191204331402326
+      },
+      {
+        "group": "true",
+        "standard_average": 0.6680891719745223
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.6680891719745223
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.44284866035301246
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.3372633641430208
+      }
+    ]
+  }
+}

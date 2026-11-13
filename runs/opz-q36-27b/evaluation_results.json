@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 225
+  },
+  "overall": {
+    "standard_average": 0.776,
+    "text_acc": 0.7511111111111111,
+    "mask_miou": 1.0
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "ocr",
+        "standard_average": 0.776
+      }
+    ],
+    "domain": [
+      {
+        "group": "textvqa",
+        "standard_average": 0.776
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.776
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.776
+      }
+    ]
+  }
+}

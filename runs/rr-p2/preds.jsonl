@@ -1,0 +1,152 @@
+{"image": {"image_id": 1, "width": 800, "height": 600}, "question": "Which category has the highest value in the bar chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 2, "width": 800, "height": 600}, "question": "How large is the brown hexagon compared with the others?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 3, "width": 800, "height": 600}, "question": "What number is written next to vertex V?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 4, "width": 800, "height": 600}, "question": "What value is directly below the Monday value in the Music column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 5, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 7?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 6, "width": 800, "height": 600}, "question": "Is the Papayas slice larger than the Kiwis slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 7, "width": 800, "height": 600}, "question": "What color is the bar for Grapes?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 8, "width": 800, "height": 600}, "question": "What number is written inside the red square near column 3?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 9, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex V?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 10, "width": 800, "height": 600}, "question": "How many values in the Art column are greater than 29?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 11, "width": 800, "height": 600}, "question": "Which point is higher, F or G?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 12, "width": 800, "height": 600}, "question": "What share does Papayas have?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 13, "width": 800, "height": 600}, "question": "What number is printed above the bar for Lemons?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 14, "width": 800, "height": 600}, "question": "What shape is directly above the brown circle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 15, "width": 800, "height": 600}, "question": "How many vertices of rectangle SREA are labeled in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 16, "width": 800, "height": 600}, "question": "Which is greater in the Art column, the Wednesday value or the Friday value?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 17, "width": 800, "height": 600}, "question": "What is the x-coordinate of point Z?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 18, "width": 800, "height": 600}, "question": "What color is the Pears slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 19, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Apples?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 20, "width": 800, "height": 600}, "question": "How many circles are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 21, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 22, "width": 800, "height": 600}, "question": "Which day has the highest value in the Math column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 23, "width": 800, "height": 600}, "question": "What is the y-coordinate of point H?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 24, "width": 800, "height": 600}, "question": "What percentage is shown for Papayas?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 25, "width": 800, "height": 600}, "question": "How many bars have a value greater than 17?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 26, "width": 800, "height": 600}, "question": "How many circles are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 27, "width": 800, "height": 600}, "question": "What type of quadrilateral is drawn in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 28, "width": 800, "height": 600}, "question": "What is the value in the Monday row of the Math column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 29, "width": 800, "height": 600}, "question": "What are the coordinates of point Z?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 30, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Pears?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 31, "width": 800, "height": 600}, "question": "How much greater is the value of Mangoes than the value of Apples?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 32, "width": 800, "height": 600}, "question": "How many hexagons are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 33, "width": 800, "height": 600}, "question": "What is the radius of the circle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 34, "width": 800, "height": 600}, "question": "What is the value in the Wednesday row of the Art column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 35, "width": 800, "height": 600}, "question": "Which point is farthest to the right?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 36, "width": 800, "height": 600}, "question": "How many slices are labeled Papayas?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 37, "width": 800, "height": 600}, "question": "Which category has the lowest value in the bar chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 38, "width": 800, "height": 600}, "question": "What color is the largest pentagon?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 39, "width": 800, "height": 600}, "question": "What letter labels the top-right vertex of the rectangle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 40, "width": 800, "height": 600}, "question": "What value is directly below the Tuesday value in the Sport column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 41, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 4?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 42, "width": 800, "height": 600}, "question": "Which share is larger, Lemons or Oranges?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 43, "width": 800, "height": 600}, "question": "What color is the bar for Figs?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 44, "width": 800, "height": 600}, "question": "What number is written inside the pink hexagon?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 45, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex Q?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 46, "width": 800, "height": 600}, "question": "How many values in the Art column are greater than 21?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 47, "width": 800, "height": 600}, "question": "Which point is higher, C or E?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 48, "width": 800, "height": 600}, "question": "Which category has the largest share of the pie chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 49, "width": 800, "height": 600}, "question": "What number is printed above the bar for Oranges?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 50, "width": 800, "height": 600}, "question": "What shape is directly above the pink square?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 51, "width": 800, "height": 600}, "question": "How many vertices of rectangle GEKQ are labeled in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 52, "width": 800, "height": 600}, "question": "Which is greater in the Math column, the Friday value or the Monday value?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 53, "width": 800, "height": 600}, "question": "What is the x-coordinate of point X?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 54, "width": 800, "height": 600}, "question": "What color is the Pears slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 55, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Bananas?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 56, "width": 800, "height": 600}, "question": "How many orange hexagons are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 57, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 58, "width": 800, "height": 600}, "question": "Which subject has the highest value on Sunday?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 59, "width": 800, "height": 600}, "question": "What color is point Z?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 60, "width": 800, "height": 600}, "question": "What percentage is shown for Walnuts?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 61, "width": 800, "height": 600}, "question": "How many bars have a value greater than 4?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 62, "width": 800, "height": 600}, "question": "Is the brown circle bigger than the other shapes?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 63, "width": 800, "height": 600}, "question": "What is the area of the shaded triangle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 64, "width": 800, "height": 600}, "question": "What is the value for Saturday under Music?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 65, "width": 800, "height": 600}, "question": "What are the coordinates of point E?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 66, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Dates?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 67, "width": 800, "height": 600}, "question": "How much greater is the value of Kiwis than the value of Figs?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 68, "width": 800, "height": 600}, "question": "How many circles are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 69, "width": 800, "height": 600}, "question": "What is the perimeter of rectangle JGTF?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 70, "width": 800, "height": 600}, "question": "What number is in the Sunday row of the Music column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 71, "width": 800, "height": 600}, "question": "Which point is directly to the left of point Y?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 72, "width": 800, "height": 600}, "question": "How many slices are larger than 15%?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 73, "width": 800, "height": 600}, "question": "Which category has the lowest value in the bar chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 74, "width": 800, "height": 600}, "question": "What color is the largest hexagon?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 75, "width": 800, "height": 600}, "question": "What letter labels the bottom-left vertex of the rectangle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 76, "width": 800, "height": 600}, "question": "What value is directly below the Friday value in the Music column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 77, "width": 800, "height": 600}, "question": "How many points are above point W?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 78, "width": 800, "height": 600}, "question": "Which share is larger, Plums or Figs?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 79, "width": 800, "height": 600}, "question": "What color is the bar for Cherries?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 80, "width": 800, "height": 600}, "question": "What number is written inside the red pentagon near column 2?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 81, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex C?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 82, "width": 800, "height": 600}, "question": "How many values in the Math column are greater than 11?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 83, "width": 800, "height": 600}, "question": "Which point is higher, K or C?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 84, "width": 800, "height": 600}, "question": "Which category has the largest share of the pie chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 85, "width": 800, "height": 600}, "question": "What number is printed above the bar for Figs?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 86, "width": 800, "height": 600}, "question": "What shape is directly above the orange circle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 87, "width": 800, "height": 600}, "question": "How many vertices of rectangle CRPN are labeled in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 88, "width": 800, "height": 600}, "question": "Is the Math value for Sunday greater than the one for Tuesday?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 89, "width": 800, "height": 600}, "question": "What is the x-coordinate of point Y?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 90, "width": 800, "height": 600}, "question": "What color is the Pears slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 91, "width": 800, "height": 600}, "question": "Which bar is immediately to the right of the bar for Walnuts?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 92, "width": 800, "height": 600}, "question": "How many pentagons are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 93, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 94, "width": 800, "height": 600}, "question": "Which day has the highest value in the Music column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 95, "width": 800, "height": 600}, "question": "What color is point X?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 96, "width": 800, "height": 600}, "question": "What percentage is shown for Kiwis?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 97, "width": 800, "height": 600}, "question": "How many bars have a value greater than 12?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 98, "width": 800, "height": 600}, "question": "Are there more squares or pentagons in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 99, "width": 800, "height": 600}, "question": "What is the area of the shaded triangle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 100, "width": 800, "height": 600}, "question": "What is the value for Saturday under Sport?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 101, "width": 800, "height": 600}, "question": "What are the coordinates of point Y?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 102, "width": 800, "height": 600}, "question": "Which slice is next to the Papayas slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 103, "width": 800, "height": 600}, "question": "How much greater is the value of Cherries than the value of Dates?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 104, "width": 800, "height": 600}, "question": "How many orange pentagons are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 105, "width": 800, "height": 600}, "question": "What is the perimeter of rectangle JTHF?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 106, "width": 800, "height": 600}, "question": "What is the value in the Thursday row of the Music column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 107, "width": 800, "height": 600}, "question": "Which point is directly to the left of point Y?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 108, "width": 800, "height": 600}, "question": "How many slices are larger than 15%?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 109, "width": 800, "height": 600}, "question": "What value does the bar for Melons show?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 110, "width": 800, "height": 600}, "question": "How large is the pink circle compared with the others?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 111, "width": 800, "height": 600}, "question": "What letter labels the bottom-right vertex of the rectangle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 112, "width": 800, "height": 600}, "question": "What value is directly below the Friday value in the Math column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 113, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 1?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 114, "width": 800, "height": 600}, "question": "Which share is larger, Kiwis or Dates?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 115, "width": 800, "height": 600}, "question": "What color is the bar for Oranges?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 116, "width": 800, "height": 600}, "question": "What number is written inside the green pentagon near column 2?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 117, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex R?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 118, "width": 800, "height": 600}, "question": "How many values in the Saturday row are above 50?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 119, "width": 800, "height": 600}, "question": "Which point is higher, J or H?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 120, "width": 800, "height": 600}, "question": "Which category has the largest share of the pie chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 121, "width": 800, "height": 600}, "question": "What number is printed above the bar for Grapes?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 122, "width": 800, "height": 600}, "question": "What shape is directly above the orange pentagon?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 123, "width": 800, "height": 600}, "question": "How many vertices of rectangle JSRD are labeled in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 124, "width": 800, "height": 600}, "question": "Which is greater in the Art column, the Friday value or the Wednesday value?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 125, "width": 800, "height": 600}, "question": "What are the coordinates of point E?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 126, "width": 800, "height": 600}, "question": "What color is the Peaches slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 127, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Plums?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 128, "width": 800, "height": 600}, "question": "How many squares are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 129, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 130, "width": 800, "height": 600}, "question": "Which subject has the highest value on Saturday?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 131, "width": 800, "height": 600}, "question": "What color is point W?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 132, "width": 800, "height": 600}, "question": "What percentage is shown for Mangoes?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 133, "width": 800, "height": 600}, "question": "How many bars for Walnuts are in the chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 134, "width": 800, "height": 600}, "question": "Is the green circle bigger than the other shapes?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 135, "width": 800, "height": 600}, "question": "What type of quadrilateral is drawn in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 136, "width": 800, "height": 600}, "question": "What is the value for Saturday under Sport?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 137, "width": 800, "height": 600}, "question": "What are the coordinates of point Y?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 138, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Lemons?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 139, "width": 800, "height": 600}, "question": "How much greater is the value of Apples than the value of Mangoes?", "prediction": {"text": "yes", "masks": []}}
+{"image": {"image_id": 140, "width": 800, "height": 600}, "question": "What shape is the only orange object in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 141, "width": 800, "height": 600}, "question": "What is the radius of the circle?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 142, "width": 800, "height": 600}, "question": "What is the value in the Monday row of the Math column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 143, "width": 800, "height": 600}, "question": "Which point is farthest to the right?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 144, "width": 800, "height": 600}, "question": "How many slices are labeled Peaches?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 145, "width": 800, "height": 600}, "question": "Which category has the highest value in the bar chart?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 146, "width": 800, "height": 600}, "question": "How many purple squares are in the figure?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 147, "width": 800, "height": 600}, "question": "What number is written next to vertex U?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 148, "width": 800, "height": 600}, "question": "What value is directly below the Thursday value in the Music column?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 149, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 8?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 150, "width": 800, "height": 600}, "question": "Is the Melons slice larger than the Pears slice?", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 380, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "no", "masks": []}}
+{"image": {"image_id": 415, "width": 256, "height": 256}, "question": "What color is the flagellum?", "prediction": {"text": "no", "masks": []}}

@@ -1,0 +1,19 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "data": "vlm4rwd-proxy2"
+ },
+ "boxes_from": "p2-q38-27b",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K10",
+   "kernel": "user05/vlm4rwd-p2-seg-q38-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K01",
+   "kernel": "user16/vlm4rwd-p2-seg-q38-s1"
+  }
+ ]
+}

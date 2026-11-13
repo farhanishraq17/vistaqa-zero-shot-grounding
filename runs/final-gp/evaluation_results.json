@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.49756297270729705,
+    "text_acc": 0.6162489196197062,
+    "mask_miou": 0.5274269253939361
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5518442404529486
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.45647162593900736
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.4502603737835659
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.5403241733628145
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.572774444199591
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.4184284175781814
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.683899733247106
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5120528765313749
+      },
+      {
+        "group": "math",
+        "standard_average": 0.2680302572660148
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5539696938936505
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.39752853520122605
+      },
+      {
+        "group": "science",
+        "standard_average": 0.5111444509029041
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.38995297677620716
+      },
+      {
+        "group": "true",
+        "standard_average": 0.7864649681528662
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.7864649681528662
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4183009601936656
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.32155055525068
+      }
+    ]
+  }
+}

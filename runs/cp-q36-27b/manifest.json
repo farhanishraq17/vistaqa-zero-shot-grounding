@@ -1,0 +1,33 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3.6-27B",
+  "quant": "nf4",
+  "pip": [
+   "bitsandbytes"
+  ],
+  "max_memory": [
+   "14GiB",
+   "14GiB"
+  ],
+  "seg": "",
+  "expand_short": true,
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K12",
+   "kernel": "user17/vlm4rwd-cp-q36-27b-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K13",
+   "kernel": "user14/vlm4rwd-cp-q36-27b-s1"
+  },
+  {
+   "shard": 2,
+   "alias": "K14",
+   "kernel": "user15/vlm4rwd-cp-q36-27b-s2"
+  }
+ ]
+}

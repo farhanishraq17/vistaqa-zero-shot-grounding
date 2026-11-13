@@ -1,0 +1,120 @@
+{"image_id": 4, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 6.31}
+{"image_id": 11, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.44}
+{"image_id": 16, "raw": {"marks": "[5]", "keep": [4]}, "parse_ok": true, "boxes": [], "sec": 1.13}
+{"image_id": 19, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.46}
+{"image_id": 22, "raw": {"marks": "[1, 3]", "keep": [0, 2]}, "parse_ok": true, "boxes": [], "sec": 1.39}
+{"image_id": 28, "raw": {"marks": "[1, 2, 3]", "keep": [0, 1, 2]}, "parse_ok": true, "boxes": [], "sec": 1.59}
+{"image_id": 30, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 1.12}
+{"image_id": 31, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.37}
+{"image_id": 34, "raw": {"marks": "[1, 2, 3]", "keep": [0, 1, 2]}, "parse_ok": true, "boxes": [], "sec": 1.67}
+{"image_id": 37, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.42}
+{"image_id": 40, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.39}
+{"image_id": 42, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.39}
+{"image_id": 45, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.38}
+{"image_id": 47, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.4}
+{"image_id": 52, "raw": {"marks": "[2, 3]", "keep": [1, 2]}, "parse_ok": true, "boxes": [], "sec": 1.42}
+{"image_id": 55, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 1.11}
+{"image_id": 66, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.38}
+{"image_id": 67, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.45}
+{"image_id": 76, "raw": {"marks": "[1, 5]", "keep": [0, 4]}, "parse_ok": true, "boxes": [], "sec": 1.43}
+{"image_id": 78, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.36}
+{"image_id": 80, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 1.18}
+{"image_id": 81, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.37}
+{"image_id": 83, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.41}
+{"image_id": 93, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.36}
+{"image_id": 94, "raw": {"marks": "[1, 3]", "keep": [0, 2]}, "parse_ok": true, "boxes": [], "sec": 1.4}
+{"image_id": 98, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8]", "keep": [0, 1, 2, 3, 4, 5, 6, 7]}, "parse_ok": true, "boxes": [], "sec": 2.94}
+{"image_id": 103, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.45}
+{"image_id": 105, "raw": {"marks": "[1, 2, 3]", "keep": [0, 1, 2]}, "parse_ok": true, "boxes": [], "sec": 1.62}
+{"image_id": 106, "raw": {"marks": "[3]", "keep": [2]}, "parse_ok": true, "boxes": [], "sec": 1.17}
+{"image_id": 112, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 1.19}
+{"image_id": 114, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 1.2}
+{"image_id": 117, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.44}
+{"image_id": 119, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.39}
+{"image_id": 122, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 1.14}
+{"image_id": 124, "raw": {"marks": "[1, 3]", "keep": [0, 2]}, "parse_ok": true, "boxes": [], "sec": 1.39}
+{"image_id": 127, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.45}
+{"image_id": 138, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.45}
+{"image_id": 142, "raw": {"marks": "[1, 3]", "keep": [0, 2]}, "parse_ok": true, "boxes": [], "sec": 1.45}
+{"image_id": 148, "raw": {"marks": "[1, 5]", "keep": [0, 4]}, "parse_ok": true, "boxes": [], "sec": 1.48}
+{"image_id": 184, "raw": {"marks": "[1, 2, 3]", "keep": [0, 1, 2]}, "parse_ok": true, "boxes": [], "sec": 1.36}
+{"image_id": 194, "raw": {"marks": "[1, 2, 3, 4]", "keep": [0, 1, 2, 3]}, "parse_ok": true, "boxes": [], "sec": 1.58}
+{"image_id": 261, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.13}
+{"image_id": 262, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.11}
+{"image_id": 263, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 0.89}
+{"image_id": 265, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.11}
+{"image_id": 266, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.14}
+{"image_id": 267, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.11}
+{"image_id": 268, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.2}
+{"image_id": 269, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.19}
+{"image_id": 270, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.1}
+{"image_id": 271, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.23}
+{"image_id": 272, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.11}
+{"image_id": 273, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.18}
+{"image_id": 274, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.1}
+{"image_id": 275, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.13}
+{"image_id": 276, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.11}
+{"image_id": 277, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.15}
+{"image_id": 278, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.17}
+{"image_id": 284, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.16}
+{"image_id": 286, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.12}
+{"image_id": 289, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.27}
+{"image_id": 290, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.14}
+{"image_id": 292, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.14}
+{"image_id": 297, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.15}
+{"image_id": 298, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.21}
+{"image_id": 299, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 1.15}
+{"image_id": 326, "raw": {"marks": "[1, 2, 3, 4, 5]", "keep": [0, 1, 2, 3, 4]}, "parse_ok": true, "boxes": [], "sec": 1.54}
+{"image_id": 329, "raw": {"marks": "[8, 9, 10]", "keep": [7, 8, 9]}, "parse_ok": true, "boxes": [], "sec": 1.22}
+{"image_id": 330, "raw": {"marks": "[3, 4, 6]", "keep": [2, 3, 5]}, "parse_ok": true, "boxes": [], "sec": 1.12}
+{"image_id": 331, "raw": {"marks": "[5, 6]", "keep": [4, 5]}, "parse_ok": true, "boxes": [], "sec": 0.89}
+{"image_id": 332, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8]", "keep": [0, 1, 2, 3, 4, 5, 6, 7]}, "parse_ok": true, "boxes": [], "sec": 2.28}
+{"image_id": 333, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8]}, "parse_ok": true, "boxes": [], "sec": 3.01}
+{"image_id": 336, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}, "parse_ok": true, "boxes": [], "sec": 2.94}
+{"image_id": 337, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 0.94}
+{"image_id": 339, "raw": {"marks": "[2, 3, 4, 5]", "keep": [1, 2, 3, 4]}, "parse_ok": true, "boxes": [], "sec": 1.77}
+{"image_id": 341, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8]}, "parse_ok": true, "boxes": [], "sec": 2.59}
+{"image_id": 343, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 0.65}
+{"image_id": 345, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 0.82}
+{"image_id": 346, "raw": {"marks": "[4, 6, 7, 8, 9]", "keep": [3, 5, 6, 7, 8]}, "parse_ok": true, "boxes": [], "sec": 1.56}
+{"image_id": 347, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7]", "keep": [0, 1, 2, 3, 4, 5, 6]}, "parse_ok": true, "boxes": [], "sec": 2.52}
+{"image_id": 350, "raw": {"marks": "[3, 4, 5, 6, 7]", "keep": [2, 3, 4, 5, 6]}, "parse_ok": true, "boxes": [], "sec": 1.61}
+{"image_id": 352, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7]", "keep": [0, 1, 2, 3, 4, 5, 6]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 353, "raw": {"marks": "[1, 2, 3, 4, 5]", "keep": [0, 1, 2, 3, 4]}, "parse_ok": true, "boxes": [], "sec": 1.7}
+{"image_id": 354, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]}, "parse_ok": true, "boxes": [], "sec": 3.54}
+{"image_id": 355, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}, "parse_ok": true, "boxes": [], "sec": 3.48}
+{"image_id": 356, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8]}, "parse_ok": true, "boxes": [], "sec": 2.48}
+{"image_id": 357, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8]", "keep": [0, 1, 2, 3, 4, 5, 6, 7]}, "parse_ok": true, "boxes": [], "sec": 2.17}
+{"image_id": 358, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8]", "keep": [0, 1, 2, 3, 4, 5, 6, 7]}, "parse_ok": true, "boxes": [], "sec": 2.19}
+{"image_id": 361, "raw": {"marks": "[1, 2, 3, 4, 5]", "keep": [0, 1, 2, 3, 4]}, "parse_ok": true, "boxes": [], "sec": 1.51}
+{"image_id": 362, "raw": {"marks": "[1, 2, 3, 4]", "keep": [0, 1, 2, 3]}, "parse_ok": true, "boxes": [], "sec": 1.7}
+{"image_id": 363, "raw": {"marks": "[1, 2, 3]", "keep": [0, 1, 2]}, "parse_ok": true, "boxes": [], "sec": 1.06}
+{"image_id": 364, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8]}, "parse_ok": true, "boxes": [], "sec": 2.6}
+{"image_id": 365, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}, "parse_ok": true, "boxes": [], "sec": 2.8}
+{"image_id": 366, "raw": {"marks": "[1, 2, 3, 4, 5]", "keep": [0, 1, 2, 3, 4]}, "parse_ok": true, "boxes": [], "sec": 1.79}
+{"image_id": 367, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}, "parse_ok": true, "boxes": [], "sec": 3.15}
+{"image_id": 368, "raw": {"marks": "[1, 2, 3, 4, 5, 6]", "keep": [0, 1, 2, 3, 4, 5]}, "parse_ok": true, "boxes": [], "sec": 1.89}
+{"image_id": 369, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}, "parse_ok": true, "boxes": [], "sec": 2.89}
+{"image_id": 432, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 2.0}
+{"image_id": 433, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 2.14}
+{"image_id": 441, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 447, "raw": {"marks": "[]", "keep": null}, "parse_ok": true, "boxes": [], "sec": 1.88}
+{"image_id": 449, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.3}
+{"image_id": 450, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.28}
+{"image_id": 451, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.25}
+{"image_id": 453, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.33}
+{"image_id": 454, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.29}
+{"image_id": 455, "raw": {"marks": "[1, 2, 3, 4, 5, 6]", "keep": [0, 1, 2, 3, 4, 5]}, "parse_ok": true, "boxes": [], "sec": 3.32}
+{"image_id": 456, "raw": {"marks": "[1, 2, 3, 5]", "keep": [0, 1, 2, 4]}, "parse_ok": true, "boxes": [], "sec": 2.83}
+{"image_id": 458, "raw": {"marks": "[1, 2, 3, 4]", "keep": [0, 1, 2, 3]}, "parse_ok": true, "boxes": [], "sec": 2.89}
+{"image_id": 460, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.34}
+{"image_id": 461, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 2.02}
+{"image_id": 462, "raw": {"marks": "[1, 2, 3, 4, 5, 6, 7]", "keep": [0, 1, 2, 3, 4, 5, 6]}, "parse_ok": true, "boxes": [], "sec": 3.69}
+{"image_id": 463, "raw": {"marks": "[2]", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 2.05}
+{"image_id": 464, "raw": {"marks": "[1, 2, 3, 4]", "keep": [0, 1, 2, 3]}, "parse_ok": true, "boxes": [], "sec": 2.8}
+{"image_id": 465, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.42}
+{"image_id": 466, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 2.05}
+{"image_id": 467, "raw": {"marks": "[1, 2, 3]", "keep": [0, 1, 2]}, "parse_ok": true, "boxes": [], "sec": 2.58}
+{"image_id": 468, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.4}
+{"image_id": 520, "raw": {"marks": "[1, 2]", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 2.36}
+{"image_id": 568, "raw": {"marks": "[1]", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 2.05}

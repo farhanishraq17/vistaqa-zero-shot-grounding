@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.3876390166683719,
+    "text_acc": 0.4978392394122731,
+    "mask_miou": 0.43973118333276795
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.4208122628893834
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.3117403695716044
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.3934239896089761
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.4428099409103049
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.4635762866764104
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.2982176588913281
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.5600465232857195
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.44169178612454174
+      },
+      {
+        "group": "math",
+        "standard_average": 0.17765235270086224
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.48072224753553855
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.27438712199155546
+      },
+      {
+        "group": "science",
+        "standard_average": 0.3386043657139899
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.38417359701697074
+      },
+      {
+        "group": "true",
+        "standard_average": 0.39694267515923565
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.39694267515923565
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.43656198532957413
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.2577627491047778
+      }
+    ]
+  }
+}

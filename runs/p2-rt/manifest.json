@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-8B-Instruct",
+  "route": true,
+  "data": "vlm4rwd-proxy2"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K08",
+   "kernel": "user12/vlm4rwd-p2-rt-s0"
+  }
+ ]
+}

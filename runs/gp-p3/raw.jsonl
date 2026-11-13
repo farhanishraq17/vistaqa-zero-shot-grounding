@@ -1,0 +1,200 @@
+{"image_id": 1, "raw": {"premise": "```json\n{\"missing\": \"young boy holding up a wii remote\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 11.62}
+{"image_id": 2, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.02}
+{"image_id": 3, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.9}
+{"image_id": 4, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.94}
+{"image_id": 5, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.9}
+{"image_id": 6, "raw": {"premise": "```json\n{\"missing\": \"umbrella stand with the number 2\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.84}
+{"image_id": 7, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.97}
+{"image_id": 8, "raw": {"premise": "```json\n{\"missing\": \"bench with no one seen on it\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.97}
+{"image_id": 9, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.08}
+{"image_id": 10, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.97}
+{"image_id": 11, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.29}
+{"image_id": 12, "raw": {"premise": "```json\n{\"missing\": \"gray folded comforter\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.27}
+{"image_id": 13, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 14, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.08}
+{"image_id": 15, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.33}
+{"image_id": 16, "raw": {"premise": "```json\n{\"missing\": \"upside down apple beneath an orange\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.16}
+{"image_id": 17, "raw": {"premise": "```json\n{\"missing\": \"head of the white animal looking at the dog\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 9.52}
+{"image_id": 18, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.14}
+{"image_id": 19, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.93}
+{"image_id": 20, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.29}
+{"image_id": 21, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.02}
+{"image_id": 22, "raw": {"premise": "```json\n{\"missing\": \"fried greens\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.02}
+{"image_id": 23, "raw": {"premise": "```json\n{\"missing\": \"wooden table with nothing in site on it\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.7}
+{"image_id": 24, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.25}
+{"image_id": 25, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 26, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.46}
+{"image_id": 27, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.14}
+{"image_id": 28, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 29, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.27}
+{"image_id": 30, "raw": {"premise": "```json\n{\"missing\": \"beige sofa\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.18}
+{"image_id": 31, "raw": {"premise": "```json\n{\"missing\": \"windows laptop\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.19}
+{"image_id": 32, "raw": {"premise": "```json\n{\"missing\": \"arm of the photo not being pictured\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 9.6}
+{"image_id": 33, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.13}
+{"image_id": 34, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.2}
+{"image_id": 35, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.24}
+{"image_id": 36, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.23}
+{"image_id": 37, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.05}
+{"image_id": 38, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.28}
+{"image_id": 39, "raw": {"premise": "```json\n{\"missing\": \"gray ottoman\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.15}
+{"image_id": 40, "raw": {"premise": "```json\n{\"missing\": \"white girl in blue uniform\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.94}
+{"image_id": 41, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 42, "raw": {"premise": "```json\n{\"missing\": \"man whipping the elephant\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.68}
+{"image_id": 43, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.31}
+{"image_id": 44, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.16}
+{"image_id": 45, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.2}
+{"image_id": 46, "raw": {"premise": "```json\n{\"missing\": \"playing wii\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.29}
+{"image_id": 47, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 48, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.23}
+{"image_id": 49, "raw": {"premise": "```json\n{\"missing\": \"girl in black\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.24}
+{"image_id": 50, "raw": {"premise": "```json\n{\"missing\": \"control panel of a motorcycle\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.68}
+{"image_id": 51, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 52, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 53, "raw": {"premise": "```json\n{\"missing\": \"man was sitting on atable\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.08}
+{"image_id": 54, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.38}
+{"image_id": 55, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 56, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 57, "raw": {"premise": "```json\n{\"missing\": \"swan\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.1}
+{"image_id": 58, "raw": {"premise": "```json\n{\"missing\": \"tennis bat\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.07}
+{"image_id": 59, "raw": {"premise": "```json\n{\"missing\": \"chair containing white color seat\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.86}
+{"image_id": 60, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 61, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.2}
+{"image_id": 62, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.44}
+{"image_id": 63, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.05}
+{"image_id": 64, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.22}
+{"image_id": 65, "raw": {"premise": "```json\n{\"missing\": \"peeled nectarines\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.53}
+{"image_id": 66, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.28}
+{"image_id": 67, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 68, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.1}
+{"image_id": 69, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.24}
+{"image_id": 70, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.34}
+{"image_id": 71, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.08}
+{"image_id": 72, "raw": {"premise": "```json\n{\"missing\": \"ruby game\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 73, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.51}
+{"image_id": 74, "raw": {"premise": "```json\n{\"missing\": \"baseball design\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.12}
+{"image_id": 75, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 76, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 77, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.0}
+{"image_id": 78, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.32}
+{"image_id": 79, "raw": {"premise": "```json\n{\"missing\": \"2nd base\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.6}
+{"image_id": 80, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.3}
+{"image_id": 81, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 82, "raw": {"premise": "```json\n{\"missing\": \"brown color dinning table\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.93}
+{"image_id": 83, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.17}
+{"image_id": 84, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 85, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.33}
+{"image_id": 86, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 87, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 88, "raw": {"premise": "```json\n{\"missing\": \"leg sticks out ahead of the base\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.27}
+{"image_id": 89, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 90, "raw": {"premise": "```json\n{\"missing\": \"man in silver holding plate of veggies\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.45}
+{"image_id": 91, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 92, "raw": {"premise": "```json\n{\"missing\": \"hall\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.82}
+{"image_id": 93, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 94, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.53}
+{"image_id": 95, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 96, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 97, "raw": {"premise": "```json\n{\"missing\": \"ripe apple between two oranges\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.88}
+{"image_id": 98, "raw": {"premise": "```json\n{\"missing\": \"white bi-plane leading the pack\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 9.34}
+{"image_id": 99, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.2}
+{"image_id": 100, "raw": {"premise": "```json\n{\"missing\": \"black watches wildlife\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.37}
+{"image_id": 101, "raw": {"premise": "```json\n{\"missing\": \"yellow chair\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.25}
+{"image_id": 102, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 103, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 104, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.35}
+{"image_id": 105, "raw": {"premise": "```json\n{\"missing\": \"empty chair\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.31}
+{"image_id": 106, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.27}
+{"image_id": 107, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.18}
+{"image_id": 108, "raw": {"premise": "```json\n{\"missing\": \"woman in a white shirt\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.93}
+{"image_id": 109, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.2}
+{"image_id": 110, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 111, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 112, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.37}
+{"image_id": 113, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 114, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.46}
+{"image_id": 115, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.35}
+{"image_id": 116, "raw": {"premise": "```json\n{\"missing\": \"coca-cola glass\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.11}
+{"image_id": 117, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 118, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 119, "raw": {"premise": "```json\n{\"missing\": \"single-seat white sofa\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.95}
+{"image_id": 120, "raw": {"premise": "{\"missing\": \"ice cream cup\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.13}
+{"image_id": 121, "raw": {"premise": "```json\n{\"missing\": \"zebra grazing in the field\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.89}
+{"image_id": 122, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 123, "raw": {"premise": "```json\n{\"missing\": \"guy scared of balls\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.63}
+{"image_id": 124, "raw": {"premise": "```json\n{\"missing\": \"mother sheep, baby sheep\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.96}
+{"image_id": 125, "raw": {"premise": "```json\n{\"missing\": \"orange pumkin on shirt\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.03}
+{"image_id": 126, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.19}
+{"image_id": 127, "raw": {"premise": "```json\n{\"missing\": \"person waiting to bat\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.55}
+{"image_id": 128, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.0}
+{"image_id": 129, "raw": {"premise": "```json\n{\"missing\": \"table with a man's arm rested on it\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.05}
+{"image_id": 130, "raw": {"premise": "```json\n{\"missing\": \"kick flip\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.19}
+{"image_id": 131, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.3}
+{"image_id": 132, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 133, "raw": {"premise": "```json\n{\"missing\": \"phone\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 134, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 135, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 136, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 137, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.05}
+{"image_id": 138, "raw": {"premise": "{\"missing\": \"empty booth\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.96}
+{"image_id": 139, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 140, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.25}
+{"image_id": 141, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.16}
+{"image_id": 142, "raw": {"premise": "```json\n{\"missing\": \"chainlinked fence\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.47}
+{"image_id": 143, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.14}
+{"image_id": 144, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 145, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.22}
+{"image_id": 146, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.08}
+{"image_id": 147, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 148, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.18}
+{"image_id": 149, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 150, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.1}
+{"image_id": 151, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 152, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 153, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.27}
+{"image_id": 154, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.13}
+{"image_id": 155, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.32}
+{"image_id": 156, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 157, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 158, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 159, "raw": {"premise": "```json\n{\"missing\": \"blue jacket arm\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.41}
+{"image_id": 160, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.04}
+{"image_id": 161, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 162, "raw": {"premise": "```json\n{\"missing\": \"food truck\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.16}
+{"image_id": 163, "raw": {"premise": "```json\n{\"missing\": \"man wearing a blue t-shirt\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.29}
+{"image_id": 164, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.22}
+{"image_id": 165, "raw": {"premise": "{\"missing\": \"zebra with its head obscured\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.73}
+{"image_id": 166, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.37}
+{"image_id": 167, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.05}
+{"image_id": 168, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 169, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 170, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.1}
+{"image_id": 171, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 172, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.08}
+{"image_id": 173, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 174, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 175, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 176, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.1}
+{"image_id": 177, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.04}
+{"image_id": 178, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 179, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 180, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.33}
+{"image_id": 181, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 182, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 183, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.05}
+{"image_id": 184, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.02}
+{"image_id": 185, "raw": {"premise": "{\"missing\": \"horse without a rider\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.52}
+{"image_id": 186, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 187, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.25}
+{"image_id": 188, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 189, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.08}
+{"image_id": 190, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.14}
+{"image_id": 191, "raw": {"premise": "```json\n{\"missing\": \"darker brown cow with white around the nose\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.87}
+{"image_id": 192, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 193, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.17}
+{"image_id": 194, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 195, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.14}
+{"image_id": 196, "raw": {"premise": "```json\n{\"missing\": \"white puffy mattress\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.31}
+{"image_id": 197, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.14}
+{"image_id": 198, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.01}
+{"image_id": 199, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.04}
+{"image_id": 200, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.18}

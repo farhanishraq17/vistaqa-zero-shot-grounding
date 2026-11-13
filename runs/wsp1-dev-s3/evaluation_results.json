@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 560
+  },
+  "overall": {
+    "standard_average": 0.6165596407562626,
+    "text_acc": 0.6946428571428571,
+    "mask_miou": 0.6628793594181887
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.6814961669054083
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.6218546172258538
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.5215171616597241
+      },
+      {
+        "group": "hallucination",
+        "standard_average": 0.6178
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.7365804316020483
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.47044383765515735
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.6738259073536808
+      }
+    ],
+    "domain": [
+      {
+        "group": "coco",
+        "standard_average": 0.6165596407562626
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.6161058507890416
+      },
+      {
+        "group": "true",
+        "standard_average": 0.6178
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.6178
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.6442921783845875
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.5940469857142664
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "data": "inline",
+  "count_only": false
+ },
+ "concepts_from": "prem-q3vl8b",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K08",
+   "kernel": "user12/vlm4rwd-veto-sam3-s0"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{"image": {"image_id": 303, "width": 361, "height": 500}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair in the image.", "masks": []}}
+{"image": {"image_id": 322, "width": 478, "height": 640}, "question": "What is written on the person?", "prediction": {"text": "There is no person in the image.", "masks": []}}
+{"image": {"image_id": 330, "width": 640, "height": 531}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair visible in the image, so nothing is written on one.", "masks": []}}
+{"image": {"image_id": 337, "width": 360, "height": 640}, "question": "What is written on the person?", "prediction": {"text": "There is no person in the image.", "masks": []}}
+{"image": {"image_id": 341, "width": 500, "height": 375}, "question": "What is written on the bottle?", "prediction": {"text": "Nothing can be read on the bottle.", "masks": []}}
+{"image": {"image_id": 343, "width": 640, "height": 427}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair in the image.", "masks": []}}
+{"image": {"image_id": 370, "width": 640, "height": 427}, "question": "What is written on the person?", "prediction": {"text": "There is no person in the image, so nothing is written on a person.", "masks": []}}
+{"image": {"image_id": 380, "width": 640, "height": 480}, "question": "What is written on the bottle?", "prediction": {"text": "There is no bottle visible in the image.", "masks": []}}
+{"image": {"image_id": 390, "width": 640, "height": 480}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair visible in the image.", "masks": []}}
+{"image": {"image_id": 398, "width": 486, "height": 640}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair in the image.", "masks": []}}
+{"image": {"image_id": 415, "width": 480, "height": 640}, "question": "What is written on the person?", "prediction": {"text": "There is no person in the image, so nothing is written on a person.", "masks": []}}
+{"image": {"image_id": 481, "width": 640, "height": 640}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"SOS\".", "masks": []}}
+{"image": {"image_id": 483, "width": 334, "height": 500}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text that appears in the image is \"STOP\".", "masks": []}}
+{"image": {"image_id": 485, "width": 640, "height": 425}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says http://the4moose.blogspot.com.", "masks": []}}
+{"image": {"image_id": 487, "width": 640, "height": 529}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says UCSB.", "masks": []}}
+{"image": {"image_id": 489, "width": 640, "height": 426}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is caseymultimedia.", "masks": []}}
+{"image": {"image_id": 491, "width": 500, "height": 375}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"STOP\".", "masks": []}}
+{"image": {"image_id": 493, "width": 427, "height": 640}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says Isabel a Cuisine.com.", "masks": []}}
+{"image": {"image_id": 495, "width": 333, "height": 500}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"LSU\".", "masks": []}}
+{"image": {"image_id": 497, "width": 500, "height": 500}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"ImageMD\".", "masks": []}}
+{"image": {"image_id": 499, "width": 375, "height": 500}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is Zegna.", "masks": []}}
+{"image": {"image_id": 501, "width": 481, "height": 640}, "question": "What does the text in the image say?", "prediction": {"text": "The text says \"PEACE\".", "masks": []}}
+{"image": {"image_id": 503, "width": 640, "height": 573}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"MHPRH\".", "masks": []}}
+{"image": {"image_id": 505, "width": 500, "height": 375}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says 2010/01/18.", "masks": []}}
+{"image": {"image_id": 507, "width": 500, "height": 375}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text that appears in the image is \"PARKING\".", "masks": []}}
+{"image": {"image_id": 509, "width": 640, "height": 428}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in the picture is \"Certland\".", "masks": []}}
+{"image": {"image_id": 511, "width": 500, "height": 333}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says www.claykessack.com.", "masks": []}}
+{"image": {"image_id": 513, "width": 500, "height": 375}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"GABI\".", "masks": []}}
+{"image": {"image_id": 515, "width": 500, "height": 375}, "question": "What does the text in the image say?", "prediction": {"text": "The text says \"HOPE\".", "masks": []}}
+{"image": {"image_id": 517, "width": 640, "height": 427}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"STOP\".", "masks": []}}
+{"image": {"image_id": 519, "width": 640, "height": 492}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is stop.", "masks": []}}
+{"image": {"image_id": 521, "width": 640, "height": 383}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is \"STD\".", "masks": []}}
+{"image": {"image_id": 523, "width": 640, "height": 427}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is Spare.", "masks": []}}
+{"image": {"image_id": 525, "width": 640, "height": 480}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"1918\".", "masks": []}}
+{"image": {"image_id": 527, "width": 640, "height": 480}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"0803\".", "masks": []}}
+{"image": {"image_id": 529, "width": 333, "height": 500}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is 13AU.", "masks": []}}
+{"image": {"image_id": 535, "width": 640, "height": 480}, "question": "What is written on the car?", "prediction": {"text": "The word \"iPod\" is written on the car.", "masks": []}}
+{"image": {"image_id": 538, "width": 640, "height": 426}, "question": "What is written on the person?", "prediction": {"text": "There is no person visible in the image to read text from.", "masks": []}}
+{"image": {"image_id": 548, "width": 640, "height": 264}, "question": "What is written on the chair?", "prediction": {"text": "Nothing is written on the chair.", "masks": []}}
+{"image": {"image_id": 317, "width": 640, "height": 381}, "question": "What is written on the chair?", "prediction": {"text": "There is nothing written on the chair.", "masks": []}}
+{"image": {"image_id": 327, "width": 500, "height": 333}, "question": "What is written on the person?", "prediction": {"text": "There is no text written on the person.", "masks": []}}
+{"image": {"image_id": 333, "width": 640, "height": 480}, "question": "What is written on the dining table?", "prediction": {"text": "There is no dining table visible in the image.", "masks": []}}
+{"image": {"image_id": 339, "width": 424, "height": 640}, "question": "What is written on the chair?", "prediction": {"text": "There are no chairs in the image.", "masks": []}}
+{"image": {"image_id": 342, "width": 640, "height": 480}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair visible in the image.", "masks": []}}
+{"image": {"image_id": 359, "width": 640, "height": 474}, "question": "What is written on the dining table?", "prediction": {"text": "There is no dining table in the image.", "masks": []}}
+{"image": {"image_id": 373, "width": 427, "height": 640}, "question": "What is written on the car?", "prediction": {"text": "There is no car in the image.", "masks": []}}
+{"image": {"image_id": 386, "width": 640, "height": 427}, "question": "What is written on the cup?", "prediction": {"text": "There is no cup with writing visible in the image.", "masks": []}}
+{"image": {"image_id": 392, "width": 640, "height": 427}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair in the image.", "masks": []}}
+{"image": {"image_id": 401, "width": 640, "height": 600}, "question": "What is written on the chair?", "prediction": {"text": "There is no chair visible in the image.", "masks": []}}
+{"image": {"image_id": 420, "width": 427, "height": 640}, "question": "What is written on the chair?", "prediction": {"text": "There is no text written on the chair.", "masks": []}}
+{"image": {"image_id": 482, "width": 640, "height": 482}, "question": "Read the text that appears in the image.", "prediction": {"text": "There is no text in the image.", "masks": []}}
+{"image": {"image_id": 484, "width": 640, "height": 427}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is stop.", "masks": []}}
+{"image": {"image_id": 486, "width": 640, "height": 427}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is TXEMA AGUILAR.", "masks": []}}
+{"image": {"image_id": 488, "width": 640, "height": 424}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"ALTO\".", "masks": []}}
+{"image": {"image_id": 490, "width": 640, "height": 480}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"BISTRO\".", "masks": []}}
+{"image": {"image_id": 492, "width": 612, "height": 612}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"BERGHOF\".", "masks": []}}
+{"image": {"image_id": 494, "width": 640, "height": 431}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"RUSTY\".", "masks": []}}
+{"image": {"image_id": 496, "width": 640, "height": 424}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is BRISBANE.", "masks": []}}
+{"image": {"image_id": 498, "width": 640, "height": 425}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says BRYANELKUS.COM.", "masks": []}}
+{"image": {"image_id": 500, "width": 640, "height": 426}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text in the image is \"STOP\".", "masks": []}}
+{"image": {"image_id": 502, "width": 640, "height": 424}, "question": "What does the text in the image say?", "prediction": {"text": "The text says \"SO\".", "masks": []}}
+{"image": {"image_id": 504, "width": 640, "height": 426}, "question": "What does the text in the image say?", "prediction": {"text": "The text says \"Like\".", "masks": []}}
+{"image": {"image_id": 506, "width": 500, "height": 375}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is NIKE.", "masks": []}}
+{"image": {"image_id": 508, "width": 375, "height": 500}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text that appears in the image is \"STOP\".", "masks": []}}
+{"image": {"image_id": 510, "width": 479, "height": 640}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is snowbird.", "masks": []}}
+{"image": {"image_id": 512, "width": 332, "height": 500}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text that appears in the image is \"FLOWERS\".", "masks": []}}
+{"image": {"image_id": 514, "width": 640, "height": 271}, "question": "Read the text that appears in the image.", "prediction": {"text": "The text that appears in the image is \"smart\".", "masks": []}}
+{"image": {"image_id": 516, "width": 427, "height": 640}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is Batman.", "masks": []}}
+{"image": {"image_id": 518, "width": 640, "height": 480}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"GIANTS\".", "masks": []}}
+{"image": {"image_id": 520, "width": 640, "height": 480}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is \"JULY\".", "masks": []}}
+{"image": {"image_id": 522, "width": 640, "height": 480}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"hush potato.\"", "masks": []}}
+{"image": {"image_id": 524, "width": 640, "height": 427}, "question": "What does the text in the image say?", "prediction": {"text": "The text says \"STOP\".", "masks": []}}
+{"image": {"image_id": 526, "width": 480, "height": 640}, "question": "What does the text in the image say?", "prediction": {"text": "The text says \"Happy\".", "masks": []}}
+{"image": {"image_id": 528, "width": 427, "height": 640}, "question": "What does the text in the image say?", "prediction": {"text": "The text in the image says \"Hooters\".", "masks": []}}
+{"image": {"image_id": 530, "width": 640, "height": 480}, "question": "What word is written in this picture?", "prediction": {"text": "The word written in this picture is \"adidas\".", "masks": []}}
+{"image": {"image_id": 537, "width": 480, "height": 640}, "question": "What is written on the person?", "prediction": {"text": "There is no person in the image.", "masks": []}}
+{"image": {"image_id": 542, "width": 640, "height": 427}, "question": "What is written on the person?", "prediction": {"text": "There is no person visible in the image.", "masks": []}}

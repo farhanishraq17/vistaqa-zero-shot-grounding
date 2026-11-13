@@ -1,0 +1,120 @@
+{"image": {"image_id": 4, "width": 800, "height": 600}, "question": "What value is directly below the Monday value in the Music column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 11, "width": 800, "height": 600}, "question": "Which point is higher, F or G?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 16, "width": 800, "height": 600}, "question": "Which is greater in the Art column, the Wednesday value or the Friday value?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 19, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Apples?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 22, "width": 800, "height": 600}, "question": "Which day has the highest value in the Math column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 28, "width": 800, "height": 600}, "question": "What is the value in the Monday row of the Math column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 30, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Pears?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 31, "width": 800, "height": 600}, "question": "How much greater is the value of Mangoes than the value of Apples?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 34, "width": 800, "height": 600}, "question": "What is the value in the Wednesday row of the Art column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 37, "width": 800, "height": 600}, "question": "Which category has the lowest value in the bar chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 40, "width": 800, "height": 600}, "question": "What value is directly below the Tuesday value in the Sport column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 42, "width": 800, "height": 600}, "question": "Which share is larger, Lemons or Oranges?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 45, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex Q?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 47, "width": 800, "height": 600}, "question": "Which point is higher, C or E?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 52, "width": 800, "height": 600}, "question": "Which is greater in the Math column, the Friday value or the Monday value?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 55, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Bananas?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 66, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Dates?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 67, "width": 800, "height": 600}, "question": "How much greater is the value of Kiwis than the value of Figs?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 76, "width": 800, "height": 600}, "question": "What value is directly below the Friday value in the Music column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 78, "width": 800, "height": 600}, "question": "Which share is larger, Plums or Figs?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 80, "width": 800, "height": 600}, "question": "What number is written inside the red pentagon near column 2?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 81, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex C?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 83, "width": 800, "height": 600}, "question": "Which point is higher, K or C?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 93, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 94, "width": 800, "height": 600}, "question": "Which day has the highest value in the Music column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 98, "width": 800, "height": 600}, "question": "Are there more squares or pentagons in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 103, "width": 800, "height": 600}, "question": "How much greater is the value of Cherries than the value of Dates?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 105, "width": 800, "height": 600}, "question": "What is the perimeter of rectangle JTHF?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 106, "width": 800, "height": 600}, "question": "What is the value in the Thursday row of the Music column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 112, "width": 800, "height": 600}, "question": "What value is directly below the Friday value in the Math column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 114, "width": 800, "height": 600}, "question": "Which share is larger, Kiwis or Dates?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 117, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex R?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 119, "width": 800, "height": 600}, "question": "Which point is higher, J or H?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 122, "width": 800, "height": 600}, "question": "What shape is directly above the orange pentagon?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 124, "width": 800, "height": 600}, "question": "Which is greater in the Art column, the Friday value or the Wednesday value?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 127, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Plums?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 138, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Lemons?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 142, "width": 800, "height": 600}, "question": "What is the value in the Monday row of the Math column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 148, "width": 800, "height": 600}, "question": "What value is directly below the Thursday value in the Music column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 184, "width": 640, "height": 480}, "question": "What is the cracker box next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 194, "width": 640, "height": 480}, "question": "What is the wood block next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 261, "width": 640, "height": 480}, "question": "Which appears larger in the image, the tomato soup can or the bleach bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 262, "width": 640, "height": 480}, "question": "Which appears larger in the image, the bleach bottle or the foam brick?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 263, "width": 640, "height": 480}, "question": "Which appears larger in the image, the sugar box or the scissors?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 265, "width": 640, "height": 480}, "question": "Which appears larger in the image, the watering can or the toy duck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 266, "width": 640, "height": 480}, "question": "Which appears larger in the image, the sugar box or the scissors?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 267, "width": 640, "height": 480}, "question": "Which appears larger in the image, the tomato soup can or the marker?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 268, "width": 640, "height": 480}, "question": "Which appears larger in the image, the watering can or the glue bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 269, "width": 640, "height": 480}, "question": "Which appears larger in the image, the tuna fish can or the marker?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 270, "width": 640, "height": 480}, "question": "Which appears larger in the image, the tomato soup can or the marker?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 271, "width": 640, "height": 480}, "question": "Which appears larger in the image, the power drill or the large clamp?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 272, "width": 640, "height": 480}, "question": "Which appears larger in the image, the power drill or the large clamp?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 273, "width": 640, "height": 480}, "question": "Which appears larger in the image, the pitcher or the power drill?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 274, "width": 640, "height": 480}, "question": "Which appears larger in the image, the tomato soup can or the marker?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 275, "width": 640, "height": 480}, "question": "Which appears larger in the image, the cracker box or the tomato soup can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 276, "width": 640, "height": 480}, "question": "Which appears larger in the image, the pudding box or the pitcher?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 277, "width": 640, "height": 480}, "question": "Is the bleach bottle to the left or to the right of the foam brick?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 278, "width": 640, "height": 480}, "question": "Is the toy ape to the left or to the right of the watering can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 284, "width": 640, "height": 480}, "question": "Is the watering can to the left or to the right of the toy duck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 286, "width": 640, "height": 480}, "question": "Is the tomato soup can to the left or to the right of the mug?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 289, "width": 640, "height": 480}, "question": "Is the cracker box to the left or to the right of the mustard bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 290, "width": 640, "height": 480}, "question": "Is the watering can to the left or to the right of the power drill?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 292, "width": 640, "height": 480}, "question": "Is the master chef can to the left or to the right of the mug?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 297, "width": 640, "height": 480}, "question": "Is the cracker box to the left or to the right of the tomato soup can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 298, "width": 640, "height": 480}, "question": "Is the tomato soup can to the left or to the right of the foam brick?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 299, "width": 640, "height": 480}, "question": "Is the mug to the left or to the right of the extra large clamp?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 326, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 329, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 330, "width": 360, "height": 360}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 331, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 332, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 333, "width": 696, "height": 520}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 336, "width": 360, "height": 360}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 337, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 339, "width": 696, "height": 520}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 341, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 343, "width": 320, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 345, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 346, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 347, "width": 640, "height": 512}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 350, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 352, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 353, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 354, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 355, "width": 696, "height": 520}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 356, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 357, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 358, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 361, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 362, "width": 696, "height": 520}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 363, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 364, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 365, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 366, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 367, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 368, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 369, "width": 256, "height": 256}, "question": "Are the nuclei brighter or darker than the background?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 432, "width": 1280, "height": 720}, "question": "What color are the traffic lights showing?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 433, "width": 1280, "height": 720}, "question": "What color are the traffic lights showing?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 441, "width": 1280, "height": 720}, "question": "What color are the traffic lights showing?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 447, "width": 1280, "height": 720}, "question": "What color are the traffic lights showing?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 449, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the rider?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 450, "width": 1280, "height": 720}, "question": "Are there more cars or pedestrians in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 451, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the pedestrian?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 453, "width": 1280, "height": 720}, "question": "Are there more pedestrians or traffic signs in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 454, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the motorcycle or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 455, "width": 1280, "height": 720}, "question": "Are there more pedestrians or traffic lights in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 456, "width": 1280, "height": 720}, "question": "Are there more cars or trucks in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 458, "width": 1280, "height": 720}, "question": "Are there more pedestrians or trucks in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 460, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the traffic sign or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 461, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bicycle or the pedestrian?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 462, "width": 1280, "height": 720}, "question": "Are there more cars or pedestrians in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 463, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 464, "width": 1280, "height": 720}, "question": "Are there more cars or trucks in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 465, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the pedestrian or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 466, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 467, "width": 1280, "height": 720}, "question": "Are there more cars or trucks in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 468, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the motorcycle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 520, "width": 1280, "height": 720}, "question": "What is the motorcycle next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 568, "width": 1280, "height": 720}, "question": "Is the bicycle to the left or to the right of the bus?", "prediction": {"text": "", "masks": []}}

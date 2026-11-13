@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.4733618681647507,
+    "text_acc": 0.6024200518582541,
+    "mask_miou": 0.5269750938116247
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5389059288039558
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.46801863906451574
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.42412081522547807
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.4887865159282987
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5532200780354624
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.3761154230828801
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6678144287388268
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5370409364073221
+      },
+      {
+        "group": "math",
+        "standard_average": 0.25489843122508554
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5353186295372236
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.3070911528294942
+      },
+      {
+        "group": "science",
+        "standard_average": 0.48094278558291637
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.43018942048234465
+      },
+      {
+        "group": "true",
+        "standard_average": 0.5892675159235669
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.5892675159235669
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.46974119897350314
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.3347527403984156
+      }
+    ]
+  }
+}

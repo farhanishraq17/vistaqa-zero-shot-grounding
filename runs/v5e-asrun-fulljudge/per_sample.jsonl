@@ -1,0 +1,5 @@
+{"image_id": 167, "task_type": "identification", "domain": "math", "is_hallucination": false, "instance_group": "single_instance", "standard_average": 0.703421240717349, "judge_model": "Qwen/Qwen2.5-14B-Instruct"}
+{"image_id": 465, "task_type": "comparison", "domain": "math", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.03316902497368247, "judge_model": "Qwen/Qwen2.5-14B-Instruct"}
+{"image_id": 653, "task_type": "attribute", "domain": "outdoor", "is_hallucination": false, "instance_group": "single_instance", "standard_average": 0.01, "judge_model": "Qwen/Qwen2.5-14B-Instruct"}
+{"image_id": 750, "task_type": "comparison", "domain": "math", "is_hallucination": false, "instance_group": "single_instance", "standard_average": 0.01, "judge_model": "Qwen/Qwen2.5-14B-Instruct"}
+{"image_id": 872, "task_type": "attribute", "domain": "math", "is_hallucination": true, "instance_group": "zero_instance", "standard_average": 0.1, "judge_model": "Qwen/Qwen2.5-14B-Instruct"}

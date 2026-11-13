@@ -1,0 +1,15 @@
+{
+ "cfg": {
+  "seg": "@/models/sam3",
+  "data": "@/data/proxy2",
+  "count_only": false
+ },
+ "concepts_from": "p2-prem",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "PC2",
+   "gpus": "0"
+  }
+ ]
+}

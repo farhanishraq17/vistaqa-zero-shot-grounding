@@ -1,0 +1,18 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-4B-Instruct",
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K07",
+   "kernel": "user18/vlm4rwd-dev-q3vl4b-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K08",
+   "kernel": "user12/vlm4rwd-dev-q3vl4b-s1"
+  }
+ ]
+}

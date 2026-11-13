@@ -1,0 +1,95 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3.6-27B",
+  "quant": "nf4",
+  "pip": [
+   "bitsandbytes"
+  ],
+  "max_memory": [
+   "14GiB",
+   "14GiB"
+  ],
+  "seg": "",
+  "expand_short": true,
+  "thinking": true,
+  "max_new_tokens": 4096,
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K01",
+   "kernel": "user16/vlm4rwd-dev-th-q36-27b-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K03",
+   "kernel": "user06/vlm4rwd-dev-th-q36-27b-s1"
+  },
+  {
+   "shard": 2,
+   "alias": "K04",
+   "kernel": "user10/vlm4rwd-dev-th-q36-27b-s2"
+  },
+  {
+   "shard": 3,
+   "alias": "K05",
+   "kernel": "user04/vlm4rwd-dev-th-q36-27b-s3"
+  },
+  {
+   "shard": 4,
+   "alias": "K06",
+   "kernel": "user03/vlm4rwd-dev-th-q36-27b-s4"
+  },
+  {
+   "shard": 5,
+   "alias": "K07",
+   "kernel": "user18/vlm4rwd-dev-th-q36-27b-s5"
+  },
+  {
+   "shard": 6,
+   "alias": "K08",
+   "kernel": "user12/vlm4rwd-dev-th-q36-27b-s6"
+  },
+  {
+   "shard": 7,
+   "alias": "K10",
+   "kernel": "user05/vlm4rwd-dev-th-q36-27b-s7"
+  },
+  {
+   "shard": 8,
+   "alias": "K11",
+   "kernel": "user08/vlm4rwd-dev-th-q36-27b-s8"
+  },
+  {
+   "shard": 9,
+   "alias": "K12",
+   "kernel": "user17/vlm4rwd-dev-th-q36-27b-s9"
+  },
+  {
+   "shard": 10,
+   "alias": "K13",
+   "kernel": "user14/vlm4rwd-dev-th-q36-27b-s10"
+  },
+  {
+   "shard": 11,
+   "alias": "K14",
+   "kernel": "user15/vlm4rwd-dev-th-q36-27b-s11"
+  },
+  {
+   "shard": 12,
+   "alias": "K15",
+   "kernel": "user13/vlm4rwd-dev-th-q36-27b-s12"
+  },
+  {
+   "shard": 13,
+   "alias": "K16",
+   "kernel": "user02/vlm4rwd-dev-th-q36-27b-s13"
+  },
+  {
+   "shard": 14,
+   "alias": "K17",
+   "kernel": "user01/vlm4rwd-dev-th-q36-27b-s14"
+  }
+ ]
+}

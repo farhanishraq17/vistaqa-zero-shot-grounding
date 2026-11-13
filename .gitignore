@@ -1,0 +1,58 @@
+# secrets
+Secrets.env
+*.env
+Scripts/.kaggle_home/
+
+# data (re-download: see PLAN.md)
+Competition Data/VistaQA/
+Competition Data/proxy_dev/
+Competition Data/premise_probe/
+Competition Data/count_probe/
+Competition Data/ocr_probe/
+Competition Data/external/
+Competition Data/.cache/
+
+# run artifacts (keep manifests + small results)
+runs/*/kernels/
+runs/*/judge/
+runs/*/out/
+runs/*/judge_out/
+runs/*/gt.jsonl
+kaggle/
+
+__pycache__/
+*.pyc
+runs/oracle*/
+Competition Data/proxy2/
+
+# probes built from MathVista (re-build: src/build_math_probe.py)
+Competition Data/math_probe/
+
+# report build outputs
+report/*.aux
+report/*.log
+report/*.bbl
+report/*.blg
+report/*.out
+report/*.pdf
+!report/qual.pdf
+# GT-derived proxy2 helpers (BDD100K boxes and their SAM3 masks): not ours to publish
+runs/p2-gtbox/
+runs/p2-gtmask/
+
+# clean public copy (built from this repo, has its own git)
+public_release/
+# V*Bench probe (re-build: src/build_vstar_probe.py)
+Competition Data/vstar_probe/
+# WSP practice set, COCO val2017 images (re-build: src/build_wsp_practice.py)
+Competition Data/wsp_practice/
+report/*.fdb_latexmk
+report/*.fls
+# proxy3 (mask verifier dev set), RefCOCOg val + COCO train2014 images (re-build: src/build_proxy3.py)
+Competition Data/proxy3/
+
+# Overleaf clone (own git remote; token read from Secrets.env)
+overleaf/
+
+# backup of the public copy's history before it was anonymized (never push)
+*.bundle

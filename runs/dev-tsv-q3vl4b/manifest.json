@@ -1,0 +1,20 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-4B-Instruct",
+  "mode": "two_stage",
+  "verify": true,
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K16",
+   "kernel": "user02/vlm4rwd-dev-tsv-q3vl4b-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K17",
+   "kernel": "user01/vlm4rwd-dev-tsv-q3vl4b-s1"
+  }
+ ]
+}

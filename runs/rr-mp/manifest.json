@@ -1,0 +1,23 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3.8-27B",
+  "quant": "nf4",
+  "pip": [
+   "bitsandbytes"
+  ],
+  "max_memory": [
+   "14GiB",
+   "14GiB"
+  ],
+  "seg": "",
+  "route": "reason",
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K17",
+   "kernel": "user01/vlm4rwd-rr-mp-s0"
+  }
+ ]
+}

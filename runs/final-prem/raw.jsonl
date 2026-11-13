@@ -1,0 +1,1157 @@
+{"image_id": 1, "raw": {"premise": "{\"missing\": \"vehicles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.7}
+{"image_id": 5, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.42}
+{"image_id": 9, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.49}
+{"image_id": 13, "raw": {"premise": "{\"missing\": \"dog\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.92}
+{"image_id": 17, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.19}
+{"image_id": 21, "raw": {"premise": "{\"missing\": \"object the robot is holding\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.0}
+{"image_id": 25, "raw": {"premise": "{\"missing\": \"license plate of red car\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.37}
+{"image_id": 29, "raw": {"premise": "{\"missing\": \"pedestrians\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.33}
+{"image_id": 33, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.36}
+{"image_id": 37, "raw": {"premise": "{\"missing\": \"hinges\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.34}
+{"image_id": 41, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.89}
+{"image_id": 45, "raw": {"premise": "{\"missing\": \"chairlift number 36\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 14.34}
+{"image_id": 49, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.86}
+{"image_id": 53, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 57, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.08}
+{"image_id": 61, "raw": {"premise": "{\"missing\": \"airplane\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.91}
+{"image_id": 65, "raw": {"premise": "{\"missing\": \"blue three-wheeled vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.3}
+{"image_id": 69, "raw": {"premise": "{\"missing\": \"kidney-shaped swimming pools\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.53}
+{"image_id": 73, "raw": {"premise": "{\"missing\": \"combinations of categories\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.92}
+{"image_id": 77, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.22}
+{"image_id": 81, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.97}
+{"image_id": 85, "raw": {"premise": "{\"missing\": \"Buavita mango juice\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.91}
+{"image_id": 89, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.34}
+{"image_id": 93, "raw": {"premise": "{\"missing\": \"object inside the plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.71}
+{"image_id": 97, "raw": {"premise": "{\"missing\": \"lane arrow\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.47}
+{"image_id": 101, "raw": {"premise": "{\"missing\": \"temporary objects\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.55}
+{"image_id": 105, "raw": {"premise": "{\"missing\": \"dwarf planets\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.34}
+{"image_id": 109, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.2}
+{"image_id": 113, "raw": {"premise": "{\"missing\": \"plastic bag\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.0}
+{"image_id": 117, "raw": {"premise": "{\"missing\": \"gripper of the front robotic arm\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.82}
+{"image_id": 121, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.26}
+{"image_id": 125, "raw": {"premise": "{\"missing\": \"license plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.43}
+{"image_id": 129, "raw": {"premise": "{\"missing\": \"tool to apply impact force to a nail\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.31}
+{"image_id": 133, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.03}
+{"image_id": 137, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.19}
+{"image_id": 141, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.47}
+{"image_id": 145, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.17}
+{"image_id": 149, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 153, "raw": {"premise": "{\"missing\": \"shopping bags\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.19}
+{"image_id": 157, "raw": {"premise": "{\"missing\": \"hair-like appendage\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.87}
+{"image_id": 161, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 165, "raw": {"premise": "{\"missing\": \"specific subspecies of fox\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.03}
+{"image_id": 169, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.92}
+{"image_id": 173, "raw": {"premise": "{\"missing\": \"neckerchief color of second doll on middle row of left machine\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.31}
+{"image_id": 177, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 181, "raw": {"premise": "{\"missing\": \"snack packages\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.82}
+{"image_id": 185, "raw": {"premise": "{\"missing\": \"vase\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.17}
+{"image_id": 189, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.78}
+{"image_id": 193, "raw": {"premise": "{\"missing\": \"driver of the three-wheeled vehicle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.64}
+{"image_id": 197, "raw": {"premise": "{\"missing\": \"fault labeled 'a'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.65}
+{"image_id": 201, "raw": {"premise": "{\"missing\": \"toy\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.9}
+{"image_id": 205, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.2}
+{"image_id": 209, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.71}
+{"image_id": 213, "raw": {"premise": "{\"missing\": \"clock time\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.19}
+{"image_id": 217, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.1}
+{"image_id": 221, "raw": {"premise": "{\"missing\": \"shape directly below blue pentagon\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.72}
+{"image_id": 225, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.98}
+{"image_id": 229, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.3}
+{"image_id": 233, "raw": {"premise": "{\"missing\": \"object held by man\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.28}
+{"image_id": 237, "raw": {"premise": "{\"missing\": \"person in green jacket\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.24}
+{"image_id": 241, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.54}
+{"image_id": 245, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.96}
+{"image_id": 249, "raw": {"premise": "{\"missing\": \"white truck\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.72}
+{"image_id": 253, "raw": {"premise": "{\"missing\": \"pen\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.2}
+{"image_id": 257, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 261, "raw": {"premise": "{\"missing\": \"Toronto gate number\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.57}
+{"image_id": 265, "raw": {"premise": "{\"missing\": \"person with red scarf and person to their right\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.38}
+{"image_id": 269, "raw": {"premise": "{\"missing\": \"desk\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.89}
+{"image_id": 273, "raw": {"premise": "{\"missing\": \"white laptop\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.38}
+{"image_id": 277, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 281, "raw": {"premise": "{\"missing\": \"purple cup\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.4}
+{"image_id": 285, "raw": {"premise": "{\"missing\": \"bridge at far left\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.67}
+{"image_id": 289, "raw": {"premise": "{\"missing\": \"cushions on sofa\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.49}
+{"image_id": 293, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 297, "raw": {"premise": "{\"missing\": \"plates\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.99}
+{"image_id": 301, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.87}
+{"image_id": 305, "raw": {"premise": "{\"missing\": \"motorcycles\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.44}
+{"image_id": 309, "raw": {"premise": "{\"missing\": \"emergency button\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.18}
+{"image_id": 313, "raw": {"premise": "{\"missing\": \"cellphone\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.38}
+{"image_id": 317, "raw": {"premise": "{\"missing\": \"child seat\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.53}
+{"image_id": 321, "raw": {"premise": "{\"missing\": \"price information\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.3}
+{"image_id": 325, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.31}
+{"image_id": 329, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.98}
+{"image_id": 333, "raw": {"premise": "{\"missing\": \"standing waiter\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.18}
+{"image_id": 337, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.04}
+{"image_id": 341, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.0}
+{"image_id": 345, "raw": {"premise": "{\"missing\": \"vertical signage banners\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.59}
+{"image_id": 349, "raw": {"premise": "{\"missing\": \"security guards\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.98}
+{"image_id": 353, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.05}
+{"image_id": 357, "raw": {"premise": "{\"missing\": \"workers wearing reflective vests\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.51}
+{"image_id": 361, "raw": {"premise": "{\"missing\": \"writing instrument\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.43}
+{"image_id": 365, "raw": {"premise": "{\"missing\": \"height clearance sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.9}
+{"image_id": 369, "raw": {"premise": "{\"missing\": \"cyclist\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.81}
+{"image_id": 373, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.35}
+{"image_id": 377, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.97}
+{"image_id": 381, "raw": {"premise": "{\"missing\": \"sign symbol\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.33}
+{"image_id": 385, "raw": {"premise": "{\"missing\": \"orange kettle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 389, "raw": {"premise": "{\"missing\": \"chairs\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.41}
+{"image_id": 393, "raw": {"premise": "{\"missing\": \"police officer on the right\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.59}
+{"image_id": 397, "raw": {"premise": "{\"missing\": \"green, bean-shaped organelle\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.73}
+{"image_id": 401, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.88}
+{"image_id": 405, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.98}
+{"image_id": 409, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.86}
+{"image_id": 413, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.74}
+{"image_id": 417, "raw": {"premise": "{\"missing\": \"traffic light\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.62}
+{"image_id": 421, "raw": {"premise": "{\"missing\": \"bird egg\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.32}
+{"image_id": 425, "raw": {"premise": "{\"missing\": \"Father's Day text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.01}
+{"image_id": 429, "raw": {"premise": "{\"missing\": \"BOS:311\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.44}
+{"image_id": 433, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.17}
+{"image_id": 437, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.74}
+{"image_id": 441, "raw": {"premise": "{\"missing\": \"white vehicles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.44}
+{"image_id": 445, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.22}
+{"image_id": 449, "raw": {"premise": "{\"missing\": \"clock time\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.98}
+{"image_id": 453, "raw": {"premise": "{\"missing\": \"traffic light pole\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.1}
+{"image_id": 457, "raw": {"premise": "{\"missing\": \"single large flower head with distinct fringe of long, thin petals\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 11.08}
+{"image_id": 461, "raw": {"premise": "{\"missing\": \"triangular prisms\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 13.78}
+{"image_id": 465, "raw": {"premise": "{\"missing\": \"blue stars\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.85}
+{"image_id": 469, "raw": {"premise": "{\"missing\": \"license plate on van\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.39}
+{"image_id": 473, "raw": {"premise": "{\"missing\": \"country representation\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.41}
+{"image_id": 477, "raw": {"premise": "{\"missing\": \"seating bench behind Chanel section\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.93}
+{"image_id": 481, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 485, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.98}
+{"image_id": 489, "raw": {"premise": "{\"missing\": \"warning sign with safety instructions\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 15.48}
+{"image_id": 493, "raw": {"premise": "{\"missing\": \"player marking Ronaldo\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.76}
+{"image_id": 497, "raw": {"premise": "{\"missing\": \"nearest cup\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.4}
+{"image_id": 501, "raw": {"premise": "{\"missing\": \"brand of potted plants\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.68}
+{"image_id": 505, "raw": {"premise": "{\"missing\": \"route number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.26}
+{"image_id": 509, "raw": {"premise": "{\"missing\": \"mirror\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.45}
+{"image_id": 513, "raw": {"premise": "{\"missing\": \"silver forks\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 517, "raw": {"premise": "{\"missing\": \"woman wearing yellow shirt\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.78}
+{"image_id": 521, "raw": {"premise": "{\"missing\": \"heavy machinery\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.71}
+{"image_id": 525, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.07}
+{"image_id": 529, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.82}
+{"image_id": 533, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.21}
+{"image_id": 537, "raw": {"premise": "{\"missing\": \"watch crown\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.81}
+{"image_id": 541, "raw": {"premise": "{\"missing\": \"bowl to the right of gray cup\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.07}
+{"image_id": 545, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.29}
+{"image_id": 549, "raw": {"premise": "{\"missing\": \"detergent brand\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 553, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.97}
+{"image_id": 557, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.03}
+{"image_id": 561, "raw": {"premise": "{\"missing\": \"palm trees\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.52}
+{"image_id": 565, "raw": {"premise": "{\"missing\": \"label 'd'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.47}
+{"image_id": 569, "raw": {"premise": "{\"missing\": \"person taking video\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.01}
+{"image_id": 573, "raw": {"premise": "{\"missing\": \"word on glass partition\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.99}
+{"image_id": 577, "raw": {"premise": "{\"missing\": \"tool to break window\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.23}
+{"image_id": 581, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.8}
+{"image_id": 585, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.48}
+{"image_id": 589, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.02}
+{"image_id": 593, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.94}
+{"image_id": 597, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.73}
+{"image_id": 601, "raw": {"premise": "{\"missing\": \"white script on chalkboard\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.41}
+{"image_id": 605, "raw": {"premise": "{\"missing\": \"purple shoe without stripes\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.29}
+{"image_id": 609, "raw": {"premise": "{\"missing\": \"store name across street\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.62}
+{"image_id": 613, "raw": {"premise": "{\"missing\": \"lamp\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.07}
+{"image_id": 617, "raw": {"premise": "{\"missing\": \"dispensing container\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.91}
+{"image_id": 621, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.48}
+{"image_id": 625, "raw": {"premise": "{\"missing\": \"vehicles transporting people\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.4}
+{"image_id": 629, "raw": {"premise": "{\"missing\": \"green truck\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.34}
+{"image_id": 633, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.87}
+{"image_id": 637, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.83}
+{"image_id": 641, "raw": {"premise": "{\"missing\": \"job title of Paul\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.38}
+{"image_id": 645, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.99}
+{"image_id": 649, "raw": {"premise": "{\"missing\": \"earthworm\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.75}
+{"image_id": 653, "raw": {"premise": "{\"missing\": \"first visible car parked in front of left side of Newlook Eyewear store\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 19.54}
+{"image_id": 657, "raw": {"premise": "{\"missing\": \"green street sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.16}
+{"image_id": 661, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.15}
+{"image_id": 665, "raw": {"premise": "{\"missing\": \"bridge\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.85}
+{"image_id": 669, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.53}
+{"image_id": 673, "raw": {"premise": "{\"missing\": \"motorcycle, bicycle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.42}
+{"image_id": 677, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.98}
+{"image_id": 681, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 685, "raw": {"premise": "{\"missing\": \"purple lantern\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.1}
+{"image_id": 689, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.82}
+{"image_id": 693, "raw": {"premise": "{\"missing\": \"chloroplasts\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.57}
+{"image_id": 697, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.89}
+{"image_id": 701, "raw": {"premise": "{\"missing\": \"label F\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.2}
+{"image_id": 705, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 709, "raw": {"premise": "{\"missing\": \"retweet count\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.55}
+{"image_id": 713, "raw": {"premise": "{\"missing\": \"scientific names of caddisfly\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.86}
+{"image_id": 717, "raw": {"premise": "{\"missing\": \"elephant labeled 5\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.32}
+{"image_id": 721, "raw": {"premise": "{\"missing\": \"building name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.57}
+{"image_id": 725, "raw": {"premise": "{\"missing\": \"bracelets on man in white shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.45}
+{"image_id": 729, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.44}
+{"image_id": 733, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.03}
+{"image_id": 737, "raw": {"premise": "{\"missing\": \"ego vehicle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.78}
+{"image_id": 741, "raw": {"premise": "{\"missing\": \"mobility device\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.9}
+{"image_id": 745, "raw": {"premise": "{\"missing\": \"laptop\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.35}
+{"image_id": 749, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.98}
+{"image_id": 753, "raw": {"premise": "{\"missing\": \"green circular object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.77}
+{"image_id": 757, "raw": {"premise": "{\"missing\": \"center cap\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.37}
+{"image_id": 761, "raw": {"premise": "{\"missing\": \"bed\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.01}
+{"image_id": 765, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.83}
+{"image_id": 769, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 773, "raw": {"premise": "{\"missing\": \"robotic arm's vertical support column\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.55}
+{"image_id": 777, "raw": {"premise": "{\"missing\": \"protective gear\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.6}
+{"image_id": 781, "raw": {"premise": "{\"missing\": \"non-golden domes\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.96}
+{"image_id": 785, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.96}
+{"image_id": 789, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.32}
+{"image_id": 793, "raw": {"premise": "{\"missing\": \"green container\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.42}
+{"image_id": 797, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.94}
+{"image_id": 801, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.94}
+{"image_id": 805, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.77}
+{"image_id": 809, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.51}
+{"image_id": 813, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.96}
+{"image_id": 817, "raw": {"premise": "{\"missing\": \"OCR camera system\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 13.47}
+{"image_id": 821, "raw": {"premise": "{\"missing\": \"beetroots\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.1}
+{"image_id": 825, "raw": {"premise": "{\"missing\": \"skyscrapers with rounded or cylindrical tops\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.61}
+{"image_id": 829, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.38}
+{"image_id": 833, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.27}
+{"image_id": 837, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.94}
+{"image_id": 841, "raw": {"premise": "{\"missing\": \"cap\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.59}
+{"image_id": 845, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.89}
+{"image_id": 849, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.86}
+{"image_id": 853, "raw": {"premise": "{\"missing\": \"ALUMNI HOUSE\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.22}
+{"image_id": 857, "raw": {"premise": "{\"missing\": \"dice with nine pips\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.57}
+{"image_id": 861, "raw": {"premise": "{\"missing\": \"object in cup\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.87}
+{"image_id": 865, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.92}
+{"image_id": 869, "raw": {"premise": "{\"missing\": \"brown cardboard boxes\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.91}
+{"image_id": 873, "raw": {"premise": "{\"missing\": \"stop sign\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.64}
+{"image_id": 877, "raw": {"premise": "{\"missing\": \"oxygen atoms\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.33}
+{"image_id": 881, "raw": {"premise": "{\"missing\": \"red balloons\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.49}
+{"image_id": 885, "raw": {"premise": "{\"missing\": \"animal that only feeds on minks\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.84}
+{"image_id": 889, "raw": {"premise": "{\"missing\": \"license plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.13}
+{"image_id": 893, "raw": {"premise": "{\"missing\": \"cyclist\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.27}
+{"image_id": 897, "raw": {"premise": "{\"missing\": \"powered appliance\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.41}
+{"image_id": 901, "raw": {"premise": "{\"missing\": \"paper towels\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.47}
+{"image_id": 905, "raw": {"premise": "{\"missing\": \"sea turtles\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.97}
+{"image_id": 909, "raw": {"premise": "{\"missing\": \"cup, marker\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.95}
+{"image_id": 913, "raw": {"premise": "{\"missing\": \"musical instrument\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.06}
+{"image_id": 917, "raw": {"premise": "{\"missing\": \"security check\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 12.65}
+{"image_id": 921, "raw": {"premise": "{\"missing\": \"white wood-boring larva\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 925, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.95}
+{"image_id": 929, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 933, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.44}
+{"image_id": 937, "raw": {"premise": "{\"missing\": \"address\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.96}
+{"image_id": 941, "raw": {"premise": "{\"missing\": \"construction worker on the right\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.99}
+{"image_id": 945, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.35}
+{"image_id": 949, "raw": {"premise": "{\"missing\": \"purple plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.48}
+{"image_id": 953, "raw": {"premise": "{\"missing\": \"stop sign, speed limit sign\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.66}
+{"image_id": 957, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.77}
+{"image_id": 961, "raw": {"premise": "{\"missing\": \"clearly visible vehicles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.17}
+{"image_id": 965, "raw": {"premise": "{\"missing\": \"phone number\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.52}
+{"image_id": 969, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.23}
+{"image_id": 973, "raw": {"premise": "{\"missing\": \"left hand of player behind ball holder\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.12}
+{"image_id": 977, "raw": {"premise": "{\"missing\": \"used cup\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.6}
+{"image_id": 981, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.93}
+{"image_id": 985, "raw": {"premise": "{\"missing\": \"robotic arm's base\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.69}
+{"image_id": 989, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.04}
+{"image_id": 993, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.04}
+{"image_id": 997, "raw": {"premise": "{\"missing\": \"the fourth hat from the right on the arched wall\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 17.38}
+{"image_id": 1001, "raw": {"premise": "{\"missing\": \"dice with eight pips\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.55}
+{"image_id": 1005, "raw": {"premise": "{\"missing\": \"keyboard\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.94}
+{"image_id": 1009, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.23}
+{"image_id": 1013, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.87}
+{"image_id": 1017, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.27}
+{"image_id": 1021, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.2}
+{"image_id": 1025, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.94}
+{"image_id": 1029, "raw": {"premise": "{\"missing\": \"child playing with a ball\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.74}
+{"image_id": 1033, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.09}
+{"image_id": 1037, "raw": {"premise": "{\"missing\": \"parking cost\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.13}
+{"image_id": 1041, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.21}
+{"image_id": 1045, "raw": {"premise": "{\"missing\": \"blue cars on left side of street\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.32}
+{"image_id": 1049, "raw": {"premise": "{\"missing\": \"van plate number\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.3}
+{"image_id": 1053, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 1057, "raw": {"premise": "{\"missing\": \"bowls on table\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.52}
+{"image_id": 1061, "raw": {"premise": "{\"missing\": \"necklace shape\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.71}
+{"image_id": 1065, "raw": {"premise": "{\"missing\": \"middle pillow\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.46}
+{"image_id": 1069, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.3}
+{"image_id": 1073, "raw": {"premise": "{\"missing\": \"street name on green sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.17}
+{"image_id": 1077, "raw": {"premise": "{\"missing\": \"visible black traction pads with feet straps\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.55}
+{"image_id": 1081, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.22}
+{"image_id": 1085, "raw": {"premise": "{\"missing\": \"name cards in last row\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 19.43}
+{"image_id": 1089, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.29}
+{"image_id": 1093, "raw": {"premise": "{\"missing\": \"ribbon around candle jar\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.15}
+{"image_id": 1097, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.11}
+{"image_id": 1101, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.83}
+{"image_id": 1105, "raw": {"premise": "{\"missing\": \"dictyostele and atactostele\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.09}
+{"image_id": 1109, "raw": {"premise": "{\"missing\": \"cars\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.29}
+{"image_id": 1113, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.86}
+{"image_id": 1117, "raw": {"premise": "{\"missing\": \"washing machine color\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.56}
+{"image_id": 1121, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.59}
+{"image_id": 1125, "raw": {"premise": "{\"missing\": \"ingredient bottle with black label\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.89}
+{"image_id": 1129, "raw": {"premise": "{\"missing\": \"cushions on benches\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.73}
+{"image_id": 1133, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 1137, "raw": {"premise": "{\"missing\": \"movie poster\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.46}
+{"image_id": 1141, "raw": {"premise": "{\"missing\": \"dish soap\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.45}
+{"image_id": 1145, "raw": {"premise": "{\"missing\": \"Gate C sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.68}
+{"image_id": 1149, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.28}
+{"image_id": 1153, "raw": {"premise": "{\"missing\": \"marine animal breaching\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.13}
+{"image_id": 1157, "raw": {"premise": "{\"missing\": \"turn lane marking\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.75}
+{"image_id": 2, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 17.66}
+{"image_id": 6, "raw": {"premise": "{\"missing\": \"helicopter\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.24}
+{"image_id": 10, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.64}
+{"image_id": 14, "raw": {"premise": "{\"missing\": \"centrioles\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.16}
+{"image_id": 18, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.67}
+{"image_id": 22, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.59}
+{"image_id": 26, "raw": {"premise": "{\"missing\": \"red motorcycle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.8}
+{"image_id": 30, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 34, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.85}
+{"image_id": 38, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.61}
+{"image_id": 42, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 46, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.53}
+{"image_id": 50, "raw": {"premise": "{\"missing\": \"open trunk\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.46}
+{"image_id": 54, "raw": {"premise": "{\"missing\": \"smaller red bowl\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.96}
+{"image_id": 58, "raw": {"premise": "{\"missing\": \"blue banner with text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.34}
+{"image_id": 62, "raw": {"premise": "{\"missing\": \"trays of sushi, trays of scallops\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.71}
+{"image_id": 66, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 70, "raw": {"premise": "{\"missing\": \"protective grip on clamp\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.15}
+{"image_id": 74, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.22}
+{"image_id": 78, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.52}
+{"image_id": 82, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.04}
+{"image_id": 86, "raw": {"premise": "{\"missing\": \"rim color\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.06}
+{"image_id": 90, "raw": {"premise": "{\"missing\": \"price tag\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.95}
+{"image_id": 94, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.79}
+{"image_id": 98, "raw": {"premise": "{\"missing\": \"blue benches\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.5}
+{"image_id": 102, "raw": {"premise": "{\"missing\": \"coconuts\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.12}
+{"image_id": 106, "raw": {"premise": "{\"missing\": \"white car\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.91}
+{"image_id": 110, "raw": {"premise": "{\"missing\": \"caterpillars\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.52}
+{"image_id": 114, "raw": {"premise": "{\"missing\": \"blue car\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.88}
+{"image_id": 118, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 122, "raw": {"premise": "{\"missing\": \"wine glass\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.69}
+{"image_id": 126, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.33}
+{"image_id": 130, "raw": {"premise": "{\"missing\": \"airplane\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.57}
+{"image_id": 134, "raw": {"premise": "{\"missing\": \"license plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.86}
+{"image_id": 138, "raw": {"premise": "{\"missing\": \"text on hanging decorations\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.49}
+{"image_id": 142, "raw": {"premise": "{\"missing\": \"atomic number\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.63}
+{"image_id": 146, "raw": {"premise": "{\"missing\": \"object to absorb water\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.44}
+{"image_id": 150, "raw": {"premise": "{\"missing\": \"fridge\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.5}
+{"image_id": 154, "raw": {"premise": "{\"missing\": \"letter 'E'\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.54}
+{"image_id": 158, "raw": {"premise": "{\"missing\": \"route number on bus\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.05}
+{"image_id": 162, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.64}
+{"image_id": 166, "raw": {"premise": "{\"missing\": \"brand name on bag\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.4}
+{"image_id": 170, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.88}
+{"image_id": 174, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 178, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.46}
+{"image_id": 182, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.07}
+{"image_id": 186, "raw": {"premise": "{\"missing\": \"tail feather patterns\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.32}
+{"image_id": 190, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.17}
+{"image_id": 194, "raw": {"premise": "{\"missing\": \"green and purple markers\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.55}
+{"image_id": 198, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.85}
+{"image_id": 202, "raw": {"premise": "{\"missing\": \"soap dispenser\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.55}
+{"image_id": 206, "raw": {"premise": "{\"missing\": \"section sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.08}
+{"image_id": 210, "raw": {"premise": "{\"missing\": \"hot air balloon\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.96}
+{"image_id": 214, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.35}
+{"image_id": 218, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.38}
+{"image_id": 222, "raw": {"premise": "{\"missing\": \"power supply object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.83}
+{"image_id": 226, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.0}
+{"image_id": 230, "raw": {"premise": "{\"missing\": \"white helmet rider with red and black jersey\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.28}
+{"image_id": 234, "raw": {"premise": "{\"missing\": \"drink bottles\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.53}
+{"image_id": 238, "raw": {"premise": "{\"missing\": \"child partially occluded by zoo sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.2}
+{"image_id": 242, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.01}
+{"image_id": 246, "raw": {"premise": "{\"missing\": \"blue dice\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.2}
+{"image_id": 250, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.06}
+{"image_id": 254, "raw": {"premise": "{\"missing\": \"green can\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.53}
+{"image_id": 258, "raw": {"premise": "{\"missing\": \"blue industrial object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.35}
+{"image_id": 262, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.14}
+{"image_id": 266, "raw": {"premise": "{\"missing\": \"license plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.92}
+{"image_id": 270, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 274, "raw": {"premise": "{\"missing\": \"satellite dish\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.1}
+{"image_id": 278, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.1}
+{"image_id": 282, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.82}
+{"image_id": 286, "raw": {"premise": "{\"missing\": \"robotic arm's gripper\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.12}
+{"image_id": 290, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 294, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.35}
+{"image_id": 298, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 302, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.29}
+{"image_id": 306, "raw": {"premise": "{\"missing\": \"bicycle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.71}
+{"image_id": 310, "raw": {"premise": "{\"missing\": \"side mirror\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.4}
+{"image_id": 314, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.25}
+{"image_id": 318, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.07}
+{"image_id": 322, "raw": {"premise": "{\"missing\": \"contact number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.62}
+{"image_id": 326, "raw": {"premise": "{\"missing\": \"cargo number on leftmost container\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 15.4}
+{"image_id": 330, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 334, "raw": {"premise": "{\"missing\": \"woman in white t-shirt with red lettering\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.52}
+{"image_id": 338, "raw": {"premise": "{\"missing\": \"feathery leaf at base of flower stalk in plant F\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 11.61}
+{"image_id": 342, "raw": {"premise": "{\"missing\": \"object to the left of the knife\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.8}
+{"image_id": 346, "raw": {"premise": "{\"missing\": \"recording device\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.74}
+{"image_id": 350, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.25}
+{"image_id": 354, "raw": {"premise": "{\"missing\": \"watch time\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.31}
+{"image_id": 358, "raw": {"premise": "{\"missing\": \"red protons\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.05}
+{"image_id": 362, "raw": {"premise": "{\"missing\": \"lemons\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.55}
+{"image_id": 366, "raw": {"premise": "{\"missing\": \"kitchenware\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.86}
+{"image_id": 370, "raw": {"premise": "{\"missing\": \"specific songbird species\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.71}
+{"image_id": 374, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.37}
+{"image_id": 378, "raw": {"premise": "{\"missing\": \"red organelle\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 382, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.32}
+{"image_id": 386, "raw": {"premise": "{\"missing\": \"nighttime illumination devices\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.46}
+{"image_id": 390, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.42}
+{"image_id": 394, "raw": {"premise": "{\"missing\": \"toaster, coffee maker, robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.09}
+{"image_id": 398, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.98}
+{"image_id": 402, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 406, "raw": {"premise": "{\"missing\": \"clock time\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.3}
+{"image_id": 410, "raw": {"premise": "{\"missing\": \"ego vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.4}
+{"image_id": 414, "raw": {"premise": "{\"missing\": \"ribbon\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.02}
+{"image_id": 418, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.14}
+{"image_id": 422, "raw": {"premise": "{\"missing\": \"oxygen tank\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.86}
+{"image_id": 426, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.98}
+{"image_id": 430, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.4}
+{"image_id": 434, "raw": {"premise": "{\"missing\": \"road-direction sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.04}
+{"image_id": 438, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.02}
+{"image_id": 442, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 446, "raw": {"premise": "{\"missing\": \"vase on second shelf behind seated person\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.1}
+{"image_id": 450, "raw": {"premise": "{\"missing\": \"planet labeled 'g'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.06}
+{"image_id": 454, "raw": {"premise": "{\"missing\": \"text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.86}
+{"image_id": 458, "raw": {"premise": "{\"missing\": \"public transportation\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.47}
+{"image_id": 462, "raw": {"premise": "{\"missing\": \"sheep\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.2}
+{"image_id": 466, "raw": {"premise": "{\"missing\": \"container for holding a beverage\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.69}
+{"image_id": 470, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.85}
+{"image_id": 474, "raw": {"premise": "{\"missing\": \"flower baskets\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.33}
+{"image_id": 478, "raw": {"premise": "{\"missing\": \"traffic light\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.49}
+{"image_id": 482, "raw": {"premise": "{\"missing\": \"desk\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.98}
+{"image_id": 486, "raw": {"premise": "{\"missing\": \"license plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.33}
+{"image_id": 490, "raw": {"premise": "{\"missing\": \"bottle on the third chair\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.3}
+{"image_id": 494, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.28}
+{"image_id": 498, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.87}
+{"image_id": 502, "raw": {"premise": "{\"missing\": \"diamond ring\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.21}
+{"image_id": 506, "raw": {"premise": "{\"missing\": \"blue ribbons\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.96}
+{"image_id": 510, "raw": {"premise": "{\"missing\": \"plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.59}
+{"image_id": 514, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.43}
+{"image_id": 518, "raw": {"premise": "{\"missing\": \"object beneath gripper\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.41}
+{"image_id": 522, "raw": {"premise": "{\"missing\": \"celestial body labeled 'b'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.14}
+{"image_id": 526, "raw": {"premise": "{\"missing\": \"person wearing patterned headscarves\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.73}
+{"image_id": 530, "raw": {"premise": "{\"missing\": \"container\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.8}
+{"image_id": 534, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.86}
+{"image_id": 538, "raw": {"premise": "{\"missing\": \"red vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.38}
+{"image_id": 542, "raw": {"premise": "{\"missing\": \"average revenue\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.18}
+{"image_id": 546, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.71}
+{"image_id": 550, "raw": {"premise": "{\"missing\": \"construction workers wearing helmets\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.78}
+{"image_id": 554, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.94}
+{"image_id": 558, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.08}
+{"image_id": 562, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.14}
+{"image_id": 566, "raw": {"premise": "{\"missing\": \"bin\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.55}
+{"image_id": 570, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.17}
+{"image_id": 574, "raw": {"premise": "{\"missing\": \"man in navy suit\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.43}
+{"image_id": 578, "raw": {"premise": "{\"missing\": \"visit hours for October\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.29}
+{"image_id": 582, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.22}
+{"image_id": 586, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.9}
+{"image_id": 590, "raw": {"premise": "{\"missing\": \"purple circles\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.17}
+{"image_id": 594, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.06}
+{"image_id": 598, "raw": {"premise": "{\"missing\": \"purple book\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 602, "raw": {"premise": "{\"missing\": \"fence posts\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.12}
+{"image_id": 606, "raw": {"premise": "{\"missing\": \"kufi\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.66}
+{"image_id": 610, "raw": {"premise": "{\"missing\": \"alarm clock\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.29}
+{"image_id": 614, "raw": {"premise": "{\"missing\": \"Pantoja Park sign\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.87}
+{"image_id": 618, "raw": {"premise": "{\"missing\": \"unusual vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.47}
+{"image_id": 622, "raw": {"premise": "{\"missing\": \"bright yellow cell\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.52}
+{"image_id": 626, "raw": {"premise": "{\"missing\": \"cyclist\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.28}
+{"image_id": 630, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 634, "raw": {"premise": "{\"missing\": \"ball being held\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.36}
+{"image_id": 638, "raw": {"premise": "{\"missing\": \"street sign text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.81}
+{"image_id": 642, "raw": {"premise": "{\"missing\": \"diameter of wooden branch\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.61}
+{"image_id": 646, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.15}
+{"image_id": 650, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.81}
+{"image_id": 654, "raw": {"premise": "{\"missing\": \"bottles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.76}
+{"image_id": 658, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 662, "raw": {"premise": "{\"missing\": \"sharks\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.82}
+{"image_id": 666, "raw": {"premise": "{\"missing\": \"orange taxis\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.95}
+{"image_id": 670, "raw": {"premise": "{\"missing\": \"speed limit sign\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.83}
+{"image_id": 674, "raw": {"premise": "{\"missing\": \"clearly visible vehicles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.31}
+{"image_id": 678, "raw": {"premise": "{\"missing\": \"crossbow\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 19.49}
+{"image_id": 682, "raw": {"premise": "{\"missing\": \"hanging ceiling lights above left wall shelves\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.77}
+{"image_id": 686, "raw": {"premise": "{\"missing\": \"vehicle parked on the left side of the white wall on the right\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.52}
+{"image_id": 690, "raw": {"premise": "{\"missing\": \"workers\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.86}
+{"image_id": 694, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.73}
+{"image_id": 698, "raw": {"premise": "{\"missing\": \"yellow hatched stripes\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.4}
+{"image_id": 702, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.84}
+{"image_id": 706, "raw": {"premise": "{\"missing\": \"knife\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.82}
+{"image_id": 710, "raw": {"premise": "{\"missing\": \"ozone layer\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.0}
+{"image_id": 714, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.99}
+{"image_id": 718, "raw": {"premise": "{\"missing\": \"drill bit size or torque setting\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.37}
+{"image_id": 722, "raw": {"premise": "{\"missing\": \"clear glass pitcher\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.69}
+{"image_id": 726, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.88}
+{"image_id": 730, "raw": {"premise": "{\"missing\": \"van\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.99}
+{"image_id": 734, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.87}
+{"image_id": 738, "raw": {"premise": "{\"missing\": \"text on road sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.09}
+{"image_id": 742, "raw": {"premise": "{\"missing\": \"scissors\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.12}
+{"image_id": 746, "raw": {"premise": "{\"missing\": \"handlebars\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.19}
+{"image_id": 750, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 754, "raw": {"premise": "{\"missing\": \"silk cocoons being spun\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.93}
+{"image_id": 758, "raw": {"premise": "{\"missing\": \"red car license plate\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.36}
+{"image_id": 762, "raw": {"premise": "{\"missing\": \"person under the bridge\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.36}
+{"image_id": 766, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.87}
+{"image_id": 770, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.42}
+{"image_id": 774, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.22}
+{"image_id": 778, "raw": {"premise": "{\"missing\": \"flowers\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.46}
+{"image_id": 782, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 786, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.89}
+{"image_id": 790, "raw": {"premise": "{\"missing\": \"mall name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.43}
+{"image_id": 794, "raw": {"premise": "{\"missing\": \"white van\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.87}
+{"image_id": 798, "raw": {"premise": "{\"missing\": \"handheld tool\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.98}
+{"image_id": 802, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 806, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.26}
+{"image_id": 810, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.3}
+{"image_id": 814, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.02}
+{"image_id": 818, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.85}
+{"image_id": 822, "raw": {"premise": "{\"missing\": \"bags\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.06}
+{"image_id": 826, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.03}
+{"image_id": 830, "raw": {"premise": "{\"missing\": \"individual in front of SAMSUNG store\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.97}
+{"image_id": 834, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.03}
+{"image_id": 838, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.91}
+{"image_id": 842, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.38}
+{"image_id": 846, "raw": {"premise": "{\"missing\": \"company name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.36}
+{"image_id": 850, "raw": {"premise": "{\"missing\": \"individuals standing within the third arch on the second level\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.66}
+{"image_id": 854, "raw": {"premise": "{\"missing\": \"red pen\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 858, "raw": {"premise": "{\"missing\": \"jacket color\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.98}
+{"image_id": 862, "raw": {"premise": "{\"missing\": \"balloons\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.08}
+{"image_id": 866, "raw": {"premise": "{\"missing\": \"dining tables\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.66}
+{"image_id": 870, "raw": {"premise": "{\"missing\": \"pier\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.43}
+{"image_id": 874, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.87}
+{"image_id": 878, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.66}
+{"image_id": 882, "raw": {"premise": "{\"missing\": \"blue fibrous cluster labeled 'e'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.22}
+{"image_id": 886, "raw": {"premise": "{\"missing\": \"transparent panel leaning on the floor\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.68}
+{"image_id": 890, "raw": {"premise": "{\"missing\": \"sidewalk chalkboard with ice cream price\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.58}
+{"image_id": 894, "raw": {"premise": "{\"missing\": \"blue flower bouquets\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.23}
+{"image_id": 898, "raw": {"premise": "{\"missing\": \"spherical lamps\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.26}
+{"image_id": 902, "raw": {"premise": "{\"missing\": \"red 'Do Not Enter' sign\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.46}
+{"image_id": 906, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.73}
+{"image_id": 910, "raw": {"premise": "{\"missing\": \"man in white shirt walking away\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.52}
+{"image_id": 914, "raw": {"premise": "{\"missing\": \"plate, bowl\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.79}
+{"image_id": 918, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.39}
+{"image_id": 922, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.96}
+{"image_id": 926, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.95}
+{"image_id": 930, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.28}
+{"image_id": 934, "raw": {"premise": "{\"missing\": \"blueberries\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.44}
+{"image_id": 938, "raw": {"premise": "{\"missing\": \"excavator\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.39}
+{"image_id": 942, "raw": {"premise": "{\"missing\": \"yellow sign with arrow\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.29}
+{"image_id": 946, "raw": {"premise": "{\"missing\": \"woman in white dress near Starbucks entrance\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.36}
+{"image_id": 950, "raw": {"premise": "{\"missing\": \"can closest to the fridge\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.98}
+{"image_id": 954, "raw": {"premise": "{\"missing\": \"pedestrian\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.21}
+{"image_id": 958, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 962, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.91}
+{"image_id": 966, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.95}
+{"image_id": 970, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.92}
+{"image_id": 974, "raw": {"premise": "{\"missing\": \"pedestrian crossing\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.37}
+{"image_id": 978, "raw": {"premise": "{\"missing\": \"national flag\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.42}
+{"image_id": 982, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.95}
+{"image_id": 986, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.86}
+{"image_id": 990, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 994, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.45}
+{"image_id": 998, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.84}
+{"image_id": 1002, "raw": {"premise": "{\"missing\": \"bib number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.36}
+{"image_id": 1006, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.11}
+{"image_id": 1010, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.3}
+{"image_id": 1014, "raw": {"premise": "{\"missing\": \"phone number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.64}
+{"image_id": 1018, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.01}
+{"image_id": 1022, "raw": {"premise": "{\"missing\": \"helmet\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.49}
+{"image_id": 1026, "raw": {"premise": "{\"missing\": \"backpack on man in white\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.48}
+{"image_id": 1030, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.22}
+{"image_id": 1034, "raw": {"premise": "{\"missing\": \"dark blue-colored juice cartons\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.69}
+{"image_id": 1038, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.29}
+{"image_id": 1042, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.92}
+{"image_id": 1046, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 1050, "raw": {"premise": "{\"missing\": \"helmet\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.32}
+{"image_id": 1054, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.52}
+{"image_id": 1058, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.02}
+{"image_id": 1062, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.07}
+{"image_id": 1066, "raw": {"premise": "{\"missing\": \"referee holding penalty card\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.84}
+{"image_id": 1070, "raw": {"premise": "{\"missing\": \"text on signage\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.93}
+{"image_id": 1074, "raw": {"premise": "{\"missing\": \"bench\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.86}
+{"image_id": 1078, "raw": {"premise": "{\"missing\": \"crown-like micropyle opening\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.97}
+{"image_id": 1082, "raw": {"premise": "{\"missing\": \"closed black umbrella\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.82}
+{"image_id": 1086, "raw": {"premise": "{\"missing\": \"cylindrical wooden blocks\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.87}
+{"image_id": 1090, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.44}
+{"image_id": 1094, "raw": {"premise": "{\"missing\": \"text at top of left-hand staircase\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 19.42}
+{"image_id": 1098, "raw": {"premise": "{\"missing\": \"motorcycle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.48}
+{"image_id": 1102, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.94}
+{"image_id": 1106, "raw": {"premise": "{\"missing\": \"cleaning sponge\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.89}
+{"image_id": 1110, "raw": {"premise": "{\"missing\": \"person in cockpit\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.66}
+{"image_id": 1114, "raw": {"premise": "{\"missing\": \"orange sign with white text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.48}
+{"image_id": 1118, "raw": {"premise": "{\"missing\": \"person waving\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.71}
+{"image_id": 1122, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.25}
+{"image_id": 1126, "raw": {"premise": "{\"missing\": \"orange life ring\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.74}
+{"image_id": 1130, "raw": {"premise": "{\"missing\": \"plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.85}
+{"image_id": 1134, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.04}
+{"image_id": 1138, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.84}
+{"image_id": 1142, "raw": {"premise": "{\"missing\": \"crucifix\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.72}
+{"image_id": 1146, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.98}
+{"image_id": 1150, "raw": {"premise": "{\"missing\": \"blue sphere\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.49}
+{"image_id": 1154, "raw": {"premise": "{\"missing\": \"asteroid belt\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.33}
+{"image_id": 3, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.37}
+{"image_id": 7, "raw": {"premise": "{\"missing\": \"silver hand tool\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.37}
+{"image_id": 11, "raw": {"premise": "{\"missing\": \"object to remove\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.06}
+{"image_id": 15, "raw": {"premise": "{\"missing\": \"blue car\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.37}
+{"image_id": 19, "raw": {"premise": "{\"missing\": \"red and white building, parking vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.31}
+{"image_id": 23, "raw": {"premise": "{\"missing\": \"black hoodie, grey hoodie\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.81}
+{"image_id": 27, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.59}
+{"image_id": 31, "raw": {"premise": "{\"missing\": \"electronic ticker\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 18.01}
+{"image_id": 35, "raw": {"premise": "{\"missing\": \"object inside drawer\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 9.2}
+{"image_id": 39, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.38}
+{"image_id": 43, "raw": {"premise": "{\"missing\": \"window\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.51}
+{"image_id": 47, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.31}
+{"image_id": 51, "raw": {"premise": "{\"missing\": \"leaf base shape\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.46}
+{"image_id": 55, "raw": {"premise": "{\"missing\": \"leaf labeled R\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.88}
+{"image_id": 59, "raw": {"premise": "{\"missing\": \"movement indicator\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.79}
+{"image_id": 63, "raw": {"premise": "{\"missing\": \"watch crown\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.11}
+{"image_id": 67, "raw": {"premise": "{\"missing\": \"reinforcement object\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.79}
+{"image_id": 71, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.96}
+{"image_id": 75, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.76}
+{"image_id": 79, "raw": {"premise": "{\"missing\": \"red die with greatest pip count\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.48}
+{"image_id": 83, "raw": {"premise": "{\"missing\": \"blue blanket\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.37}
+{"image_id": 87, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.41}
+{"image_id": 91, "raw": {"premise": "{\"missing\": \"bicycle near entrance\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.96}
+{"image_id": 95, "raw": {"premise": "{\"missing\": \"drink\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.74}
+{"image_id": 99, "raw": {"premise": "{\"missing\": \"smallest object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.63}
+{"image_id": 103, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.29}
+{"image_id": 107, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.8}
+{"image_id": 111, "raw": {"premise": "{\"missing\": \"battery percentage\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.1}
+{"image_id": 115, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.78}
+{"image_id": 119, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.98}
+{"image_id": 123, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.48}
+{"image_id": 127, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.18}
+{"image_id": 131, "raw": {"premise": "{\"missing\": \"object on first chair\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.39}
+{"image_id": 135, "raw": {"premise": "{\"missing\": \"smart speaker\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.64}
+{"image_id": 139, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.34}
+{"image_id": 143, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.54}
+{"image_id": 147, "raw": {"premise": "{\"missing\": \"objects being discarded\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 18.71}
+{"image_id": 151, "raw": {"premise": "{\"missing\": \"cooking utensil\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.6}
+{"image_id": 155, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.3}
+{"image_id": 159, "raw": {"premise": "{\"missing\": \"pen\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 163, "raw": {"premise": "{\"missing\": \"octagons\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.99}
+{"image_id": 167, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.1}
+{"image_id": 171, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.34}
+{"image_id": 175, "raw": {"premise": "{\"missing\": \"silver kettle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.7}
+{"image_id": 179, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.14}
+{"image_id": 183, "raw": {"premise": "{\"missing\": \"toy sink\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 187, "raw": {"premise": "{\"missing\": \"clogged sink\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.7}
+{"image_id": 191, "raw": {"premise": "{\"missing\": \"battery percentage\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.39}
+{"image_id": 195, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.9}
+{"image_id": 199, "raw": {"premise": "{\"missing\": \"green car\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.3}
+{"image_id": 203, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.53}
+{"image_id": 207, "raw": {"premise": "{\"missing\": \"stack of metal rods\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.9}
+{"image_id": 211, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.06}
+{"image_id": 215, "raw": {"premise": "{\"missing\": \"electronegativity value\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.48}
+{"image_id": 219, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.26}
+{"image_id": 223, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.13}
+{"image_id": 227, "raw": {"premise": "{\"missing\": \"kickstand\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.83}
+{"image_id": 231, "raw": {"premise": "{\"missing\": \"central staircase\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 18.05}
+{"image_id": 235, "raw": {"premise": "{\"missing\": \"waiter\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.89}
+{"image_id": 239, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.36}
+{"image_id": 243, "raw": {"premise": "{\"missing\": \"score\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.21}
+{"image_id": 247, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.15}
+{"image_id": 251, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.02}
+{"image_id": 255, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.2}
+{"image_id": 259, "raw": {"premise": "{\"missing\": \"cyclist, pedestrian\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.86}
+{"image_id": 263, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.01}
+{"image_id": 267, "raw": {"premise": "{\"missing\": \"keyboard\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 271, "raw": {"premise": "{\"missing\": \"cell wall\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.71}
+{"image_id": 275, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.08}
+{"image_id": 279, "raw": {"premise": "{\"missing\": \"white fence\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.91}
+{"image_id": 283, "raw": {"premise": "{\"missing\": \"woman carrying Coach shopping bags\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 18.11}
+{"image_id": 287, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.07}
+{"image_id": 291, "raw": {"premise": "{\"missing\": \"purple block\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.64}
+{"image_id": 295, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.94}
+{"image_id": 299, "raw": {"premise": "{\"missing\": \"hot plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.64}
+{"image_id": 303, "raw": {"premise": "{\"missing\": \"shirt pattern\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.01}
+{"image_id": 307, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.82}
+{"image_id": 311, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.51}
+{"image_id": 315, "raw": {"premise": "{\"missing\": \"Potsdamer Platz sign\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 20.91}
+{"image_id": 319, "raw": {"premise": "{\"missing\": \"Protection\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.95}
+{"image_id": 323, "raw": {"premise": "{\"missing\": \"red sphere, oxygen atom\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.17}
+{"image_id": 327, "raw": {"premise": "{\"missing\": \"avian predator\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.27}
+{"image_id": 331, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.04}
+{"image_id": 335, "raw": {"premise": "{\"missing\": \"hair length of man in white shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.9}
+{"image_id": 339, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.58}
+{"image_id": 343, "raw": {"premise": "{\"missing\": \"unit of measurement\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 9.23}
+{"image_id": 347, "raw": {"premise": "{\"missing\": \"corporate entity name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.04}
+{"image_id": 351, "raw": {"premise": "{\"missing\": \"green cups\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.58}
+{"image_id": 355, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.35}
+{"image_id": 359, "raw": {"premise": "{\"missing\": \"dairy products\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 15.32}
+{"image_id": 363, "raw": {"premise": "{\"missing\": \"cyan plate\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.33}
+{"image_id": 367, "raw": {"premise": "{\"missing\": \"purple die with highest pip count\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 16.18}
+{"image_id": 371, "raw": {"premise": "{\"missing\": \"sound amplification device\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.18}
+{"image_id": 375, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.54}
+{"image_id": 379, "raw": {"premise": "{\"missing\": \"windmill blades\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.6}
+{"image_id": 383, "raw": {"premise": "{\"missing\": \"food seasoning\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.55}
+{"image_id": 387, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.43}
+{"image_id": 391, "raw": {"premise": "{\"missing\": \"volcanoes\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.37}
+{"image_id": 395, "raw": {"premise": "{\"missing\": \"cans\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.57}
+{"image_id": 399, "raw": {"premise": "{\"missing\": \"security guard\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.15}
+{"image_id": 403, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.72}
+{"image_id": 407, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.56}
+{"image_id": 411, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.23}
+{"image_id": 415, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.33}
+{"image_id": 419, "raw": {"premise": "{\"missing\": \"hanger of the cable cabin\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.06}
+{"image_id": 423, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.22}
+{"image_id": 427, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.22}
+{"image_id": 431, "raw": {"premise": "{\"missing\": \"driver riding electric scooter\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.59}
+{"image_id": 435, "raw": {"premise": "{\"missing\": \"cooked food on higher surface\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.72}
+{"image_id": 439, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.79}
+{"image_id": 443, "raw": {"premise": "{\"missing\": \"four-digit year on sign\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 18.78}
+{"image_id": 447, "raw": {"premise": "{\"missing\": \"object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.08}
+{"image_id": 451, "raw": {"premise": "{\"missing\": \"shopping cart\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.58}
+{"image_id": 455, "raw": {"premise": "{\"missing\": \"birds\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.59}
+{"image_id": 459, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.82}
+{"image_id": 463, "raw": {"premise": "{\"missing\": \"gray die farthest from the white die\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.3}
+{"image_id": 467, "raw": {"premise": "{\"missing\": \"bicycle lane markings\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.97}
+{"image_id": 471, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.25}
+{"image_id": 475, "raw": {"premise": "{\"missing\": \"centrioles\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.01}
+{"image_id": 479, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.24}
+{"image_id": 483, "raw": {"premise": "{\"missing\": \"person with colorful bag\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.52}
+{"image_id": 487, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.41}
+{"image_id": 491, "raw": {"premise": "{\"missing\": \"bird's eyes\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.05}
+{"image_id": 495, "raw": {"premise": "{\"missing\": \"bunny basket\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.2}
+{"image_id": 499, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.67}
+{"image_id": 503, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.01}
+{"image_id": 507, "raw": {"premise": "{\"missing\": \"ethanol\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.27}
+{"image_id": 511, "raw": {"premise": "{\"missing\": \"toy sink\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.72}
+{"image_id": 515, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.86}
+{"image_id": 519, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.37}
+{"image_id": 523, "raw": {"premise": "{\"missing\": \"opening hours\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.34}
+{"image_id": 527, "raw": {"premise": "{\"missing\": \"small white vase with floral decorations\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.93}
+{"image_id": 531, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.23}
+{"image_id": 535, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.25}
+{"image_id": 539, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.92}
+{"image_id": 543, "raw": {"premise": "{\"missing\": \"orange clothes\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.77}
+{"image_id": 547, "raw": {"premise": "{\"missing\": \"decagon\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.48}
+{"image_id": 551, "raw": {"premise": "{\"missing\": \"waxing gibbous phase\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 10.05}
+{"image_id": 555, "raw": {"premise": "{\"missing\": \"cutting tool\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.58}
+{"image_id": 559, "raw": {"premise": "{\"missing\": \"vehicle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.83}
+{"image_id": 563, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.58}
+{"image_id": 567, "raw": {"premise": "{\"missing\": \"lighthouse\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.29}
+{"image_id": 571, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.27}
+{"image_id": 575, "raw": {"premise": "{\"missing\": \"deadline\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.66}
+{"image_id": 579, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.94}
+{"image_id": 583, "raw": {"premise": "{\"missing\": \"pollen grains\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.53}
+{"image_id": 587, "raw": {"premise": "{\"missing\": \"die with nine pips\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 19.31}
+{"image_id": 591, "raw": {"premise": "{\"missing\": \"edible items\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.68}
+{"image_id": 595, "raw": {"premise": "{\"missing\": \"robot arm\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.62}
+{"image_id": 599, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.62}
+{"image_id": 603, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.75}
+{"image_id": 607, "raw": {"premise": "{\"missing\": \"sixth person from the right\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 18.78}
+{"image_id": 611, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.68}
+{"image_id": 615, "raw": {"premise": "{\"missing\": \"suitcase handle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.33}
+{"image_id": 619, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.4}
+{"image_id": 623, "raw": {"premise": "{\"missing\": \"seated exit ramp\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.17}
+{"image_id": 627, "raw": {"premise": "{\"missing\": \"person with camera\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.88}
+{"image_id": 631, "raw": {"premise": "{\"missing\": \"spray bottle with trigger mechanism\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.57}
+{"image_id": 635, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.86}
+{"image_id": 639, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.07}
+{"image_id": 643, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.25}
+{"image_id": 647, "raw": {"premise": "{\"missing\": \"container\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.38}
+{"image_id": 651, "raw": {"premise": "{\"missing\": \"gray balls\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.48}
+{"image_id": 655, "raw": {"premise": "{\"missing\": \"dish scrubber, sponge, or cleaning agent\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.2}
+{"image_id": 659, "raw": {"premise": "{\"missing\": \"circular structure\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.05}
+{"image_id": 663, "raw": {"premise": "{\"missing\": \"cup holder\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.47}
+{"image_id": 667, "raw": {"premise": "{\"missing\": \"yellow plates\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.4}
+{"image_id": 671, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.33}
+{"image_id": 675, "raw": {"premise": "{\"missing\": \"company name on fencing\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.35}
+{"image_id": 679, "raw": {"premise": "{\"missing\": \"tiny boat\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 683, "raw": {"premise": "{\"missing\": \"black die\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.41}
+{"image_id": 687, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 691, "raw": {"premise": "{\"missing\": \"boy shooting ball number 5\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 18.35}
+{"image_id": 695, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.08}
+{"image_id": 699, "raw": {"premise": "{\"missing\": \"purple tents\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 18.16}
+{"image_id": 703, "raw": {"premise": "{\"missing\": \"hoodie near potatoes\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.78}
+{"image_id": 707, "raw": {"premise": "{\"missing\": \"white die\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.83}
+{"image_id": 711, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.06}
+{"image_id": 715, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.28}
+{"image_id": 719, "raw": {"premise": "{\"missing\": \"kitchen trolley\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.9}
+{"image_id": 723, "raw": {"premise": "{\"missing\": \"power strip\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.76}
+{"image_id": 727, "raw": {"premise": "{\"missing\": \"street name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.77}
+{"image_id": 731, "raw": {"premise": "{\"missing\": \"title of green book\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.62}
+{"image_id": 735, "raw": {"premise": "{\"missing\": \"status indicator lights of the robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.71}
+{"image_id": 739, "raw": {"premise": "{\"missing\": \"plane 01812\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.05}
+{"image_id": 743, "raw": {"premise": "{\"missing\": \"license plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.39}
+{"image_id": 747, "raw": {"premise": "{\"missing\": \"black alignment line\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.81}
+{"image_id": 751, "raw": {"premise": "{\"missing\": \"people walking\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.53}
+{"image_id": 755, "raw": {"premise": "{\"missing\": \"street performers wearing bright yellow neon vests\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 17.37}
+{"image_id": 759, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 763, "raw": {"premise": "{\"missing\": \"red shopping bag\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.05}
+{"image_id": 767, "raw": {"premise": "{\"missing\": \"North America\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.28}
+{"image_id": 771, "raw": {"premise": "{\"missing\": \"suitcases\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.95}
+{"image_id": 775, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.4}
+{"image_id": 779, "raw": {"premise": "{\"missing\": \"robotic arm, laundry sorting task\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.54}
+{"image_id": 783, "raw": {"premise": "{\"missing\": \"protective gear\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.44}
+{"image_id": 787, "raw": {"premise": "{\"missing\": \"small circular bubbles\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.34}
+{"image_id": 791, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.78}
+{"image_id": 795, "raw": {"premise": "{\"missing\": \"round glass table\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 19.23}
+{"image_id": 799, "raw": {"premise": "{\"missing\": \"charging plug\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.43}
+{"image_id": 803, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.78}
+{"image_id": 807, "raw": {"premise": "{\"missing\": \"pedestrians\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.26}
+{"image_id": 811, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.24}
+{"image_id": 815, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.35}
+{"image_id": 819, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.65}
+{"image_id": 823, "raw": {"premise": "{\"missing\": \"pan\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 827, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.94}
+{"image_id": 831, "raw": {"premise": "{\"missing\": \"building number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.74}
+{"image_id": 835, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.42}
+{"image_id": 839, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.03}
+{"image_id": 843, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.38}
+{"image_id": 847, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.16}
+{"image_id": 851, "raw": {"premise": "{\"missing\": \"L-shaped objects\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 14.69}
+{"image_id": 855, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.34}
+{"image_id": 859, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.79}
+{"image_id": 863, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.47}
+{"image_id": 867, "raw": {"premise": "{\"missing\": \"robotic arm's gripper\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.34}
+{"image_id": 871, "raw": {"premise": "{\"missing\": \"text on tote bag\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.93}
+{"image_id": 875, "raw": {"premise": "{\"missing\": \"pedestrian signal\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.54}
+{"image_id": 879, "raw": {"premise": "{\"missing\": \"laptop brand\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.08}
+{"image_id": 883, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.27}
+{"image_id": 887, "raw": {"premise": "{\"missing\": \"person with partially obscured head\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.19}
+{"image_id": 891, "raw": {"premise": "{\"missing\": \"plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.37}
+{"image_id": 895, "raw": {"premise": "{\"missing\": \"target animal\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 18.4}
+{"image_id": 899, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.95}
+{"image_id": 903, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.03}
+{"image_id": 907, "raw": {"premise": "{\"missing\": \"plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.74}
+{"image_id": 911, "raw": {"premise": "{\"missing\": \"orange circles\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.49}
+{"image_id": 915, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.22}
+{"image_id": 919, "raw": {"premise": "{\"missing\": \"robotic arm's gripper\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.6}
+{"image_id": 923, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.32}
+{"image_id": 927, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.33}
+{"image_id": 931, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.74}
+{"image_id": 935, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.75}
+{"image_id": 939, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.23}
+{"image_id": 943, "raw": {"premise": "{\"missing\": \"steel spoon\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.36}
+{"image_id": 947, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.9}
+{"image_id": 951, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.84}
+{"image_id": 955, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.96}
+{"image_id": 959, "raw": {"premise": "{\"missing\": \"water filter\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.37}
+{"image_id": 963, "raw": {"premise": "{\"missing\": \"ego vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.29}
+{"image_id": 967, "raw": {"premise": "{\"missing\": \"Post Magazine app\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 17.49}
+{"image_id": 971, "raw": {"premise": "{\"missing\": \"human farmer\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.38}
+{"image_id": 975, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.48}
+{"image_id": 979, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.02}
+{"image_id": 983, "raw": {"premise": "{\"missing\": \"speed limit sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.71}
+{"image_id": 987, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.47}
+{"image_id": 991, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.34}
+{"image_id": 995, "raw": {"premise": "{\"missing\": \"banknote\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.71}
+{"image_id": 999, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.13}
+{"image_id": 1003, "raw": {"premise": "{\"missing\": \"transparent box\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 1007, "raw": {"premise": "{\"missing\": \"silver lid\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.3}
+{"image_id": 1011, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.04}
+{"image_id": 1015, "raw": {"premise": "{\"missing\": \"label 'b'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.92}
+{"image_id": 1019, "raw": {"premise": "{\"missing\": \"medicine containers\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.81}
+{"image_id": 1023, "raw": {"premise": "{\"missing\": \"green and yellow shoes\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 15.38}
+{"image_id": 1027, "raw": {"premise": "{\"missing\": \"stone\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.26}
+{"image_id": 1031, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.15}
+{"image_id": 1035, "raw": {"premise": "{\"missing\": \"aphelion\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.83}
+{"image_id": 1039, "raw": {"premise": "{\"missing\": \"large central vacuole\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 9.76}
+{"image_id": 1043, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.1}
+{"image_id": 1047, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.96}
+{"image_id": 1051, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.14}
+{"image_id": 1055, "raw": {"premise": "{\"missing\": \"street name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.97}
+{"image_id": 1059, "raw": {"premise": "{\"missing\": \"hexagonal patterned object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 18.39}
+{"image_id": 1063, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.14}
+{"image_id": 1067, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.69}
+{"image_id": 1071, "raw": {"premise": "{\"missing\": \"sensitive electronic equipment\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.66}
+{"image_id": 1075, "raw": {"premise": "{\"missing\": \"yellow No Parking signs\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.28}
+{"image_id": 1079, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.38}
+{"image_id": 1083, "raw": {"premise": "{\"missing\": \"crab\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.07}
+{"image_id": 1087, "raw": {"premise": "{\"missing\": \"genus name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.07}
+{"image_id": 1091, "raw": {"premise": "{\"missing\": \"orange die\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.58}
+{"image_id": 1095, "raw": {"premise": "{\"missing\": \"license plate text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 19.21}
+{"image_id": 1099, "raw": {"premise": "{\"missing\": \"business name on storefront\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 17.2}
+{"image_id": 1103, "raw": {"premise": "{\"missing\": \"coffee beans\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.94}
+{"image_id": 1107, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 9.2}
+{"image_id": 1111, "raw": {"premise": "{\"missing\": \"paper towels\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.8}
+{"image_id": 1115, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.46}
+{"image_id": 1119, "raw": {"premise": "{\"missing\": \"orange die\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.53}
+{"image_id": 1123, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.58}
+{"image_id": 1127, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.9}
+{"image_id": 1131, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.05}
+{"image_id": 1135, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.0}
+{"image_id": 1139, "raw": {"premise": "{\"missing\": \"phone number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.16}
+{"image_id": 1143, "raw": {"premise": "{\"missing\": \"license plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.45}
+{"image_id": 1147, "raw": {"premise": "{\"missing\": \"blue L shapes\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.49}
+{"image_id": 1151, "raw": {"premise": "{\"missing\": \"coffee price on menu board\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.33}
+{"image_id": 1155, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.91}
+{"image_id": 4, "raw": {"premise": "{\"missing\": \"green dashed lines\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.36}
+{"image_id": 8, "raw": {"premise": "{\"missing\": \"tall green plant\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.97}
+{"image_id": 12, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.29}
+{"image_id": 16, "raw": {"premise": "{\"missing\": \"signboard facing camera\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.74}
+{"image_id": 20, "raw": {"premise": "{\"missing\": \"silver-colored baskets\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.94}
+{"image_id": 24, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 28, "raw": {"premise": "{\"missing\": \"golf ball\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.22}
+{"image_id": 32, "raw": {"premise": "{\"missing\": \"orange suitcase\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.14}
+{"image_id": 36, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.85}
+{"image_id": 40, "raw": {"premise": "{\"missing\": \"bird's nest\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.93}
+{"image_id": 44, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.23}
+{"image_id": 48, "raw": {"premise": "{\"missing\": \"silver pen\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 52, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.95}
+{"image_id": 56, "raw": {"premise": "{\"missing\": \"advertisement slogan\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.66}
+{"image_id": 60, "raw": {"premise": "{\"missing\": \"red marker\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.32}
+{"image_id": 64, "raw": {"premise": "{\"missing\": \"earthworm\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.18}
+{"image_id": 68, "raw": {"premise": "{\"missing\": \"license plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.83}
+{"image_id": 72, "raw": {"premise": "{\"missing\": \"shopping basket\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.91}
+{"image_id": 76, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 80, "raw": {"premise": "{\"missing\": \"license plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.37}
+{"image_id": 84, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.13}
+{"image_id": 88, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.92}
+{"image_id": 92, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.89}
+{"image_id": 96, "raw": {"premise": "{\"missing\": \"fireplace\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 100, "raw": {"premise": "{\"missing\": \"dice with seven pips\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.2}
+{"image_id": 104, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.8}
+{"image_id": 108, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.63}
+{"image_id": 112, "raw": {"premise": "{\"missing\": \"bowl\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.3}
+{"image_id": 116, "raw": {"premise": "{\"missing\": \"kid wearing pink shoes\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.98}
+{"image_id": 120, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 124, "raw": {"premise": "{\"missing\": \"chili peppers\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.22}
+{"image_id": 128, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.67}
+{"image_id": 132, "raw": {"premise": "{\"missing\": \"medals\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.77}
+{"image_id": 136, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.97}
+{"image_id": 140, "raw": {"premise": "{\"missing\": \"lower hull of ferry\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.89}
+{"image_id": 144, "raw": {"premise": "{\"missing\": \"bus shelter\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.25}
+{"image_id": 148, "raw": {"premise": "{\"missing\": \"text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.84}
+{"image_id": 152, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.57}
+{"image_id": 156, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.79}
+{"image_id": 160, "raw": {"premise": "{\"missing\": \"ego vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.21}
+{"image_id": 164, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.53}
+{"image_id": 168, "raw": {"premise": "{\"missing\": \"instruction text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.08}
+{"image_id": 172, "raw": {"premise": "{\"missing\": \"cushion or chair\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.31}
+{"image_id": 176, "raw": {"premise": "{\"missing\": \"triangular shape\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.92}
+{"image_id": 180, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.56}
+{"image_id": 184, "raw": {"premise": "{\"missing\": \"red bus\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.34}
+{"image_id": 188, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.86}
+{"image_id": 192, "raw": {"premise": "{\"missing\": \"bridge connecting two identical circular towers\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.79}
+{"image_id": 196, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 200, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.57}
+{"image_id": 204, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.64}
+{"image_id": 208, "raw": {"premise": "{\"missing\": \"motorcycles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.07}
+{"image_id": 212, "raw": {"premise": "{\"missing\": \"radiators\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.86}
+{"image_id": 216, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.59}
+{"image_id": 220, "raw": {"premise": "{\"missing\": \"light-colored chess pieces\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.11}
+{"image_id": 224, "raw": {"premise": "{\"missing\": \"robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.42}
+{"image_id": 228, "raw": {"premise": "{\"missing\": \"status indicators on robotic arm\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.54}
+{"image_id": 232, "raw": {"premise": "{\"missing\": \"heavy-duty straps\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.14}
+{"image_id": 236, "raw": {"premise": "{\"missing\": \"brand and fragrance text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.67}
+{"image_id": 240, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.85}
+{"image_id": 244, "raw": {"premise": "{\"missing\": \"vehicle behind motorcycle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.48}
+{"image_id": 248, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.61}
+{"image_id": 252, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.5}
+{"image_id": 256, "raw": {"premise": "{\"missing\": \"license plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.16}
+{"image_id": 260, "raw": {"premise": "{\"missing\": \"cup\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 264, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.77}
+{"image_id": 268, "raw": {"premise": "{\"missing\": \"black car\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.13}
+{"image_id": 272, "raw": {"premise": "{\"missing\": \"high-heeled boot\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.62}
+{"image_id": 276, "raw": {"premise": "{\"missing\": \"cutting tool\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.41}
+{"image_id": 280, "raw": {"premise": "{\"missing\": \"woman holding cellphone, person wearing green T-shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.19}
+{"image_id": 284, "raw": {"premise": "{\"missing\": \"pedestrian bridge\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.08}
+{"image_id": 288, "raw": {"premise": "{\"missing\": \"rocky rings around planet 'd'\"}", "verify": "No."}, "parse_ok": true, "boxes": [], "sec": 10.27}
+{"image_id": 292, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.69}
+{"image_id": 296, "raw": {"premise": "{\"missing\": \"pineapples\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.32}
+{"image_id": 300, "raw": {"premise": "{\"missing\": \"skater wearing green pants\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.86}
+{"image_id": 304, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 308, "raw": {"premise": "{\"missing\": \"small table\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.97}
+{"image_id": 312, "raw": {"premise": "{\"missing\": \"white boat in center of waterway\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 15.24}
+{"image_id": 316, "raw": {"premise": "{\"missing\": \"Outer Core\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.29}
+{"image_id": 320, "raw": {"premise": "{\"missing\": \"liquid measuring tool\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.6}
+{"image_id": 324, "raw": {"premise": "{\"missing\": \"cups\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.18}
+{"image_id": 328, "raw": {"premise": "{\"missing\": \"person wearing green shirt with bib 5006\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.96}
+{"image_id": 332, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 336, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.65}
+{"image_id": 340, "raw": {"premise": "{\"missing\": \"route number\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.36}
+{"image_id": 344, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.76}
+{"image_id": 348, "raw": {"premise": "{\"missing\": \"satellite\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.78}
+{"image_id": 352, "raw": {"premise": "{\"missing\": \"object on woman's head\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.08}
+{"image_id": 356, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.72}
+{"image_id": 360, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.65}
+{"image_id": 364, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.9}
+{"image_id": 368, "raw": {"premise": "{\"missing\": \"basket\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.14}
+{"image_id": 372, "raw": {"premise": "{\"missing\": \"rictal bristles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.09}
+{"image_id": 376, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 380, "raw": {"premise": "{\"missing\": \"showering person, showering context\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.42}
+{"image_id": 384, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.85}
+{"image_id": 388, "raw": {"premise": "{\"missing\": \"fruits\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.87}
+{"image_id": 392, "raw": {"premise": "{\"missing\": \"blue die\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.62}
+{"image_id": 396, "raw": {"premise": "{\"missing\": \"grand piano\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.6}
+{"image_id": 400, "raw": {"premise": "{\"missing\": \"tip collection box\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.26}
+{"image_id": 404, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.0}
+{"image_id": 408, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.86}
+{"image_id": 412, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.72}
+{"image_id": 416, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.01}
+{"image_id": 420, "raw": {"premise": "{\"missing\": \"tympanum\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.49}
+{"image_id": 424, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 428, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.48}
+{"image_id": 432, "raw": {"premise": "{\"missing\": \"referee holding whistle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.5}
+{"image_id": 436, "raw": {"premise": "{\"missing\": \"balls in bowl\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.43}
+{"image_id": 440, "raw": {"premise": "{\"missing\": \"black backpack\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.13}
+{"image_id": 444, "raw": {"premise": "{\"missing\": \"Protozoa\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.68}
+{"image_id": 448, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.62}
+{"image_id": 452, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.64}
+{"image_id": 456, "raw": {"premise": "{\"missing\": \"cyclist\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.08}
+{"image_id": 460, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.16}
+{"image_id": 464, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.36}
+{"image_id": 468, "raw": {"premise": "{\"missing\": \"name of the person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.03}
+{"image_id": 472, "raw": {"premise": "{\"missing\": \"blue bowl\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.22}
+{"image_id": 476, "raw": {"premise": "{\"missing\": \"second white plate\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.6}
+{"image_id": 480, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.83}
+{"image_id": 484, "raw": {"premise": "{\"missing\": \"frying pan\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.4}
+{"image_id": 488, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.6}
+{"image_id": 492, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.35}
+{"image_id": 496, "raw": {"premise": "{\"missing\": \"hinges\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.87}
+{"image_id": 500, "raw": {"premise": "{\"missing\": \"school zone sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.68}
+{"image_id": 504, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.86}
+{"image_id": 508, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.81}
+{"image_id": 512, "raw": {"premise": "{\"missing\": \"vehicle type\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.01}
+{"image_id": 516, "raw": {"premise": "{\"missing\": \"rearmost rectangular prism\"}", "verify": "No."}, "parse_ok": true, "boxes": [], "sec": 14.38}
+{"image_id": 520, "raw": {"premise": "{\"missing\": \"cleaning supplies\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.65}
+{"image_id": 524, "raw": {"premise": "{\"missing\": \"statues\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.94}
+{"image_id": 528, "raw": {"premise": "{\"missing\": \"street name text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.18}
+{"image_id": 532, "raw": {"premise": "{\"missing\": \"medicine bottles\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.98}
+{"image_id": 536, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.53}
+{"image_id": 540, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.99}
+{"image_id": 544, "raw": {"premise": "{\"missing\": \"digital clock\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.06}
+{"image_id": 548, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.03}
+{"image_id": 552, "raw": {"premise": "{\"missing\": \"human figures\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.98}
+{"image_id": 556, "raw": {"premise": "{\"missing\": \"camera vehicle's status\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.01}
+{"image_id": 560, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.12}
+{"image_id": 564, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.55}
+{"image_id": 568, "raw": {"premise": "{\"missing\": \"reflection of driver\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.2}
+{"image_id": 572, "raw": {"premise": "{\"missing\": \"gray suitcase\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.0}
+{"image_id": 576, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.63}
+{"image_id": 580, "raw": {"premise": "{\"missing\": \"object in bowl\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.63}
+{"image_id": 584, "raw": {"premise": "{\"missing\": \"textile items\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.5}
+{"image_id": 588, "raw": {"premise": "{\"missing\": \"bench\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.64}
+{"image_id": 592, "raw": {"premise": "{\"missing\": \"person wearing white sun hat\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.35}
+{"image_id": 596, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.57}
+{"image_id": 600, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.59}
+{"image_id": 604, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.74}
+{"image_id": 608, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.6}
+{"image_id": 612, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.78}
+{"image_id": 616, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.78}
+{"image_id": 620, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.98}
+{"image_id": 624, "raw": {"premise": "{\"missing\": \"green traffic light\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.7}
+{"image_id": 628, "raw": {"premise": "{\"missing\": \"red bus\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.13}
+{"image_id": 632, "raw": {"premise": "{\"missing\": \"pink flowers\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.95}
+{"image_id": 636, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.62}
+{"image_id": 640, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.73}
+{"image_id": 644, "raw": {"premise": "{\"missing\": \"common name for reddish-orange layer material\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.1}
+{"image_id": 648, "raw": {"premise": "{\"missing\": \"street name on green sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.52}
+{"image_id": 652, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.66}
+{"image_id": 656, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.79}
+{"image_id": 660, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.51}
+{"image_id": 664, "raw": {"premise": "{\"missing\": \"black-spined book\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.88}
+{"image_id": 668, "raw": {"premise": "{\"missing\": \"main text sign panel\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.36}
+{"image_id": 672, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.62}
+{"image_id": 676, "raw": {"premise": "{\"missing\": \"score display\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.86}
+{"image_id": 680, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.91}
+{"image_id": 684, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.71}
+{"image_id": 688, "raw": {"premise": "{\"missing\": \"top-face values of dice\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.09}
+{"image_id": 692, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.66}
+{"image_id": 696, "raw": {"premise": "{\"missing\": \"purple-covered book on top shelf of left bookshelf\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 16.76}
+{"image_id": 700, "raw": {"premise": "{\"missing\": \"absorbent material\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.06}
+{"image_id": 704, "raw": {"premise": "{\"missing\": \"concave polygons\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.24}
+{"image_id": 708, "raw": {"premise": "{\"missing\": \"black jacket\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.14}
+{"image_id": 712, "raw": {"premise": "{\"missing\": \"wooden display bases\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.84}
+{"image_id": 716, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.79}
+{"image_id": 720, "raw": {"premise": "{\"missing\": \"dark jacket\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.16}
+{"image_id": 724, "raw": {"premise": "{\"missing\": \"hose\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.82}
+{"image_id": 728, "raw": {"premise": "{\"missing\": \"stirring tool\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.94}
+{"image_id": 732, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.77}
+{"image_id": 736, "raw": {"premise": "{\"missing\": \"child in pink\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.48}
+{"image_id": 740, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.45}
+{"image_id": 744, "raw": {"premise": "{\"missing\": \"cyclist\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.34}
+{"image_id": 748, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.61}
+{"image_id": 752, "raw": {"premise": "{\"missing\": \"nutritional information\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 13.56}
+{"image_id": 756, "raw": {"premise": "{\"missing\": \"cylinders\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 760, "raw": {"premise": "{\"missing\": \"protective helmet\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.09}
+{"image_id": 764, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.7}
+{"image_id": 768, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.84}
+{"image_id": 772, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.43}
+{"image_id": 776, "raw": {"premise": "{\"missing\": \"orange shape\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.52}
+{"image_id": 780, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.04}
+{"image_id": 784, "raw": {"premise": "{\"missing\": \"object in left hand\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.76}
+{"image_id": 788, "raw": {"premise": "{\"missing\": \"text on sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.31}
+{"image_id": 792, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.66}
+{"image_id": 796, "raw": {"premise": "{\"missing\": \"white lid\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.46}
+{"image_id": 800, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.62}
+{"image_id": 804, "raw": {"premise": "{\"missing\": \"clear plastic object\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.41}
+{"image_id": 808, "raw": {"premise": "{\"missing\": \"ego vehicle\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.93}
+{"image_id": 812, "raw": {"premise": "{\"missing\": \"the curves y=e^x and y=x^2\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.65}
+{"image_id": 816, "raw": {"premise": "{\"missing\": \"plate number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.34}
+{"image_id": 820, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.68}
+{"image_id": 824, "raw": {"premise": "{\"missing\": \"company name on excavator\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.67}
+{"image_id": 828, "raw": {"premise": "{\"missing\": \"wheeled display stand\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.52}
+{"image_id": 832, "raw": {"premise": "{\"missing\": \"laptop brand\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.45}
+{"image_id": 836, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 840, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.8}
+{"image_id": 844, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.52}
+{"image_id": 848, "raw": {"premise": "{\"missing\": \"red can\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.42}
+{"image_id": 852, "raw": {"premise": "{\"missing\": \"brand name on truck\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.9}
+{"image_id": 856, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.88}
+{"image_id": 860, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.11}
+{"image_id": 864, "raw": {"premise": "{\"missing\": \"Victoria Tower\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 12.91}
+{"image_id": 868, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.28}
+{"image_id": 872, "raw": {"premise": "{\"missing\": \"shape with more than six sides overlapping the blue star\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 16.45}
+{"image_id": 876, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 880, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.64}
+{"image_id": 884, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.61}
+{"image_id": 888, "raw": {"premise": "{\"missing\": \"white tape\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.09}
+{"image_id": 892, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.22}
+{"image_id": 896, "raw": {"premise": "{\"missing\": \"yellow chairs, black chairs\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.13}
+{"image_id": 900, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.77}
+{"image_id": 904, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.64}
+{"image_id": 908, "raw": {"premise": "{\"missing\": \"object to the left of the black cup\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.56}
+{"image_id": 912, "raw": {"premise": "{\"missing\": \"label 'f'\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.23}
+{"image_id": 916, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.72}
+{"image_id": 920, "raw": {"premise": "{\"missing\": \"orange frustum\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 13.07}
+{"image_id": 924, "raw": {"premise": "{\"missing\": \"object between vans\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.57}
+{"image_id": 928, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.83}
+{"image_id": 932, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.83}
+{"image_id": 936, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.65}
+{"image_id": 940, "raw": {"premise": "{\"missing\": \"cell wall\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.15}
+{"image_id": 944, "raw": {"premise": "{\"missing\": \"life vest\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 12.92}
+{"image_id": 948, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.59}
+{"image_id": 952, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.13}
+{"image_id": 956, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.91}
+{"image_id": 960, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.88}
+{"image_id": 964, "raw": {"premise": "{\"missing\": \"dumbbells\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.95}
+{"image_id": 968, "raw": {"premise": "{\"missing\": \"name of mineral\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.85}
+{"image_id": 972, "raw": {"premise": "{\"missing\": \"price for 16-day trip to Australia\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 16.19}
+{"image_id": 976, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.57}
+{"image_id": 980, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.24}
+{"image_id": 984, "raw": {"premise": "{\"missing\": \"labeled container for seasoning\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.3}
+{"image_id": 988, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.59}
+{"image_id": 992, "raw": {"premise": "{\"missing\": \"color-coded depth chart\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.67}
+{"image_id": 996, "raw": {"premise": "{\"missing\": \"individual operating watercraft\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.73}
+{"image_id": 1000, "raw": {"premise": "{\"missing\": \"stacked cups\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.49}
+{"image_id": 1004, "raw": {"premise": "{\"missing\": \"license plate\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.14}
+{"image_id": 1008, "raw": {"premise": "{\"missing\": \"letters 'l' and 'r'\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.92}
+{"image_id": 1012, "raw": {"premise": "{\"missing\": \"red pigment clusters\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.89}
+{"image_id": 1016, "raw": {"premise": "{\"missing\": \"sign marked 240\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 14.9}
+{"image_id": 1020, "raw": {"premise": "{\"missing\": \"red truck\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.06}
+{"image_id": 1024, "raw": {"premise": "{\"missing\": \"tip jar\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.05}
+{"image_id": 1028, "raw": {"premise": "{\"missing\": \"building with angular lighting\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 13.64}
+{"image_id": 1032, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.84}
+{"image_id": 1036, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.63}
+{"image_id": 1040, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.99}
+{"image_id": 1044, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.62}
+{"image_id": 1048, "raw": {"premise": "{\"missing\": \"cyclist\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.19}
+{"image_id": 1052, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 8.17}
+{"image_id": 1056, "raw": {"premise": "{\"missing\": \"traffic signal\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 11.26}
+{"image_id": 1060, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.74}
+{"image_id": 1064, "raw": {"premise": "{\"missing\": \"orange shape\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.5}
+{"image_id": 1068, "raw": {"premise": "{\"missing\": \"phone number\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.12}
+{"image_id": 1072, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.35}
+{"image_id": 1076, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.71}
+{"image_id": 1080, "raw": {"premise": "{\"missing\": \"primary gas\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.09}
+{"image_id": 1084, "raw": {"premise": "{\"missing\": \"traffic cones\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 11.24}
+{"image_id": 1088, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 1092, "raw": {"premise": "{\"missing\": \"object under gripper\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.97}
+{"image_id": 1096, "raw": {"premise": "{\"missing\": \"logarithmic function curve\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 13.88}
+{"image_id": 1100, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.89}
+{"image_id": 1104, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.85}
+{"image_id": 1108, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.88}
+{"image_id": 1112, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.01}
+{"image_id": 1116, "raw": {"premise": "{\"missing\": \"red-and-yellow pen\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.95}
+{"image_id": 1120, "raw": {"premise": "{\"missing\": \"rock formation\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.79}
+{"image_id": 1124, "raw": {"premise": "{\"missing\": \"pedestrians\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 13.12}
+{"image_id": 1128, "raw": {"premise": "{\"missing\": \"pollen grains\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.5}
+{"image_id": 1132, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.71}
+{"image_id": 1136, "raw": {"premise": "{\"missing\": \"robotic arm's base\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.48}
+{"image_id": 1140, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.15}
+{"image_id": 1144, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.84}
+{"image_id": 1148, "raw": {"premise": "{\"missing\": \"robot\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 4.62}
+{"image_id": 1152, "raw": {"premise": "{\"missing\": \"robotic arm's status indicator light\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.13}
+{"image_id": 1156, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 6.93}

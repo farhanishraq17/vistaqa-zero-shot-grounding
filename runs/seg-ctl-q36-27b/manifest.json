@@ -1,0 +1,13 @@
+{
+ "cfg": {
+  "data": "inline"
+ },
+ "boxes_from": "dev-q36-27b",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K17",
+   "kernel": "user01/vlm4rwd-seg-ctl-q36-27b-s0"
+  }
+ ]
+}

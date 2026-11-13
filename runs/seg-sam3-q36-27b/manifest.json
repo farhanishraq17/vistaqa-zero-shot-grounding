@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "data": "inline"
+ },
+ "boxes_from": "dev-q36-27b",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K08",
+   "kernel": "user12/vlm4rwd-seg-sam3-q36-27b-s0"
+  }
+ ]
+}

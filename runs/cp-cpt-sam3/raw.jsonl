@@ -1,0 +1,155 @@
+{"image_id": 1, "raw": {"scores": [0.9242565035820007, 0.5224800705909729]}, "parse_ok": true, "boxes": [], "sec": 8.25}
+{"image_id": 2, "raw": {"scores": [0.9548906683921814, 0.9625079035758972]}, "parse_ok": true, "boxes": [], "sec": 1.83}
+{"image_id": 4, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.83}
+{"image_id": 5, "raw": {"scores": [0.9679480791091919]}, "parse_ok": true, "boxes": [], "sec": 1.86}
+{"image_id": 6, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.84}
+{"image_id": 7, "raw": {"scores": [0.9724944233894348, 0.946727991104126]}, "parse_ok": true, "boxes": [], "sec": 1.85}
+{"image_id": 8, "raw": {"scores": [0.9736343026161194]}, "parse_ok": true, "boxes": [], "sec": 1.86}
+{"image_id": 9, "raw": {"scores": [0.9654557108879089]}, "parse_ok": true, "boxes": [], "sec": 1.86}
+{"image_id": 10, "raw": {"scores": [0.921640157699585, 0.9225090146064758]}, "parse_ok": true, "boxes": [], "sec": 1.87}
+{"image_id": 11, "raw": {"scores": [0.8864151239395142]}, "parse_ok": true, "boxes": [], "sec": 1.87}
+{"image_id": 12, "raw": {"scores": [0.3260951638221741, 0.9768267273902893]}, "parse_ok": true, "boxes": [], "sec": 1.89}
+{"image_id": 13, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.88}
+{"image_id": 14, "raw": {"scores": [0.8335068225860596, 0.7830525040626526, 0.8945982456207275]}, "parse_ok": true, "boxes": [], "sec": 1.91}
+{"image_id": 16, "raw": {"scores": [0.7975587248802185, 0.9472580552101135, 0.8722028732299805]}, "parse_ok": true, "boxes": [], "sec": 1.9}
+{"image_id": 18, "raw": {"scores": [0.3383263051509857]}, "parse_ok": true, "boxes": [], "sec": 1.9}
+{"image_id": 19, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.91}
+{"image_id": 20, "raw": {"scores": [0.8957786560058594, 0.9514522552490234]}, "parse_ok": true, "boxes": [], "sec": 1.91}
+{"image_id": 21, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.91}
+{"image_id": 22, "raw": {"scores": [0.9457618594169617, 0.9173313975334167, 0.9301633834838867, 0.944218635559082, 0.9371375441551208, 0.9394215941429138, 0.9404006004333496, 0.9367849230766296, 0.9420636892318726, 0.9447868466377258, 0.9374256134033203, 0.931510865688324, 0.9377700090408325, 0.9363274574279785, 0.9414027333259583, 0.9473769664764404, 0.9430580735206604, 0.9378340244293213, 0.9467401504516602, 0.9371070861816406]}, "parse_ok": true, "boxes": [], "sec": 1.96}
+{"image_id": 23, "raw": {"scores": [0.3141096532344818, 0.8970828056335449, 0.40056830644607544, 0.9090982675552368]}, "parse_ok": true, "boxes": [], "sec": 1.93}
+{"image_id": 24, "raw": {"scores": [0.9542128443717957, 0.9680302143096924, 0.938951849937439]}, "parse_ok": true, "boxes": [], "sec": 1.97}
+{"image_id": 25, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.93}
+{"image_id": 26, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.96}
+{"image_id": 27, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.95}
+{"image_id": 28, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.95}
+{"image_id": 29, "raw": {"scores": [0.9584095478057861, 0.9532339572906494, 0.9315230846405029, 0.9696456789970398, 0.9219145774841309, 0.9577515721321106, 0.9609111547470093, 0.9571235775947571, 0.8945296406745911, 0.9508246779441833]}, "parse_ok": true, "boxes": [], "sec": 1.97}
+{"image_id": 30, "raw": {"scores": [0.9347995519638062, 0.9356573224067688, 0.9321314096450806, 0.9328294992446899, 0.939124584197998, 0.9263596534729004, 0.9313923716545105, 0.9316188097000122, 0.9340426325798035, 0.9356237053871155, 0.9385841488838196, 0.9418275356292725, 0.936517059803009, 0.9370014071464539, 0.9394503831863403, 0.9372132420539856, 0.9351816773414612, 0.9375153183937073, 0.9352684617042542, 0.9305206537246704]}, "parse_ok": true, "boxes": [], "sec": 1.98}
+{"image_id": 31, "raw": {"scores": [0.39539045095443726, 0.8015497326850891]}, "parse_ok": true, "boxes": [], "sec": 1.99}
+{"image_id": 33, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.98}
+{"image_id": 34, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 1.99}
+{"image_id": 35, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.0}
+{"image_id": 36, "raw": {"scores": [0.5176891684532166, 0.9476795792579651]}, "parse_ok": true, "boxes": [], "sec": 2.0}
+{"image_id": 37, "raw": {"scores": [0.9873150587081909]}, "parse_ok": true, "boxes": [], "sec": 2.01}
+{"image_id": 38, "raw": {"scores": [0.6484445929527283]}, "parse_ok": true, "boxes": [], "sec": 2.05}
+{"image_id": 39, "raw": {"scores": [0.32997822761535645, 0.6920840740203857]}, "parse_ok": true, "boxes": [], "sec": 2.01}
+{"image_id": 40, "raw": {"scores": [0.9714931845664978]}, "parse_ok": true, "boxes": [], "sec": 2.03}
+{"image_id": 41, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.03}
+{"image_id": 42, "raw": {"scores": [0.42076513171195984, 0.767755925655365]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 43, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.04}
+{"image_id": 44, "raw": {"scores": [0.9030240178108215, 0.9606152176856995]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 45, "raw": {"scores": [0.971458911895752]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 46, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 47, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.12}
+{"image_id": 49, "raw": {"scores": [0.8543596863746643, 0.4942563772201538]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 50, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 51, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.12}
+{"image_id": 52, "raw": {"scores": [0.9564113616943359]}, "parse_ok": true, "boxes": [], "sec": 2.14}
+{"image_id": 53, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.13}
+{"image_id": 54, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.15}
+{"image_id": 55, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.14}
+{"image_id": 56, "raw": {"scores": [0.34620916843414307]}, "parse_ok": true, "boxes": [], "sec": 2.16}
+{"image_id": 57, "raw": {"scores": [0.943998396396637]}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 58, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.15}
+{"image_id": 59, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.15}
+{"image_id": 60, "raw": {"scores": [0.9744419455528259]}, "parse_ok": true, "boxes": [], "sec": 2.14}
+{"image_id": 61, "raw": {"scores": [0.9585059285163879]}, "parse_ok": true, "boxes": [], "sec": 2.13}
+{"image_id": 62, "raw": {"scores": [0.860261082649231, 0.4015783667564392, 0.929327130317688, 0.959822952747345, 0.9430686831474304, 0.9259329438209534, 0.30422863364219666, 0.9130540490150452, 0.33735620975494385, 0.4062558114528656, 0.4066241979598999, 0.45385706424713135, 0.9633244872093201, 0.9611628651618958, 0.9609254002571106, 0.9490435719490051, 0.9570616483688354, 0.48590460419654846, 0.9418894052505493, 0.9390581846237183, 0.9609681367874146, 0.9265688061714172, 0.9395750164985657, 0.9566293358802795, 0.9605656862258911, 0.3705779016017914, 0.8860068321228027, 0.9043745398521423, 0.9214892387390137, 0.9367582201957703, 0.9426311254501343, 0.3415881097316742, 0.9643291234970093, 0.4611346423625946, 0.9561002254486084]}, "parse_ok": true, "boxes": [], "sec": 2.17}
+{"image_id": 63, "raw": {"scores": [0.9679462313652039]}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 64, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 65, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 66, "raw": {"scores": [0.9015109539031982]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 67, "raw": {"scores": [0.968856155872345]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 68, "raw": {"scores": [0.45643240213394165, 0.9498221278190613]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 69, "raw": {"scores": [0.9679211974143982, 0.9398143291473389]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 70, "raw": {"scores": [0.9565936923027039, 0.3228690028190613]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 71, "raw": {"scores": [0.5733538866043091, 0.3100707232952118]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 72, "raw": {"scores": [0.9779303669929504, 0.9772812128067017, 0.30477482080459595, 0.9787052273750305, 0.6580813527107239, 0.9832372665405273]}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 73, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 74, "raw": {"scores": [0.9559195637702942, 0.9540629982948303, 0.9528821110725403, 0.9579861164093018, 0.9545673727989197, 0.9597570300102234, 0.9490132927894592, 0.9522844552993774, 0.9607663154602051, 0.9609735608100891, 0.9501504302024841, 0.9147315621376038, 0.9666759967803955, 0.9639436602592468, 0.953475296497345]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 75, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.05}
+{"image_id": 76, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 77, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 78, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 79, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 83, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 84, "raw": {"scores": [0.9685101509094238]}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 85, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 86, "raw": {"scores": [0.4314345717430115, 0.3493614196777344, 0.40925049781799316, 0.4320823848247528, 0.30461910367012024, 0.3520127832889557, 0.333419531583786, 0.3080819845199585]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 88, "raw": {"scores": [0.9661929607391357]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 89, "raw": {"scores": [0.9486768841743469]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 90, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 91, "raw": {"scores": [0.8178712725639343, 0.8532974123954773, 0.8772454857826233, 0.8851880431175232]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 92, "raw": {"scores": [0.5472472310066223]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 93, "raw": {"scores": [0.796729326248169, 0.839582085609436, 0.7586487531661987, 0.7832343578338623, 0.7748874425888062, 0.7835963368415833]}, "parse_ok": true, "boxes": [], "sec": 2.12}
+{"image_id": 94, "raw": {"scores": [0.31593143939971924, 0.5703404545783997, 0.3215385973453522]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 95, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 96, "raw": {"scores": [0.9254196286201477, 0.919787585735321]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 97, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 98, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.12}
+{"image_id": 99, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 100, "raw": {"scores": [0.9584661722183228]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 102, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 103, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.12}
+{"image_id": 104, "raw": {"scores": [0.9733515977859497, 0.9635797739028931]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 105, "raw": {"scores": [0.9237172603607178]}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 108, "raw": {"scores": [0.35136672854423523, 0.9252194762229919]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 109, "raw": {"scores": [0.9697961807250977]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 110, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 111, "raw": {"scores": [0.492117315530777, 0.8327176570892334]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 112, "raw": {"scores": [0.38977310061454773, 0.8396048545837402, 0.9325034618377686, 0.35115763545036316, 0.5310943126678467, 0.8871784210205078, 0.8046098947525024, 0.9002528786659241, 0.8720104098320007, 0.8772561550140381, 0.30426180362701416, 0.7125757932662964, 0.8903526663780212, 0.8996886610984802, 0.9122655391693115]}, "parse_ok": true, "boxes": [], "sec": 2.1}
+{"image_id": 113, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.11}
+{"image_id": 114, "raw": {"scores": [0.799221396446228]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 115, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 116, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 117, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 118, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 119, "raw": {"scores": [0.9819638133049011, 0.986865222454071, 0.979804277420044]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 120, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.12}
+{"image_id": 121, "raw": {"scores": [0.9705568552017212, 0.33085739612579346, 0.8061314821243286]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 122, "raw": {"scores": [0.9784342646598816]}, "parse_ok": true, "boxes": [], "sec": 2.16}
+{"image_id": 123, "raw": {"scores": [0.6771230101585388, 0.7533863186836243, 0.970287561416626, 0.9361642599105835]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 124, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 125, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 126, "raw": {"scores": [0.37188220024108887]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 127, "raw": {"scores": [0.850655734539032, 0.9601011872291565, 0.9574311375617981]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 128, "raw": {"scores": [0.8778049945831299]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 129, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 130, "raw": {"scores": [0.9787878394126892, 0.9855298399925232, 0.9778822064399719]}, "parse_ok": true, "boxes": [], "sec": 2.25}
+{"image_id": 131, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.05}
+{"image_id": 132, "raw": {"scores": [0.9658434987068176, 0.9519797563552856]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 133, "raw": {"scores": [0.9587221741676331, 0.9526036977767944]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 134, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 135, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 136, "raw": {"scores": [0.6399145722389221, 0.603587806224823, 0.5963992476463318, 0.6011324524879456, 0.5763301849365234, 0.6097137331962585, 0.6336808204650879, 0.4327532649040222, 0.5558111667633057, 0.585124135017395, 0.5799232125282288]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 137, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 138, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 139, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 140, "raw": {"scores": [0.846690833568573, 0.8570513725280762, 0.8057344555854797, 0.8381593227386475, 0.8455201387405396, 0.8306267261505127, 0.8393192887306213]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 141, "raw": {"scores": [0.442246675491333, 0.5977604985237122]}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 142, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 143, "raw": {"scores": [0.9227755069732666]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 144, "raw": {"scores": [0.5693524479866028, 0.5523792505264282, 0.5595623850822449]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 145, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 146, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 147, "raw": {"scores": [0.958459734916687, 0.9686262011528015, 0.9584383368492126, 0.9566826820373535, 0.9346938133239746, 0.9628168344497681]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 148, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 149, "raw": {"scores": [0.5180308818817139, 0.9372434020042419, 0.9376181364059448, 0.9182683229446411]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 150, "raw": {"scores": [0.9035582542419434]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 151, "raw": {"scores": [0.9766677618026733, 0.9829249978065491, 0.981922447681427, 0.982137143611908]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 152, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 153, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 154, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 155, "raw": {"scores": [0.33110013604164124, 0.8910124897956848, 0.912539541721344, 0.9774339199066162]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 156, "raw": {"scores": [0.9507027864456177]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 157, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 158, "raw": {"scores": [0.3506993353366852, 0.96246737241745]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 159, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 160, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 162, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.14}
+{"image_id": 163, "raw": {"scores": [0.9599836468696594]}, "parse_ok": true, "boxes": [], "sec": 2.09}
+{"image_id": 164, "raw": {"scores": []}, "parse_ok": true, "boxes": [], "sec": 2.06}
+{"image_id": 165, "raw": {"scores": [0.9496492147445679, 0.33441632986068726]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 166, "raw": {"scores": [0.423301637172699, 0.859980046749115]}, "parse_ok": true, "boxes": [], "sec": 2.08}
+{"image_id": 167, "raw": {"scores": [0.90040522813797]}, "parse_ok": true, "boxes": [], "sec": 2.07}
+{"image_id": 168, "raw": {"scores": [0.9433903694152832, 0.5361639261245728]}, "parse_ok": true, "boxes": [], "sec": 2.07}

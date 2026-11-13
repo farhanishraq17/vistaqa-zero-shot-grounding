@@ -1,0 +1,13 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default"
+ },
+ "concepts_from": "final-ans",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K12",
+   "kernel": "user17/vlm4rwd-final-cpt-s0"
+  }
+ ]
+}

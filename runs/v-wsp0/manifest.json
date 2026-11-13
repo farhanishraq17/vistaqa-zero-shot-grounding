@@ -1,0 +1,18 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-8B-Instruct",
+  "seg": ""
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K01",
+   "kernel": "user16/vlm4rwd-v-wsp0-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K11",
+   "kernel": "user08/vlm4rwd-v-wsp0-s1"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 84
+  },
+  "overall": {
+    "standard_average": 0.6539285714285714,
+    "text_acc": 0.7857142857142857,
+    "mask_miou": 0.6904761904761905
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.8395652173913043
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.271
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.510625
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.535
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.9470588235294118
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.37000000000000005
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.7075
+      },
+      {
+        "group": "math",
+        "standard_average": 0.7038709677419355
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.46
+      },
+      {
+        "group": "science",
+        "standard_average": 0.7250000000000001
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.05500000000000001
+      },
+      {
+        "group": "true",
+        "standard_average": 0.9224137931034483
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.9224137931034483
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.07545454545454545
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.04
+      }
+    ]
+  }
+}

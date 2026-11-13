@@ -1,0 +1,225 @@
+{"image_id": 1, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 18.47}
+{"image_id": 2, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.2}
+{"image_id": 3, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.39}
+{"image_id": 4, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.41}
+{"image_id": 5, "raw": {"premise": "{\"missing\": \"text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 5.94}
+{"image_id": 6, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.22}
+{"image_id": 7, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.37}
+{"image_id": 8, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.69}
+{"image_id": 9, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.33}
+{"image_id": 10, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.39}
+{"image_id": 11, "raw": {"premise": "{\"missing\": \"POSTCODE\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.9}
+{"image_id": 12, "raw": {"premise": "{\"missing\": \"text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.4}
+{"image_id": 13, "raw": {"premise": "{\"missing\": \"top word on left sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.31}
+{"image_id": 14, "raw": {"premise": "{\"missing\": \"text on jacket\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.37}
+{"image_id": 15, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.42}
+{"image_id": 16, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.21}
+{"image_id": 17, "raw": {"premise": "{\"missing\": \"text on bag\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.51}
+{"image_id": 18, "raw": {"premise": "{\"missing\": \"last three words\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.96}
+{"image_id": 19, "raw": {"premise": "{\"missing\": \"text above I heart symbol\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.45}
+{"image_id": 20, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.47}
+{"image_id": 21, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.57}
+{"image_id": 22, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.37}
+{"image_id": 23, "raw": {"premise": "{\"missing\": \"text below cockpit\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.2}
+{"image_id": 24, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.53}
+{"image_id": 25, "raw": {"premise": "{\"missing\": \"circled word\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.16}
+{"image_id": 26, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.24}
+{"image_id": 27, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.08}
+{"image_id": 28, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.32}
+{"image_id": 29, "raw": {"premise": "{\"missing\": \"name tag text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.67}
+{"image_id": 30, "raw": {"premise": "{\"missing\": \"first letter of name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.6}
+{"image_id": 31, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.53}
+{"image_id": 32, "raw": {"premise": "{\"missing\": \"4-digit number on book\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.22}
+{"image_id": 33, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.42}
+{"image_id": 34, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.47}
+{"image_id": 35, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.6}
+{"image_id": 36, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 37, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.6}
+{"image_id": 38, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.54}
+{"image_id": 39, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.33}
+{"image_id": 40, "raw": {"premise": "{\"missing\": \"text on right arm\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.11}
+{"image_id": 41, "raw": {"premise": "{\"missing\": \"HD\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.26}
+{"image_id": 42, "raw": {"premise": "{\"missing\": \"Reynolds\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.19}
+{"image_id": 43, "raw": {"premise": "{\"missing\": \"NO MINORS\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.69}
+{"image_id": 44, "raw": {"premise": "{\"missing\": \"red sign above display board\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.62}
+{"image_id": 45, "raw": {"premise": "{\"missing\": \"letters on sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.74}
+{"image_id": 46, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 47, "raw": {"premise": "{\"missing\": \"road paint text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.66}
+{"image_id": 48, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.54}
+{"image_id": 49, "raw": {"premise": "{\"missing\": \"last letter of Arabic word\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.58}
+{"image_id": 50, "raw": {"premise": "{\"missing\": \"text at top right of bus\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.97}
+{"image_id": 51, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 52, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 53, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.08}
+{"image_id": 54, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.08}
+{"image_id": 55, "raw": {"premise": "{\"missing\": \"text on black box\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.61}
+{"image_id": 56, "raw": {"premise": "{\"missing\": \"text beneath star\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.18}
+{"image_id": 57, "raw": {"premise": "{\"missing\": \"text on black shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.64}
+{"image_id": 58, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 59, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 60, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 61, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.55}
+{"image_id": 62, "raw": {"premise": "{\"missing\": \"white book 4th from top\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 10.6}
+{"image_id": 63, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 64, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 65, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.21}
+{"image_id": 66, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.21}
+{"image_id": 67, "raw": {"premise": "{\"missing\": \"text on button\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.2}
+{"image_id": 68, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.27}
+{"image_id": 69, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 70, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.55}
+{"image_id": 71, "raw": {"premise": "{\"missing\": \"text on left door\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.11}
+{"image_id": 72, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.54}
+{"image_id": 73, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 74, "raw": {"premise": "{\"missing\": \"PlayStation 2\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.62}
+{"image_id": 75, "raw": {"premise": "{\"missing\": \"green circle with letters\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.06}
+{"image_id": 76, "raw": {"premise": "{\"missing\": \"letter on red hat\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.64}
+{"image_id": 77, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.29}
+{"image_id": 78, "raw": {"premise": "{\"missing\": \"text on poster\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.68}
+{"image_id": 79, "raw": {"premise": "{\"missing\": \"male name on white book\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.1}
+{"image_id": 80, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.08}
+{"image_id": 81, "raw": {"premise": "{\"missing\": \"text on t-shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.08}
+{"image_id": 82, "raw": {"premise": "{\"missing\": \"text on right shirt\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.06}
+{"image_id": 83, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.11}
+{"image_id": 84, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.93}
+{"image_id": 85, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.51}
+{"image_id": 86, "raw": {"premise": "{\"missing\": \"text above stop sign\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.16}
+{"image_id": 87, "raw": {"premise": "{\"missing\": \"text on sash\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.6}
+{"image_id": 88, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 89, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.09}
+{"image_id": 90, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.32}
+{"image_id": 91, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.53}
+{"image_id": 92, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.63}
+{"image_id": 93, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.29}
+{"image_id": 94, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 95, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 96, "raw": {"premise": "{\"missing\": \"coffee\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.9}
+{"image_id": 97, "raw": {"premise": "{\"missing\": \"text on charger\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.69}
+{"image_id": 98, "raw": {"premise": "{\"missing\": \"first word in red on bottom\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 9.18}
+{"image_id": 99, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 100, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.68}
+{"image_id": 101, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.96}
+{"image_id": 102, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 103, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.34}
+{"image_id": 104, "raw": {"premise": "{\"missing\": \"tail letter\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.73}
+{"image_id": 105, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.47}
+{"image_id": 106, "raw": {"premise": "{\"missing\": \"text on right edge\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.9}
+{"image_id": 107, "raw": {"premise": "{\"missing\": \"sign text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.7}
+{"image_id": 108, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.28}
+{"image_id": 109, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.02}
+{"image_id": 110, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.75}
+{"image_id": 111, "raw": {"premise": "{\"missing\": \"yellow sign text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.16}
+{"image_id": 112, "raw": {"premise": "{\"missing\": \"text on car\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.18}
+{"image_id": 113, "raw": {"premise": "{\"missing\": \"green letters on bottle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.66}
+{"image_id": 114, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 115, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.63}
+{"image_id": 116, "raw": {"premise": "{\"missing\": \"text on tag\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.67}
+{"image_id": 117, "raw": {"premise": "{\"missing\": \"switch\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.3}
+{"image_id": 118, "raw": {"premise": "{\"missing\": \"first letter of text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.64}
+{"image_id": 119, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.24}
+{"image_id": 120, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 121, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.35}
+{"image_id": 122, "raw": {"premise": "{\"missing\": \"word on every can\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.67}
+{"image_id": 123, "raw": {"premise": "{\"missing\": \"numbers on green sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.79}
+{"image_id": 124, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.6}
+{"image_id": 125, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 7.47}
+{"image_id": 126, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.39}
+{"image_id": 127, "raw": {"premise": "{\"missing\": \"three letters under right man's arm\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.03}
+{"image_id": 128, "raw": {"premise": "{\"missing\": \"number on arm\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.51}
+{"image_id": 129, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 130, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.63}
+{"image_id": 131, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.28}
+{"image_id": 132, "raw": {"premise": "{\"missing\": \"OffShore\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.87}
+{"image_id": 133, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.96}
+{"image_id": 134, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 135, "raw": {"premise": "{\"missing\": \"text on green and white sign\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.77}
+{"image_id": 136, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 137, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.38}
+{"image_id": 138, "raw": {"premise": "{\"missing\": \"year of song writing\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.31}
+{"image_id": 139, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.15}
+{"image_id": 140, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.57}
+{"image_id": 141, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.34}
+{"image_id": 142, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 143, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.52}
+{"image_id": 144, "raw": {"premise": "{\"missing\": \"profession text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.27}
+{"image_id": 145, "raw": {"premise": "{\"missing\": \"text on bags\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.22}
+{"image_id": 146, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 147, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.35}
+{"image_id": 148, "raw": {"premise": "{\"missing\": \"large word on orange backdrop\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 149, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.21}
+{"image_id": 150, "raw": {"premise": "{\"missing\": \"number on first base dugout\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 10.14}
+{"image_id": 151, "raw": {"premise": "{\"missing\": \"text on red shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.15}
+{"image_id": 152, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.57}
+{"image_id": 153, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.66}
+{"image_id": 154, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.74}
+{"image_id": 155, "raw": {"premise": "{\"missing\": \"green letter on jersey\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.59}
+{"image_id": 156, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 157, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.32}
+{"image_id": 158, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.34}
+{"image_id": 159, "raw": {"premise": "{\"missing\": \"letters on jersey\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.27}
+{"image_id": 160, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 161, "raw": {"premise": "{\"missing\": \"driving\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.31}
+{"image_id": 162, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 163, "raw": {"premise": "{\"missing\": \"text on sleeve\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.77}
+{"image_id": 164, "raw": {"premise": "{\"missing\": \"letters on tail\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.16}
+{"image_id": 165, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.18}
+{"image_id": 166, "raw": {"premise": "{\"missing\": \"text on yellow barriers\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.6}
+{"image_id": 167, "raw": {"premise": "{\"missing\": \"number/letter combination on bridge\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.52}
+{"image_id": 168, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.27}
+{"image_id": 169, "raw": {"premise": "{\"missing\": \"graffiti text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.18}
+{"image_id": 170, "raw": {"premise": "{\"missing\": \"text on barricade\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.63}
+{"image_id": 171, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.4}
+{"image_id": 172, "raw": {"premise": "{\"missing\": \"text on bottle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.38}
+{"image_id": 173, "raw": {"premise": "{\"missing\": \"COMMAND\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.31}
+{"image_id": 174, "raw": {"premise": "{\"missing\": \"letters under star\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.04}
+{"image_id": 175, "raw": {"premise": "{\"missing\": \"word after year\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.76}
+{"image_id": 176, "raw": {"premise": "{\"missing\": \"text on bottle\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.8}
+{"image_id": 177, "raw": {"premise": "{\"missing\": \"word on street\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.71}
+{"image_id": 178, "raw": {"premise": "{\"missing\": \"number of stories\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.03}
+{"image_id": 179, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.55}
+{"image_id": 180, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 181, "raw": {"premise": "{\"missing\": \"first letter on hat\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.71}
+{"image_id": 182, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 183, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.24}
+{"image_id": 184, "raw": {"premise": "{\"missing\": \"letter on hat\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.25}
+{"image_id": 185, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 186, "raw": {"premise": "{\"missing\": \"first letter on the wall\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.67}
+{"image_id": 187, "raw": {"premise": "{\"missing\": \"text on shirt\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.26}
+{"image_id": 188, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.33}
+{"image_id": 189, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.62}
+{"image_id": 190, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 191, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.34}
+{"image_id": 192, "raw": {"premise": "{\"missing\": \"letter on tail with blue background\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.28}
+{"image_id": 193, "raw": {"premise": "{\"missing\": \"license plate text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.17}
+{"image_id": 194, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.5}
+{"image_id": 195, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.57}
+{"image_id": 196, "raw": {"premise": "{\"missing\": \"United\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.25}
+{"image_id": 197, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.09}
+{"image_id": 198, "raw": {"premise": "{\"missing\": \"text on sail\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.25}
+{"image_id": 199, "raw": {"premise": "{\"missing\": \"text on white banner\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.73}
+{"image_id": 200, "raw": {"premise": "{\"missing\": \"WAR\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.75}
+{"image_id": 201, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.55}
+{"image_id": 202, "raw": {"premise": "{\"missing\": \"The first three letters of the word on the far right sign are not fully visible.\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 14.07}
+{"image_id": 203, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 204, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.32}
+{"image_id": 205, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.34}
+{"image_id": 206, "raw": {"premise": "{\"missing\": \"text on baseball bat\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.95}
+{"image_id": 207, "raw": {"premise": "{\"missing\": \"last word on paper\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.69}
+{"image_id": 208, "raw": {"premise": "{\"missing\": \"text on white paper\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.65}
+{"image_id": 209, "raw": {"premise": "{\"missing\": \"text on shirts\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.72}
+{"image_id": 210, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.56}
+{"image_id": 211, "raw": {"premise": "{\"missing\": \"book text\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.81}
+{"image_id": 212, "raw": {"premise": "{\"missing\": \"first word on right page\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.21}
+{"image_id": 213, "raw": {"premise": "{\"missing\": \"letters\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.28}
+{"image_id": 214, "raw": {"premise": "{\"missing\": \"name of the person on the coin\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 9.05}
+{"image_id": 215, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 216, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 217, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.6}
+{"image_id": 218, "raw": {"premise": "{\"missing\": \"text on arm\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.17}
+{"image_id": 219, "raw": {"premise": "{\"missing\": \"text on pant leg\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.7}
+{"image_id": 220, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.44}
+{"image_id": 221, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.67}
+{"image_id": 222, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.33}
+{"image_id": 223, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.35}
+{"image_id": 224, "raw": {"premise": "{\"missing\": \"fruit name\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.8}
+{"image_id": 225, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.57}

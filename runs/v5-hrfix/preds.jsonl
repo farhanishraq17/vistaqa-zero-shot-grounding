@@ -1,0 +1,6 @@
+{"image": {"image_id": 167, "width": 2048, "height": 2048}, "question": "what is the shape that is directly at the left of the purple circle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 465, "width": 2048, "height": 2048}, "question": "comparing all shapes, which one has the most overlapping with the blue stars?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 653, "width": 3354, "height": 1500}, "question": "what color is the first visible car parked in front of the left side of the Newlook Eyewear store?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 750, "width": 2048, "height": 2048}, "question": "among all circular shapes in the image, which color appears the least frequently?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 872, "width": 2048, "height": 2048}, "question": "what color is the shape that is directly to the right of the blue star and overlaps with other shape and has more than six sides?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 1147, "width": 2048, "height": 2048}, "question": "how many stars are at the right of blue l shapes in the image?", "prediction": {"text": "", "masks": []}}

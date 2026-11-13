@@ -1,0 +1,132 @@
+{"image_id": 137, "raw": {"marks": "```json\n[\n\t1,\n\t2\n]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 19.18}
+{"image_id": 149, "raw": {"marks": "{\n  \"answer\": [\n    \"1\",\n    \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.31}
+{"image_id": 157, "raw": {"marks": "```json\n[\n\t1,\n\t2,\n\t3,\n\t4,\n\t5,\n\t6,\n\t7,\n\t8,\n\t9,\n\t10\n]\n```", "keep": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}, "parse_ok": true, "boxes": [], "sec": 11.52}
+{"image_id": 167, "raw": {"marks": "{\n    \"answer\": [\n        \"1\",\n        \"2\"\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.35}
+{"image_id": 171, "raw": {"marks": "{\n\"answer\": [\n 1, 2\n]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.34}
+{"image_id": 173, "raw": {"marks": "{\n  \"answer_1\": [\n    1\n  ],\n  \"answer_2\": [\n    2\n  ],\n  \"answer_3\": []\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 10.31}
+{"image_id": 177, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.05}
+{"image_id": 179, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.19}
+{"image_id": 181, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.5}
+{"image_id": 183, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.29}
+{"image_id": 185, "raw": {"marks": "{\n\"answer\": [\n\"1\",\n\"2\"\n]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.06}
+{"image_id": 187, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.25}
+{"image_id": 189, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.82}
+{"image_id": 193, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.12}
+{"image_id": 195, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.41}
+{"image_id": 197, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.35}
+{"image_id": 201, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.94}
+{"image_id": 205, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.93}
+{"image_id": 207, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.21}
+{"image_id": 211, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.36}
+{"image_id": 213, "raw": {"marks": "{\n  \"answer_1\": [\n    1\n  ],\n  \"answer_2\": [\n    2\n  ],\n  \"answer_3\": [],\n  \"answer_4\": [],\n  \"answer_5\": [],\n  \"answer_6\": []\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 14.58}
+{"image_id": 215, "raw": {"marks": "{\n    \"answer\": [\n        1,\n        2\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.34}
+{"image_id": 217, "raw": {"marks": "{\n  \"answer\": [\n    \"1\", \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.92}
+{"image_id": 219, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.18}
+{"image_id": 221, "raw": {"marks": "{\n    \"answer\": [\n        1,\n        2\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.3}
+{"image_id": 223, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.13}
+{"image_id": 225, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.28}
+{"image_id": 227, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 231, "raw": {"marks": "{\n    \"answer\": [\n        1,\n        2\n    ],\n    \"reasoning\": \"The question asks for the relative position of the handbag and the suitcase. Box 1 highlights the red handbag, and box 2 highlights the black suitcase. Both boxes are necessary to identify the objects and confirm their spatial relationship (handbag to the left of suitcase) as stated in the answer.\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 19.38}
+{"image_id": 233, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.7}
+{"image_id": 235, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.23}
+{"image_id": 237, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.19}
+{"image_id": 239, "raw": {"marks": "{\n    \"answer\": [\n        1,\n        2\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.27}
+{"image_id": 241, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.2}
+{"image_id": 243, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"question\": \"Which appears larger in the image, the horse or the person?\",\n  \"response\": \"The horse appears larger in the image.\"\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 11.56}
+{"image_id": 245, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.84}
+{"image_id": 247, "raw": {"marks": "{\n  \"answer_1\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.07}
+{"image_id": 249, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.7}
+{"image_id": 251, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"reason\": \"The question asks which object appears larger in the image: the potted plant or the refrigerator. The answer states that the refrigerator appears larger. Box 1 highlights the potted plant, and box 2 highlights the refrigerator. To support the answer that the refrigerator is larger, we need to compare the visual evidence of both objects. Therefore, both boxes are required to make this comparison", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 20.16}
+{"image_id": 253, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.92}
+{"image_id": 255, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.22}
+{"image_id": 257, "raw": {"marks": "```json\n[\n\t1,\n\t2\n]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.96}
+{"image_id": 259, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.19}
+{"image_id": 261, "raw": {"marks": "There are none.", "keep": null}, "parse_ok": true, "boxes": [], "sec": 2.85}
+{"image_id": 263, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.36}
+{"image_id": 265, "raw": {"marks": "```json\n[\n\t2\n]\n```", "keep": [1]}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 267, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.84}
+{"image_id": 271, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"neg_answer\": []\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 6.49}
+{"image_id": 273, "raw": {"marks": "{\n  \"answer\": [\n    \"1\", \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.92}
+{"image_id": 275, "raw": {"marks": "{\n  \"answer\": [\n    \"1\", \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.01}
+{"image_id": 277, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.66}
+{"image_id": 279, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.83}
+{"image_id": 281, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.97}
+{"image_id": 283, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ],\n  \"image_id\": \"Picture 1\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.88}
+{"image_id": 285, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.8}
+{"image_id": 287, "raw": {"marks": "{\n\"answer\": [\n\"1\",\n\"2\"\n]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.7}
+{"image_id": 289, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ],\n  \"image_id\": \"Picture 1\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.94}
+{"image_id": 291, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ]\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 5.28}
+{"image_id": 293, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.98}
+{"image_id": 295, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.19}
+{"image_id": 297, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"image_id\": \"Picture 1\",\n  \"question\": \"Which appears larger in the image, the dining table or the cake?\",\n  \"reason\": \"The answer states that the dining table appears larger. Box 1 outlines the visible portion of the dining table, which serves as the background and surface for the meal. Box 2 outlines the cake. By comparing the area covered", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 20.4}
+{"image_id": 299, "raw": {"marks": "{\n  \"answer\": [\n    \"1\", \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.17}
+{"image_id": 307, "raw": {"marks": "{\n\"answer\": [\n1\n]\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 4.46}
+{"image_id": 335, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.39}
+{"image_id": 124, "raw": {"marks": "```json\n[\n\t1,\n\t2\n]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 17.64}
+{"image_id": 152, "raw": {"marks": "{\n  \"answer_1\": [\n    1\n  ],\n  \"answer_2\": [\n    2\n  ]\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 8.89}
+{"image_id": 162, "raw": {"marks": "{\n    \"answer\": [\n        \"1\",\n        \"2\",\n        \"3\",\n        \"4\"\n    ]\n}", "keep": [0, 1, 2, 3]}, "parse_ok": true, "boxes": [], "sec": 8.76}
+{"image_id": 172, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"image_id\": \"Picture 1\",\n  \"image_number\": 1\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 9.42}
+{"image_id": 174, "raw": {"marks": "{\n\"answer\": [\n 1, 2\n]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.72}
+{"image_id": 176, "raw": {"marks": "```json\n[\n\t{\"box_number\": \"1\"},\n\t{\"box_number\": \"2\"}\n]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.94}
+{"image_id": 180, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.5}
+{"image_id": 184, "raw": {"marks": "{\n  \"answer\": [\n    \"1\",\n    \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.35}
+{"image_id": 186, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.75}
+{"image_id": 190, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.79}
+{"image_id": 192, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.6}
+{"image_id": 194, "raw": {"marks": "{\n    \"answer\": [\n        1,\n        2\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.74}
+{"image_id": 196, "raw": {"marks": "{\n    \"image_id\": \"Picture 1\",\n    \"box_numbers\": [\n        1,\n        2\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 9.33}
+{"image_id": 198, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.34}
+{"image_id": 200, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.6}
+{"image_id": 202, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.72}
+{"image_id": 206, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.67}
+{"image_id": 208, "raw": {"marks": "{\n    \"image_id\": \"Picture 1\",\n    \"answer\": \"[1,2]\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.51}
+{"image_id": 210, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.15}
+{"image_id": 212, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.86}
+{"image_id": 214, "raw": {"marks": "{\n    \"answer\": [\n        1,\n        2\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.08}
+{"image_id": 216, "raw": {"marks": "{\n    \"answer\": [\n        \"1\", \"2\"\n    ],\n    \"reason\": \"To determine the relative position of the person and the chair, one must identify both objects in the image. Box 1 highlights the person, and Box 2 highlights the chair. By observing their positions within the frame, it is evident that the person (Box 1) is located to the left of the chair (Box 2).\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 21.4}
+{"image_id": 218, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.73}
+{"image_id": 220, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.56}
+{"image_id": 222, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.79}
+{"image_id": 226, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.39}
+{"image_id": 228, "raw": {"marks": "{\n  \"answer\": [\n    \"1\",\n    \"2\"\n  ],\n  \"reason\": \"The question asks for the relative position of the person and the cup. Box 1 contains the visual evidence of the person's hand. Box 2 contains the visual evidence of the cup. Both boxes are required to determine their spatial relationship.\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 17.98}
+{"image_id": 230, "raw": {"marks": "{\n\"answer\": [\n\"1\",\n\"2\"\n]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.1}
+{"image_id": 232, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 234, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.61}
+{"image_id": 236, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.63}
+{"image_id": 238, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.74}
+{"image_id": 240, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.75}
+{"image_id": 242, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.86}
+{"image_id": 244, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ],\n  \"image_id\": \"picture 1\",\n  \"question\": \"Which appears larger in the image, the fork or the dining table?\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 12.83}
+{"image_id": 246, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ],\n  \"image_id\": \"Picture 1\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 8.88}
+{"image_id": 248, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.38}
+{"image_id": 250, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.86}
+{"image_id": 252, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.4}
+{"image_id": 254, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.38}
+{"image_id": 256, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 258, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.84}
+{"image_id": 262, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.65}
+{"image_id": 264, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.59}
+{"image_id": 266, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 4.94}
+{"image_id": 268, "raw": {"marks": "There are none.", "keep": null}, "parse_ok": true, "boxes": [], "sec": 3.52}
+{"image_id": 270, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.44}
+{"image_id": 272, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"image_id\": \"Picture 1\"\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 7.88}
+{"image_id": 274, "raw": {"marks": "{\n  \"answer\": [\n    \"1\",\n    \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.04}
+{"image_id": 276, "raw": {"marks": "{\n  \"answer\": [\n    1\n  ],\n  \"neg_answer\": []\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 7.2}
+{"image_id": 278, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.78}
+{"image_id": 280, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.92}
+{"image_id": 282, "raw": {"marks": "```json\n[\n\t1,\n\t2\n]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.96}
+{"image_id": 284, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.28}
+{"image_id": 286, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 288, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.97}
+{"image_id": 290, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.4}
+{"image_id": 292, "raw": {"marks": "{\n  \"answer\": [\n    \"1\", \"2\"\n  ],\n  \"analysis\": \"The question asks to compare the size of the bed and the book. Box 1 outlines the bed, which is the larger object in the scene. Box 2 outlines the book, which is the smaller object being held by the child. Both boxes are necessary to visually identify and compare the two objects mentioned in the question.\"\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 21.27}
+{"image_id": 294, "raw": {"marks": "{\n  \"answer\": [\n    \"1\",\n    \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.09}
+{"image_id": 296, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.88}
+{"image_id": 298, "raw": {"marks": "{\n  \"answer\": [\n    1, 2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.55}
+{"image_id": 300, "raw": {"marks": "{\n  \"answer_1\": [\n    1\n  ],\n  \"answer_2\": [\n    2\n  ],\n  \"answer_3\": []\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 10.84}
+{"image_id": 302, "raw": {"marks": "{\n\"answer_list\": [\n\"1\",\n\"2\"\n]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.4}
+{"image_id": 320, "raw": {"marks": "{\n  \"answer\": [\n    1,\n    2\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 6.93}
+{"image_id": 360, "raw": {"marks": "```json\n[1, 2]\n```", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 5.44}
+{"image_id": 404, "raw": {"marks": "{\n  \"answer\": [\n    \"1\",\n    \"2\"\n  ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.06}
+{"image_id": 534, "raw": {"marks": "{\n    \"answer\": [\n        \"1\",\n        \"2\"\n    ]\n}", "keep": [0, 1]}, "parse_ok": true, "boxes": [], "sec": 7.05}
+{"image_id": 554, "raw": {"marks": "{\n  \"answer\": [\n    \"1\"\n  ]\n}", "keep": [0]}, "parse_ok": true, "boxes": [], "sec": 5.4}

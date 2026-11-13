@@ -1,0 +1,7 @@
+{"image": {"image_id": 69, "width": 800, "height": 600}, "question": "What is the perimeter of rectangle JGTF?", "prediction": {"text": "The perimeter of rectangle JGTF is 34.", "masks": []}}
+{"image": {"image_id": 105, "width": 800, "height": 600}, "question": "What is the perimeter of rectangle JTHF?", "prediction": {"text": "The perimeter of rectangle JTHF is 46.", "masks": []}}
+{"image": {"image_id": 113, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 1?", "prediction": {"text": "There are 6 points that have an x-coordinate greater than 1.", "masks": []}}
+{"image": {"image_id": 31, "width": 800, "height": 600}, "question": "How much greater is the value of Mangoes than the value of Apples?", "prediction": {"text": "The value of Mangoes is 2 greater than the value of Apples.", "masks": []}}
+{"image": {"image_id": 67, "width": 800, "height": 600}, "question": "How much greater is the value of Kiwis than the value of Figs?", "prediction": {"text": "The value of Kiwis is 15 greater than the value of Figs.", "masks": []}}
+{"image": {"image_id": 103, "width": 800, "height": 600}, "question": "How much greater is the value of Cherries than the value of Dates?", "prediction": {"text": "The value of Cherries is 2 greater than the value of Dates.", "masks": []}}
+{"image": {"image_id": 139, "width": 800, "height": 600}, "question": "How much greater is the value of Apples than the value of Mangoes?", "prediction": {"text": "The value of Apples is 8 greater than the value of Mangoes.", "masks": []}}

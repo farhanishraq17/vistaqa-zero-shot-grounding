@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 200
+  },
+  "overall": {
+    "standard_average": 0.7390000000000001,
+    "text_acc": 0.71,
+    "mask_miou": 1.0
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "math",
+        "standard_average": 0.7390000000000001
+      }
+    ],
+    "domain": [
+      {
+        "group": "abstract scene",
+        "standard_average": 0.7567567567567568
+      },
+      {
+        "group": "bar chart",
+        "standard_average": 0.8058823529411765
+      },
+      {
+        "group": "document image",
+        "standard_average": 0.6142857142857142
+      },
+      {
+        "group": "function plot",
+        "standard_average": 0.6849999999999999
+      },
+      {
+        "group": "geometry diagram",
+        "standard_average": 0.9249999999999999
+      },
+      {
+        "group": "line plot",
+        "standard_average": 0.625
+      },
+      {
+        "group": "pie chart",
+        "standard_average": 0.7000000000000001
+      },
+      {
+        "group": "puzzle test",
+        "standard_average": 0.6727272727272727
+      },
+      {
+        "group": "scatter plot",
+        "standard_average": 1.0
+      },
+      {
+        "group": "scientific figure",
+        "standard_average": 0.38636363636363635
+      },
+      {
+        "group": "table",
+        "standard_average": 0.9550000000000001
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.7390000000000001
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.7390000000000001
+      }
+    ]
+  }
+}

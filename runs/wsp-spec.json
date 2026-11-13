@@ -1,0 +1,1 @@
+{"name": "s21-0.3+a21-1", "edits": [{"kind": "steer", "layer": 20, "d": "dirs.npz:abs21", "alpha": 4.04276647567749}, {"kind": "amplify", "layers": [18, 20], "src": "dirs.npz:abs21", "beta": 1.0, "center": 3.695753574371338}]}

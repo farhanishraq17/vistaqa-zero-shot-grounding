@@ -1,0 +1,560 @@
+{"image_id": 1, "raw": {"premise": "The premise of the question is valid. Bananas are visible in the fruit bowl on the right side of the image, sliced and mixed with other fruits.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 19.33}
+{"image_id": 5, "raw": {"premise": "The question asks about the number of parking meters, and the image clearly shows two parking meter heads mounted on a single post. The premise of the question is valid as parking meters are visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.92}
+{"image_id": 9, "raw": {"premise": "The question asks about the number of couches visible in the image. Upon careful inspection, there is a striped couch in the foreground (where the cat is sitting) and a beige couch on the left side of the room. Both are clearly visible. Therefore, the premise of the question does not assume any missing object.\n\n"}, "parse_ok": true, "boxes": [], "sec": 15.56}
+{"image_id": 13, "raw": {"premise": "The question \"How many people can you see?\" does not assume any object, person, text, or detail that is not visible in the image. It simply asks for a count of visible people, which is directly observable.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.95}
+{"image_id": 17, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.82}
+{"image_id": 21, "raw": {"premise": "The premise of the question is valid. There are potted plants visible in the image (specifically, two large planters with greenery are visible on the left side of the background).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 13.0}
+{"image_id": 25, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.76}
+{"image_id": 29, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.68}
+{"image_id": 33, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.63}
+{"image_id": 37, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.37}
+{"image_id": 41, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.42}
+{"image_id": 45, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.17}
+{"image_id": 49, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.5}
+{"image_id": 53, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.59}
+{"image_id": 57, "raw": {"premise": "The question asks about the number of people in the image. Looking at the image, there are three visible people: one on the left elephant, and two on the right elephant. The question does not assume any object, person, text, or detail that is not actually visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 15.23}
+{"image_id": 61, "raw": {"premise": "The question asks \"How many people can you see?\" and the image clearly shows two children (people) in a field. One is in the foreground with their back to the camera, and the other is in the mid-ground holding a bat. There are no assumptions made about objects, text, or details that are not"}, "parse_ok": true, "boxes": [], "sec": 14.53}
+{"image_id": 65, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.21}
+{"image_id": 69, "raw": {"premise": "The question asks about the number of cars in the image. Looking at the image, there are three visible cars: a black car on the left, the brown Alfa Romeo convertible in the center (with the dog on it), and a tan car on the right. The premise of the question is valid as it does not"}, "parse_ok": true, "boxes": [], "sec": 14.96}
+{"image_id": 73, "raw": {"premise": "The question asks about the number of people in the image. Looking at the image, there are indeed people visible in the background (e.g., legs and torsos of shoppers or vendors). Therefore, the premise of the question is valid \u2014 it does not assume anything that is missing.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.87}
+{"image_id": 77, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.22}
+{"image_id": 81, "raw": {"premise": "The premise of the question is valid; there are keyboards visible in the image (one on the laptop and one standalone).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.26}
+{"image_id": 85, "raw": {"premise": "The premise of the question is valid. There are suitcases visible in the image (e.g., the red one on the right, the black one being pulled by the person on the left, and the rolling cart with luggage in the center).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 15.09}
+{"image_id": 89, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.19}
+{"image_id": 93, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.5}
+{"image_id": 97, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 101, "raw": {"premise": "The question asks \"Which vehicle appears in this picture?\" and the image clearly shows a train (specifically, an electric locomotive pulling freight cars). Therefore, the premise of the question is valid \u2014 a vehicle is indeed visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.85}
+{"image_id": 105, "raw": {"premise": "The question asks about a \"piece of furniture,\" but the image shows a bathroom stall with a toilet and a floor mural. There is no furniture visible in the image.\n\n{\"missing\": \"furniture\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.12}
+{"image_id": 109, "raw": {"premise": "The premise of the question is valid. The image clearly shows a bird (an animal) perched in a bush with berries. There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.88}
+{"image_id": 113, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.8}
+{"image_id": 117, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.29}
+{"image_id": 121, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.0}
+{"image_id": 125, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.43}
+{"image_id": 129, "raw": {"premise": "The question asks which food item appears in the picture. The image clearly shows a chocolate cake (partially eaten) and what appears to be a pizza or flatbread in the background on a wooden board. Therefore, the premise of the question is valid \u2014 food items are visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 15.29}
+{"image_id": 133, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.08}
+{"image_id": 137, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 141, "raw": {"premise": "The premise of the question is valid. The image clearly shows a vehicle, specifically a train or railcar.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.83}
+{"image_id": 145, "raw": {"premise": "The question asks about the kind of animal shown in the image. The image clearly shows a sheep standing on its hind legs, eating grass from a wall. There is no missing object, person, text, or detail assumed by the question that isn't visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.18}
+{"image_id": 149, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.14}
+{"image_id": 153, "raw": {"premise": "The question asks about an animal shown in the image. The image clearly shows a cat resting on the man's lap. Therefore, the premise of the question is valid as an animal (a cat) is indeed visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.49}
+{"image_id": 157, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.38}
+{"image_id": 161, "raw": {"premise": "The premise of the question is valid. The image clearly shows a chair, which is a piece of furniture.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.79}
+{"image_id": 165, "raw": {"premise": "The question asks about an \"accessory\" shown in the image. The most prominent accessory is the umbrella held by the child. Other accessories include the flip-flops worn by the person on the left and possibly the clothing items. Since an umbrella is clearly visible and can be considered an accessory, the premise of the question"}, "parse_ok": true, "boxes": [], "sec": 15.04}
+{"image_id": 169, "raw": {"premise": "The question asks about a \"food item\" shown in the image. The image clearly shows a decorated cake, which is a food item. There is no assumption of anything missing \u2014 the cake is visible, along with its decorations (phone, figures, text, etc.). Therefore, the premise is valid.\n\n{\"missing"}, "parse_ok": true, "boxes": [], "sec": 14.97}
+{"image_id": 173, "raw": {"premise": "The premise of the question is valid. Both the refrigerator and the oven are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.86}
+{"image_id": 177, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.6}
+{"image_id": 181, "raw": {"premise": "```json\n{\"missing\": \"potted plant\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.86}
+{"image_id": 185, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.16}
+{"image_id": 189, "raw": {"premise": "The question asks about the position of \"the person\" relative to the bowl. The image contains a painting of a person (an old man) in a frame, and a bowl of fruit in the foreground. The person is depicted within the painting, which is positioned above the bowl. Therefore, the premise of the question"}, "parse_ok": true, "boxes": [], "sec": 15.45}
+{"image_id": 193, "raw": {"premise": "{\"missing\": \"oven\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 5.96}
+{"image_id": 197, "raw": {"premise": "```json\n{\"missing\": \"handbag\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.48}
+{"image_id": 201, "raw": {"premise": "```json\n{\"missing\": \"couch\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.01}
+{"image_id": 205, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.84}
+{"image_id": 209, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.08}
+{"image_id": 213, "raw": {"premise": "The premise of the question is valid. Both the refrigerator and the oven are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.43}
+{"image_id": 217, "raw": {"premise": "{\"missing\": \"refrigerator\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.56}
+{"image_id": 221, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.57}
+{"image_id": 225, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.25}
+{"image_id": 229, "raw": {"premise": "```json\n{\"missing\": \"spoon\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.4}
+{"image_id": 233, "raw": {"premise": "The premise of the question is flawed because there is no laptop visible in the image. There is a black object with cables on the right side of the bed, but it is not clearly identifiable as a laptop (it could be a power strip, a closed tablet, or another electronic device). Therefore, the question assumes the"}, "parse_ok": true, "boxes": [], "sec": 15.43}
+{"image_id": 237, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.25}
+{"image_id": 241, "raw": {"premise": "The premise of the question is valid. Both the bed and the chair are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.84}
+{"image_id": 245, "raw": {"premise": "The question asks to compare the size of the cake and the dining table. However, the image does not show a dining table; it shows the cake sitting on a white surface that appears to be a countertop or a different type of table, but not specifically a dining table. Therefore, the premise of the question is"}, "parse_ok": true, "boxes": [], "sec": 15.17}
+{"image_id": 249, "raw": {"premise": "The question asks about a \"tv\", but the image shows a computer monitor (specifically an Apple iMac), not a television. While they are similar, the premise incorrectly identifies the object.\n\n```json\n{\"missing\": \"tv\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 14.26}
+{"image_id": 253, "raw": {"premise": "The question asks to compare the apparent size of the person and the skis in the image. Both the person and the skis are clearly visible in the image. The person is standing on the skis, and both are fully depicted within the frame. There is no missing object, person, text, or detail assumed"}, "parse_ok": true, "boxes": [], "sec": 14.94}
+{"image_id": 257, "raw": {"premise": "The question asks to compare the apparent size of the cat and the laptop in the image. Both the cat and the laptop are clearly visible in the image. The laptop is in the foreground on the left, and the cat is on the right, looking toward the laptop. There is no missing object, person, text,"}, "parse_ok": true, "boxes": [], "sec": 14.66}
+{"image_id": 261, "raw": {"premise": "The question asks to compare the size of the fork and the dining table. While the fork is clearly visible on the plate, the dining table itself (the surface beneath the tablecloth) is not directly visible; only the patterned tablecloth covering it is seen. Therefore, the premise assumes the visibility of the \"d"}, "parse_ok": true, "boxes": [], "sec": 14.64}
+{"image_id": 265, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.02}
+{"image_id": 269, "raw": {"premise": "{\"missing\": \"tv\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.56}
+{"image_id": 273, "raw": {"premise": "{\"missing\": \"sandwich\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.37}
+{"image_id": 277, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.91}
+{"image_id": 281, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.43}
+{"image_id": 285, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.23}
+{"image_id": 289, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.71}
+{"image_id": 293, "raw": {"premise": "The question asks to compare the size of the person and the bench. Both the person (a boy sitting) and the bench are clearly visible in the image. Therefore, the premise of the question is valid.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.61}
+{"image_id": 297, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.48}
+{"image_id": 301, "raw": {"premise": "{\"missing\": \"Dining Table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.17}
+{"image_id": 305, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.43}
+{"image_id": 309, "raw": {"premise": "{\"missing\": \"Sinks\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.14}
+{"image_id": 313, "raw": {"premise": "{\"missing\": \"people\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.49}
+{"image_id": 317, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.1}
+{"image_id": 321, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.71}
+{"image_id": 325, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 329, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.64}
+{"image_id": 333, "raw": {"premise": "```json\n{\"missing\": \"dining table\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.33}
+{"image_id": 337, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.57}
+{"image_id": 341, "raw": {"premise": "{\"missing\": \"text on the bottle\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.27}
+{"image_id": 345, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 4.69}
+{"image_id": 349, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.28}
+{"image_id": 353, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.43}
+{"image_id": 357, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.0}
+{"image_id": 361, "raw": {"premise": "{\"missing\": \"bird\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.26}
+{"image_id": 365, "raw": {"premise": "{\"missing\": \"cars\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 4.71}
+{"image_id": 369, "raw": {"premise": "{\"missing\": \"Dining Table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.84}
+{"image_id": 373, "raw": {"premise": "{\"missing\": \"Car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.31}
+{"image_id": 377, "raw": {"premise": "{\"missing\": \"Laptop\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 4.83}
+{"image_id": 381, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 385, "raw": {"premise": "{\"missing\": \"Bottles\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.04}
+{"image_id": 389, "raw": {"premise": "{\"missing\": \"Dining Table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.75}
+{"image_id": 393, "raw": {"premise": "The premise of the question is flawed because it asks about \"dining tables\" (plural), but the image only shows one table surface (the red-and-white checkered tablecloth). The question assumes the presence of multiple dining tables, which is not visible.\n\n{\"missing\": \"multiple dining tables\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.89}
+{"image_id": 397, "raw": {"premise": "```json\n{\"missing\": \"chair\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.85}
+{"image_id": 401, "raw": {"premise": "{\n  \"missing\": \"chair\"\n}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.92}
+{"image_id": 405, "raw": {"premise": "{\n  \"missing\": \"person\"\n}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.51}
+{"image_id": 409, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.44}
+{"image_id": 413, "raw": {"premise": "{\"missing\": \"handbag\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 417, "raw": {"premise": "{\"missing\": \"bottle\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.4}
+{"image_id": 421, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.17}
+{"image_id": 425, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.42}
+{"image_id": 429, "raw": {"premise": "The question asks about the color of the bowl. The image clearly shows a white bowl containing oranges. Therefore, the premise is valid and no object is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.53}
+{"image_id": 433, "raw": {"premise": "The premise of the question is valid. The television set is clearly visible in the image. It is a black flat-screen TV sitting on a white media console.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.41}
+{"image_id": 437, "raw": {"premise": "The question asks about the color of the table, but the image does not clearly show a table \u2014 it shows a reflective surface that could be a table, countertop, or other flat surface. However, since the surface is visible and the question refers to \u201cthe table\u201d as if it\u2019s present, we must assess"}, "parse_ok": true, "boxes": [], "sec": 15.05}
+{"image_id": 441, "raw": {"premise": "The premise of the question is valid. The image clearly shows a dog, and its color is visible.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.8}
+{"image_id": 445, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.09}
+{"image_id": 449, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.24}
+{"image_id": 453, "raw": {"premise": "{\"missing\": \"stool\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.43}
+{"image_id": 457, "raw": {"premise": "The premise of the question is valid. The image clearly shows a white bowl containing a stew-like dish. There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.65}
+{"image_id": 461, "raw": {"premise": "The premise of the question is valid. The bench is clearly visible in the image.\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.55}
+{"image_id": 465, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.68}
+{"image_id": 469, "raw": {"premise": "The question asks about the color of the tray. The image clearly shows a red tray holding the food items. Therefore, the premise of the question is valid and no object is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.17}
+{"image_id": 473, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.26}
+{"image_id": 477, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.3}
+{"image_id": 481, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 485, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.32}
+{"image_id": 489, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.23}
+{"image_id": 493, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.36}
+{"image_id": 497, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.7}
+{"image_id": 501, "raw": {"premise": "The question asks about the text in the image. The image clearly shows a card with the word \"PEACE\" written on it, along with a small bird illustration. Therefore, the text is visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.99}
+{"image_id": 505, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.23}
+{"image_id": 509, "raw": {"premise": "The premise of the question is valid. The image clearly shows a piece of paper with the word \"Certified\" written on it.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.87}
+{"image_id": 513, "raw": {"premise": "The premise of the question is valid. The text \"CAFE\" is visible on the plate in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.99}
+{"image_id": 517, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.23}
+{"image_id": 521, "raw": {"premise": "The premise of the question is valid. The image clearly shows the letters \"STD\" written on the wall in the background.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.47}
+{"image_id": 525, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.38}
+{"image_id": 529, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.33}
+{"image_id": 533, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.45}
+{"image_id": 537, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 541, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.96}
+{"image_id": 545, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 549, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 553, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.46}
+{"image_id": 557, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 5.48}
+{"image_id": 2, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.99}
+{"image_id": 6, "raw": {"premise": "The premise of the question is valid. The image clearly shows at least one bird (the large chicken in the foreground) and another smaller bird (a chick) to the right. Therefore, no object assumed by the question is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 15.62}
+{"image_id": 10, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 14, "raw": {"premise": "The question asks about the number of people in the image. Upon careful inspection, we can see:\n\n- Two riders on the motorcycle (both wearing helmets).\n- Possibly a driver inside the black car on the left (though not clearly visible).\n- Possibly a driver inside the white van on the right (also"}, "parse_ok": true, "boxes": [], "sec": 16.24}
+{"image_id": 18, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.51}
+{"image_id": 22, "raw": {"premise": "The question asks about the number of people in the image. Looking at the image, there are two people visible on the right side: one man with long hair and a denim jacket, and another man partially visible on the far right wearing a dark jacket. Therefore, the premise of the question is valid \u2014 it does not"}, "parse_ok": true, "boxes": [], "sec": 15.67}
+{"image_id": 26, "raw": {"premise": "The question asks about the number of giraffes in the image. Upon careful inspection, there are indeed giraffes visible \u2014 specifically, four giraffes standing together in the midground. The premise of the question does not assume any object, person, text, or detail that is missing from the image.\n\n"}, "parse_ok": true, "boxes": [], "sec": 16.26}
+{"image_id": 30, "raw": {"premise": "The premise of the question is valid. The image clearly shows two people (a man and a woman) sitting at a table. There are no missing assumptions in the question \"Count the people in the picture.\"\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 14.03}
+{"image_id": 34, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 38, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.87}
+{"image_id": 42, "raw": {"premise": "The question asks about the number of cups visible in the image. Upon careful inspection, there is one white cup clearly visible on the desk in the foreground. There are no other cups present. The question does not assume any object, person, text, or detail that is missing \u2014 it simply asks for a count of an"}, "parse_ok": true, "boxes": [], "sec": 15.73}
+{"image_id": 46, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.16}
+{"image_id": 50, "raw": {"premise": "The premise of the question is valid. There are chairs visible in the image (specifically, an armchair in the foreground and another chair or sofa section on the right).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.56}
+{"image_id": 54, "raw": {"premise": "The question asks about the number of teddy bears in the image. Looking at the image, there are clearly multiple teddy bears visible: one large brown bear on the left, a small light brown bear in the middle, a white bear with a hood on the right, and another brown bear partially visible in the background"}, "parse_ok": true, "boxes": [], "sec": 16.34}
+{"image_id": 58, "raw": {"premise": "The question asks about the number of backpacks in the image. Upon careful inspection, there is at least one clearly visible green backpack on the floor next to the blue suitcase. There may be other bags that could be interpreted as backpacks (e.g., the patterned bag on the table or the dark bag near the"}, "parse_ok": true, "boxes": [], "sec": 16.55}
+{"image_id": 62, "raw": {"premise": "The premise of the question is valid. The image shows parts of two chairs: one black office chair in the background and the mesh back of another chair in the bottom right corner.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.93}
+{"image_id": 66, "raw": {"premise": "The question asks to count the dining tables in the picture. Upon careful inspection of the image, there are multiple blue tables visible where people are seated and drinking. These can be reasonably identified as dining tables in the context of an outdoor bar or restaurant setting.\n\nTherefore, the premise of the question does not assume any object"}, "parse_ok": true, "boxes": [], "sec": 15.8}
+{"image_id": 70, "raw": {"premise": "The question asks \"How many people are there in the image?\" and does not assume any specific object, person, text, or detail that is not visible. The image clearly shows two people: one in focus wearing a blue jersey and another in the background wearing a yellow jersey.\n\nTherefore, no missing element is assumed"}, "parse_ok": true, "boxes": [], "sec": 15.66}
+{"image_id": 74, "raw": {"premise": "The premise of the question is valid. There are people visible in the image (one person in the background and the arm/hand of another person in the foreground). Therefore, no object, person, text, or detail assumed by the question is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 15.46}
+{"image_id": 78, "raw": {"premise": "The question \"How many people can you see?\" does not assume any object, person, text, or detail that is not visible in the image. It is a general question about the number of people present, and multiple people are indeed visible (the main subject on the scooter, plus at least two others in the background"}, "parse_ok": true, "boxes": [], "sec": 16.02}
+{"image_id": 82, "raw": {"premise": "The question asks to count the airplanes in the picture. Looking at the image, there is one large JAL airplane prominently displayed in the foreground. In the background, on the far left, another aircraft (partially visible, with a red tail) can be seen parked at a gate. Therefore, there are two airplanes"}, "parse_ok": true, "boxes": [], "sec": 15.6}
+{"image_id": 86, "raw": {"premise": "The question asks to count backpacks. Looking at the image, there are multiple bags that could be classified as backpacks (e.g., the green one, the gray one in the foreground, and possibly others). The premise of the question is valid because backpacks are visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 15.83}
+{"image_id": 90, "raw": {"premise": "{\"missing\": \"Tvs\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.81}
+{"image_id": 94, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.82}
+{"image_id": 98, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 102, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.76}
+{"image_id": 106, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.46}
+{"image_id": 110, "raw": {"premise": "The question asks about an appliance shown in the image. The image clearly shows a white refrigerator (with \"Frigidaire\" branding visible) and an air conditioning unit mounted on the wall above it. Both are appliances. Therefore, the premise of the question is valid \u2014 no missing object is assumed.\n\n{\"missing"}, "parse_ok": true, "boxes": [], "sec": 16.16}
+{"image_id": 114, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 6.41}
+{"image_id": 118, "raw": {"premise": "The premise of the question is flawed because no piece of furniture is clearly visible in the image. The cat is lying on a red surface that appears to be fabric (possibly a blanket or bedspread), but there is no identifiable furniture such as a chair, sofa, table, or bed frame shown.\n\n{\"missing\":"}, "parse_ok": true, "boxes": [], "sec": 16.4}
+{"image_id": 122, "raw": {"premise": "The question asks about an \"accessory\" appearing in the picture. The image clearly shows beach accessories: a green umbrella, two folding chairs (one pink, one blue), and a towel draped over the pink chair. These are all visible. Therefore, the premise of the question is valid.\n\n{\"missing\": \""}, "parse_ok": true, "boxes": [], "sec": 15.72}
+{"image_id": 126, "raw": {"premise": "The question asks about a \"vehicle,\" and the image clearly shows a bicycle, which is a type of vehicle. There is no missing object, person, text, or detail assumed by the question that isn\u2019t visible. The bicycle is fully present and identifiable.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.73}
+{"image_id": 130, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.55}
+{"image_id": 134, "raw": {"premise": "The premise of the question is flawed because a toilet is a fixture, not a piece of furniture.\n{\"missing\": \"furniture\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 11.69}
+{"image_id": 138, "raw": {"premise": "The question asks about \"furniture,\" but the image shows a toilet, which is a fixture, not furniture. However, the core issue is whether the question assumes something not visible. The question doesn't assume a missing object\u2014it misclassifies the visible object. Since no assumed element is actually missing from the image ("}, "parse_ok": true, "boxes": [], "sec": 15.76}
+{"image_id": 142, "raw": {"premise": "The question asks \"Which vehicle appears in this picture?\" The image shows a side-view mirror and handlebars, which are parts of a motorcycle. However, the motorcycle itself (the main body, wheels, engine, etc.) is not visible in the frame. The question assumes the presence of the vehicle, but only parts"}, "parse_ok": true, "boxes": [], "sec": 15.45}
+{"image_id": 146, "raw": {"premise": "The question asks about a piece of furniture visible in the picture. The image clearly shows a beige couch or sofa, which is a piece of furniture. Therefore, the premise of the question is valid and does not assume anything missing.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.54}
+{"image_id": 150, "raw": {"premise": "The premise of the question is valid. The image clearly shows an animal (a rooster). There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.55}
+{"image_id": 154, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.68}
+{"image_id": 158, "raw": {"premise": "The premise of the question is valid. The image clearly shows a piece of furniture, specifically a sofa or couch, in the living area adjacent to the kitchen.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.13}
+{"image_id": 162, "raw": {"premise": "The question asks \"Which piece of furniture appears in this picture?\" This is a general question that does not assume any specific piece of furniture is present. It simply asks to identify furniture that is visible. Since there are multiple pieces of furniture clearly visible (sofa, ottoman, TV stand, side table, bookshelf"}, "parse_ok": true, "boxes": [], "sec": 15.41}
+{"image_id": 166, "raw": {"premise": "The premise of the question is valid; the image clearly shows an animal (a cat). No missing elements are assumed.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.53}
+{"image_id": 170, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.78}
+{"image_id": 174, "raw": {"premise": "```json\n{\"missing\": \"bowl\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.77}
+{"image_id": 178, "raw": {"premise": "{\"missing\": \"Apple\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.44}
+{"image_id": 182, "raw": {"premise": "{\n  \"missing\": \"laptop\"\n}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.87}
+{"image_id": 186, "raw": {"premise": "```json\n{\n    \"missing\": \"potted plant\"\n}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 10.08}
+{"image_id": 190, "raw": {"premise": "The premise of the question is valid because both the refrigerator and the microwave are visible in the image. The refrigerator is to the left of the microwave.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.41}
+{"image_id": 194, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.93}
+{"image_id": 198, "raw": {"premise": "The question asks about the position of the fork relative to the dining table. However, the image shows a blue tray with food on it, and while the tray is likely on a table, the table itself is not clearly visible or identifiable as a distinct object in the frame \u2014 only the tray and its contents are in focus"}, "parse_ok": true, "boxes": [], "sec": 16.11}
+{"image_id": 202, "raw": {"premise": "```json\n{\"missing\": \"dining table\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 9.21}
+{"image_id": 206, "raw": {"premise": "The premise of the question is flawed because it assumes the oven and microwave are stacked vertically (one above the other), but in the image, the microwave is mounted above the stove/oven range, not directly above the oven door itself. However, the oven (as part of the range) is indeed below the microwave."}, "parse_ok": true, "boxes": [], "sec": 15.53}
+{"image_id": 210, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.73}
+{"image_id": 214, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.29}
+{"image_id": 218, "raw": {"premise": "The premise of the question is valid. The image shows a glass (which can be referred to as a cup) on the right side of the pizza.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.78}
+{"image_id": 222, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.61}
+{"image_id": 226, "raw": {"premise": "{\"missing\": \"dining table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.5}
+{"image_id": 230, "raw": {"premise": "```json\n{\"missing\": \"dining table\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.38}
+{"image_id": 234, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.83}
+{"image_id": 238, "raw": {"premise": "```json\n{\"missing\": \"toilet\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.84}
+{"image_id": 242, "raw": {"premise": "The question asks to compare the size of the bowl and the spoon. Both the bowl and the spoon are visible in the image. The spoon is resting inside the bowl, with its handle extending out. Therefore, the premise of the question is valid as both objects are present.\n\n```json\n{\"missing\": \"none"}, "parse_ok": true, "boxes": [], "sec": 15.94}
+{"image_id": 246, "raw": {"premise": "The question asks to compare the size of the pizza and the dining table. The pizza is clearly visible. The dining table is also visible, as the pizza is sitting on a wooden surface which is the table. Therefore, both objects mentioned in the question are present in the image.\n\n```json\n{\"missing\": \""}, "parse_ok": true, "boxes": [], "sec": 16.11}
+{"image_id": 250, "raw": {"premise": "The premise of the question is valid; both the dog and the person are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.04}
+{"image_id": 254, "raw": {"premise": "The question asks to compare the size of the person and the cake in the image. Both the person (a woman in a red dress) and the cake (on a small table) are clearly visible in the image. There is no missing object, person, text, or detail assumed by the question that isn't present"}, "parse_ok": true, "boxes": [], "sec": 15.39}
+{"image_id": 258, "raw": {"premise": "{\"missing\": \"dining table\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.63}
+{"image_id": 262, "raw": {"premise": "The premise of the question is valid. Both the spoon and the bowl are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.59}
+{"image_id": 266, "raw": {"premise": "{\n\"missing\": \"none\"\n}"}, "parse_ok": true, "boxes": [], "sec": 5.15}
+{"image_id": 270, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 274, "raw": {"premise": "The question asks to compare the apparent size of the person and the tennis racket in the image. Both the person and the tennis racket are clearly visible in the image. The person is holding the racket, and both are fully within the frame. There is no missing object, person, text, or detail assumed by the question"}, "parse_ok": true, "boxes": [], "sec": 15.69}
+{"image_id": 278, "raw": {"premise": "```json\n{\"missing\": \"knife\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.91}
+{"image_id": 282, "raw": {"premise": "```json\n{\"missing\": \"sandwich\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.21}
+{"image_id": 286, "raw": {"premise": "The question asks which appears larger in the image: the person or the elephant. Both the person (specifically, their arm and upper body) and the elephant are visible in the image. The elephant occupies a much larger portion of the frame than the person. Therefore, the premise of the question is valid \u2014 no assumed"}, "parse_ok": true, "boxes": [], "sec": 15.47}
+{"image_id": 290, "raw": {"premise": "{\"missing\": \"bench\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.86}
+{"image_id": 294, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.84}
+{"image_id": 298, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.79}
+{"image_id": 302, "raw": {"premise": "{\n    \"missing\": \"none\"\n}"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 306, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.07}
+{"image_id": 310, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.25}
+{"image_id": 314, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.48}
+{"image_id": 318, "raw": {"premise": "{\"missing\": \"Bottle\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.21}
+{"image_id": 322, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.22}
+{"image_id": 326, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.06}
+{"image_id": 330, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.07}
+{"image_id": 334, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.81}
+{"image_id": 338, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.25}
+{"image_id": 342, "raw": {"premise": "{\n  \"missing\": \"chair\"\n}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.13}
+{"image_id": 346, "raw": {"premise": "{\"missing\": \"No chairs visible\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.29}
+{"image_id": 350, "raw": {"premise": "{\"missing\": \"dining table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.25}
+{"image_id": 354, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.69}
+{"image_id": 358, "raw": {"premise": "{\"missing\": \"People\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.25}
+{"image_id": 362, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.61}
+{"image_id": 366, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.85}
+{"image_id": 370, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.7}
+{"image_id": 374, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.15}
+{"image_id": 378, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.71}
+{"image_id": 382, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.75}
+{"image_id": 386, "raw": {"premise": "{\"missing\": \"Cup\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.12}
+{"image_id": 390, "raw": {"premise": "{\n\"missing\": \"chair\"\n}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.71}
+{"image_id": 394, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.49}
+{"image_id": 398, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.18}
+{"image_id": 402, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.91}
+{"image_id": 406, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 410, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.75}
+{"image_id": 414, "raw": {"premise": "{\n  \"missing\": \"handbag\"\n}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.31}
+{"image_id": 418, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.07}
+{"image_id": 422, "raw": {"premise": "The question asks about the color of the laptop computer. The image clearly shows a black laptop with an HP logo. There is no missing object, person, text, or detail assumed by the question that isn't visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.34}
+{"image_id": 426, "raw": {"premise": "The premise of the question is valid. The table is visible in the image (the wooden surface the yogurt cup is resting on).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.88}
+{"image_id": 430, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.1}
+{"image_id": 434, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.4}
+{"image_id": 438, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.39}
+{"image_id": 442, "raw": {"premise": "The premise of the question is valid; the napkin is visible in the image.\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.67}
+{"image_id": 446, "raw": {"premise": "The question asks about the color of the television set. The television is clearly visible in the image \u2014 it\u2019s a silver or gray CRT-style TV on a wooden stand. There is no missing object, person, text, or detail assumed by the question that isn\u2019t present.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 15.36}
+{"image_id": 450, "raw": {"premise": "The question asks about the color of the mirror. The image clearly shows a convex traffic mirror with an orange frame and a reflective surface. The mirror itself is visible, and its frame is distinctly orange. Therefore, the premise of the question is valid \u2014 the mirror is present and its color (specifically the frame) is"}, "parse_ok": true, "boxes": [], "sec": 15.81}
+{"image_id": 454, "raw": {"premise": "{\"missing\": \"fan\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.16}
+{"image_id": 458, "raw": {"premise": "The premise of the question is valid. The pan is visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.14}
+{"image_id": 462, "raw": {"premise": "The question asks about the color of the bench, and the bench is clearly visible in the image. It is a light-colored wooden bench with metal supports. There is no missing object, person, text, or detail assumed by the question.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.03}
+{"image_id": 466, "raw": {"premise": "The question asks about the color of the mouse, and a white Logitech mouse is clearly visible in the image. Therefore, the premise is valid.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 10.8}
+{"image_id": 470, "raw": {"premise": "The premise of the question is valid. The table is visible in the image.\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.1}
+{"image_id": 474, "raw": {"premise": "The premise of the question is valid. The image clearly shows a laptop computer, and its color is visible.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.25}
+{"image_id": 478, "raw": {"premise": "The premise of the question is valid. The bench is clearly visible in the image.\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.99}
+{"image_id": 482, "raw": {"premise": "The question asks to \"Read the text that appears in the image.\" However, upon careful inspection of the entire image, there is no legible text visible. There are framed pictures, a TV screen (which is off or blank), and various household items, but none contain readable text.\n\nTherefore, the premise of"}, "parse_ok": true, "boxes": [], "sec": 15.75}
+{"image_id": 486, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.63}
+{"image_id": 490, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.8}
+{"image_id": 494, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.5}
+{"image_id": 498, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.3}
+{"image_id": 502, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.51}
+{"image_id": 506, "raw": {"premise": "The question asks what word is written in the picture. Looking at the image, there is a visible shoe with the word \"NIKE\" clearly printed on the side. Therefore, the premise of the question is valid \u2014 the text is present.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.13}
+{"image_id": 510, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.69}
+{"image_id": 514, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.37}
+{"image_id": 518, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.66}
+{"image_id": 522, "raw": {"premise": "The text \"hushpotato.\" is visible in the upper left portion of the image. Therefore, the question's premise is valid.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.29}
+{"image_id": 526, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 530, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.66}
+{"image_id": 534, "raw": {"premise": "The question asks to compare the size of the dining table and the spoon. While the spoon is visible (partially, under the bowl), the dining table itself is not fully visible \u2014 only a small portion of the table surface (with a green cloth and white napkin) is shown. The question assumes the entire dining"}, "parse_ok": true, "boxes": [], "sec": 15.86}
+{"image_id": 538, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.92}
+{"image_id": 542, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.74}
+{"image_id": 546, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.04}
+{"image_id": 550, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.84}
+{"image_id": 554, "raw": {"premise": "The question asks about the position of the dining table relative to the spoon. However, the dining table itself is not clearly visible in the image \u2014 only the plate, spoon, and food are in focus. The background is dark and indistinct, so we cannot confirm the presence or location of a dining table.\n\n"}, "parse_ok": true, "boxes": [], "sec": 15.4}
+{"image_id": 558, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.05}
+{"image_id": 3, "raw": {"premise": "{\"missing\": \"Books\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 12.71}
+{"image_id": 7, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.93}
+{"image_id": 11, "raw": {"premise": "{\n  \"missing\": \"none\"\n}"}, "parse_ok": true, "boxes": [], "sec": 6.13}
+{"image_id": 15, "raw": {"premise": "The premise of the question is valid. The image clearly shows one person in the foreground and several other people in the background, even though they are out of focus. Therefore, counting the people is a reasonable request based on the visual content.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 15.69}
+{"image_id": 19, "raw": {"premise": "The question asks about the number of tennis rackets visible in the image. Upon inspection, there are two tennis rackets clearly visible: one held by the person in the background (left side) and one held by the person in the foreground (right side). Both are fully or partially visible and identifiable as tennis rackets"}, "parse_ok": true, "boxes": [], "sec": 16.58}
+{"image_id": 23, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.81}
+{"image_id": 27, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.73}
+{"image_id": 31, "raw": {"premise": "The question asks \"How many people can you see?\" and the image clearly shows two people (motorcycle racers). There is no assumption of an object, person, text, or detail that is not visible. The premise is valid.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.34}
+{"image_id": 35, "raw": {"premise": "The question asks to count the people in the picture. The image clearly shows at least two people: a woman in the foreground wearing a red hat and a man in the background wearing a FedEx jacket. There may be other indistinct figures further in the background, but the premise of counting people is valid as people are"}, "parse_ok": true, "boxes": [], "sec": 16.43}
+{"image_id": 39, "raw": {"premise": "The premise of the question is valid. The image clearly shows two traffic lights hanging from a horizontal pole at the top of the frame. Both are visible and identifiable as traffic lights (showing red signals).\n\nTherefore, no object assumed by the question is missing.\n\n```json\n{\"missing\": \"none\"}\n"}, "parse_ok": true, "boxes": [], "sec": 17.37}
+{"image_id": 43, "raw": {"premise": "The question asks about the number of people in the image. Looking at the image, there are three women visible: one in a red hat, one in a pink hat, and one in a black hat. All three are clearly present and identifiable as people. The question does not assume any object, person, text,"}, "parse_ok": true, "boxes": [], "sec": 16.53}
+{"image_id": 47, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.75}
+{"image_id": 51, "raw": {"premise": "The question asks about the number of horses in the image. The image clearly shows at least two horses: one white horse in the foreground being ridden by the child, and another black-and-white horse partially visible on the right side. There may be more in the background, but at least two are visible. Therefore, the"}, "parse_ok": true, "boxes": [], "sec": 15.87}
+{"image_id": 55, "raw": {"premise": "The question asks about the number of cars visible in the image. Upon careful inspection, there is a white van or small truck visible on the street to the right, and possibly another vehicle partially visible behind it. However, the term \"cars\" typically refers to passenger automobiles. The visible vehicles appear to be commercial (a"}, "parse_ok": true, "boxes": [], "sec": 16.29}
+{"image_id": 59, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.74}
+{"image_id": 63, "raw": {"premise": "The question asks about the number of wine glasses in the image. Upon careful inspection, there are indeed wine glasses visible: two are being held by the people in the foreground, and at least one more is partially visible on the counter to the left. Therefore, the premise of the question is valid as it refers to objects"}, "parse_ok": true, "boxes": [], "sec": 16.68}
+{"image_id": 67, "raw": {"premise": "The question asks about the number of beds in the image. The image clearly shows two beds. Therefore, the premise of the question is valid and does not assume any missing object, person, text, or detail.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 14.6}
+{"image_id": 71, "raw": {"premise": "The question asks to count the motorcycles in the picture. The image clearly shows multiple motorcycles, so the premise of the question is valid and does not assume any missing object, person, text, or detail.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.09}
+{"image_id": 75, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.43}
+{"image_id": 79, "raw": {"premise": "The premise of the question is valid. There are horses visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.47}
+{"image_id": 83, "raw": {"premise": "The question asks about the number of cars visible in the image. Upon careful inspection, there is one clearly visible silver car in the background on the right side of the image. There may be a partial view of another vehicle on the far left edge, but it is not fully visible or identifiable as a complete car. However"}, "parse_ok": true, "boxes": [], "sec": 16.02}
+{"image_id": 87, "raw": {"premise": "The premise of the question is valid. There are parts of chairs visible in the image (one on the left and one on the right).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.58}
+{"image_id": 91, "raw": {"premise": "The question asks about the number of sinks in the image. Upon careful inspection, two white sinks are clearly visible mounted on the wall between the mirrors and the red partition. Therefore, the premise of the question is valid \u2014 it does not assume any object that is missing.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 15.74}
+{"image_id": 95, "raw": {"premise": "The question asks \"How many people are there in the image?\" and the image clearly shows two boys. The premise of the question is valid as it refers to visible subjects (people) in the image. There is no assumption of an object, person, text, or detail that is not actually visible.\n\n{\"missing"}, "parse_ok": true, "boxes": [], "sec": 16.01}
+{"image_id": 99, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 6.17}
+{"image_id": 103, "raw": {"premise": "The premise of the question is valid. The image clearly shows a black cat sitting on the stone wall.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.02}
+{"image_id": 107, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.85}
+{"image_id": 111, "raw": {"premise": "The premise of the question is valid; the image clearly shows an animal (a cat). No missing elements are assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.7}
+{"image_id": 115, "raw": {"premise": "The premise of the question is valid. The image clearly shows a vehicle (an airplane).\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.22}
+{"image_id": 119, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.87}
+{"image_id": 123, "raw": {"premise": "The premise of the question is valid. The image clearly shows a bed, which is a piece of furniture.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.98}
+{"image_id": 127, "raw": {"premise": "The premise of the question is valid. The image clearly shows a refrigerator, which is an appliance. There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.94}
+{"image_id": 131, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.75}
+{"image_id": 135, "raw": {"premise": "The question asks about a \"piece of furniture\" shown in the image. The image clearly shows an armchair (or recliner) where the man and baby are seated, as well as a side table with a lamp and a bookshelf in the background. All these are pieces of furniture. Therefore, the premise is"}, "parse_ok": true, "boxes": [], "sec": 16.63}
+{"image_id": 139, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.9}
+{"image_id": 143, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.16}
+{"image_id": 147, "raw": {"premise": "The premise of the question is valid. The image clearly shows a television mounted on the wall, which is an electronic device.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.33}
+{"image_id": 151, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.87}
+{"image_id": 155, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.31}
+{"image_id": 159, "raw": {"premise": "The question asks \"Which vehicle appears in this picture?\" and the image clearly shows a red pickup truck with a snowplow attachment. There is no missing object, person, text, or detail assumed by the question that isn't visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 15.03}
+{"image_id": 163, "raw": {"premise": "The premise of the question is flawed because there is no vehicle visible in the image. The background shows a chain-link fence, spectators, and possibly a tent or canopy, but no car, truck, bus, or other vehicle is present.\n\n{\"missing\": \"vehicle\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 16.86}
+{"image_id": 167, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 171, "raw": {"premise": "```json\n{\"missing\": \"dining table\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.3}
+{"image_id": 175, "raw": {"premise": "```json\n{\"missing\": \"chair\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 9.47}
+{"image_id": 179, "raw": {"premise": "The question asks about the position of the TV relative to the person. The image clearly shows both a person (a boy) and a TV. Therefore, the premise of the question is valid, and no object is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 15.4}
+{"image_id": 183, "raw": {"premise": "```json\n{\"missing\": \"tv\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.99}
+{"image_id": 187, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.24}
+{"image_id": 191, "raw": {"premise": "{\"missing\": \"bed\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.71}
+{"image_id": 195, "raw": {"premise": "The premise of the question is valid. Both the refrigerator and the microwave are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.17}
+{"image_id": 199, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.37}
+{"image_id": 203, "raw": {"premise": "{\n    \"missing\": \"none\"\n}"}, "parse_ok": true, "boxes": [], "sec": 6.05}
+{"image_id": 207, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.13}
+{"image_id": 211, "raw": {"premise": "```json\n{\"missing\": \"backpack\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.91}
+{"image_id": 215, "raw": {"premise": "The premise of the question is valid. The image shows a person on the right side and a chair on the left side. Therefore, the chair is to the left of the person.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 13.12}
+{"image_id": 219, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.85}
+{"image_id": 223, "raw": {"premise": "```json\n{\"missing\": \"bowl\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.72}
+{"image_id": 227, "raw": {"premise": "```json\n{\"missing\": \"laptop\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.6}
+{"image_id": 231, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.47}
+{"image_id": 235, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.34}
+{"image_id": 239, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.39}
+{"image_id": 243, "raw": {"premise": "The question asks which appears larger in the image: the horse or the person. Both the horse and the person are clearly visible in the image. The horse is on the left side, being led by a person on the right. There is no assumption of any missing object, person, text, or detail \u2014 both subjects"}, "parse_ok": true, "boxes": [], "sec": 16.64}
+{"image_id": 247, "raw": {"premise": "{\"missing\": \"donut\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.02}
+{"image_id": 251, "raw": {"premise": "The premise of the question is valid. Both the potted plant and the refrigerator are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.08}
+{"image_id": 255, "raw": {"premise": "The premise of the question is valid. Both the dog and the skis are clearly visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.12}
+{"image_id": 259, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.41}
+{"image_id": 263, "raw": {"premise": "The question asks to compare the size of a \"dining table\" and a \"bench.\" The image shows a picnic table (which can be considered a type of dining table) and benches attached to it. However, the term \"dining table\" might be slightly misleading as it's more accurately a picnic table,"}, "parse_ok": true, "boxes": [], "sec": 16.42}
+{"image_id": 267, "raw": {"premise": "The question asks to compare the apparent size of the person and the tennis racket in the image. Both the person and the tennis racket are clearly visible in the image. The person is holding the racket, and both are fully depicted within the frame. There is no assumption of a missing object, person, text, or detail"}, "parse_ok": true, "boxes": [], "sec": 15.99}
+{"image_id": 271, "raw": {"premise": "The question asks to compare the size of the person and the couch. However, only a small portion of the couch (the armrest) is visible in the image. The full couch is not shown, making a size comparison impossible based on the visual evidence provided.\n\n{\"missing\": \"full couch\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 17.47}
+{"image_id": 275, "raw": {"premise": "```json\n{\"missing\": \"wine glass\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 8.04}
+{"image_id": 279, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.87}
+{"image_id": 283, "raw": {"premise": "```json\n{\"missing\": \"chair\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.92}
+{"image_id": 287, "raw": {"premise": "```json\n{\"missing\": \"chair\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.97}
+{"image_id": 291, "raw": {"premise": "```json\n{\"missing\": \"couch\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 8.01}
+{"image_id": 295, "raw": {"premise": "The premise of the question is valid. Both the bed and the teddy bear are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.94}
+{"image_id": 299, "raw": {"premise": "The question asks to compare the size of the bowl and the banana. Both the bowl (a glass fruit bowl) and the bananas are clearly visible in the image. Therefore, the premise of the question is valid.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.86}
+{"image_id": 303, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.33}
+{"image_id": 307, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.31}
+{"image_id": 311, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.91}
+{"image_id": 315, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.8}
+{"image_id": 319, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.33}
+{"image_id": 323, "raw": {"premise": "{\"missing\": \"No People\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.6}
+{"image_id": 327, "raw": {"premise": "```json\n{\"missing\": \"person\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.95}
+{"image_id": 331, "raw": {"premise": "{\"missing\": \"Car\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.95}
+{"image_id": 335, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.68}
+{"image_id": 339, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.44}
+{"image_id": 343, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.48}
+{"image_id": 347, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.43}
+{"image_id": 351, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.49}
+{"image_id": 355, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.33}
+{"image_id": 359, "raw": {"premise": "{\"missing\": \"dining table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.13}
+{"image_id": 363, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.73}
+{"image_id": 367, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.77}
+{"image_id": 371, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.66}
+{"image_id": 375, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.24}
+{"image_id": 379, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.9}
+{"image_id": 383, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 387, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.61}
+{"image_id": 391, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.17}
+{"image_id": 395, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.33}
+{"image_id": 399, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.41}
+{"image_id": 403, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.9}
+{"image_id": 407, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.98}
+{"image_id": 411, "raw": {"premise": "{\"missing\": \"No Visible People\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.85}
+{"image_id": 415, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.97}
+{"image_id": 419, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.91}
+{"image_id": 423, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.79}
+{"image_id": 427, "raw": {"premise": "The question asks about the color of the remote control. Looking at the image, the child is holding a toy that resembles a remote control (specifically, it looks like a Fisher-Price toy phone or remote). It is visible in the child's hands. Therefore, the premise of the question is valid; the object"}, "parse_ok": true, "boxes": [], "sec": 16.91}
+{"image_id": 431, "raw": {"premise": "The question asks about the color of the box. The image clearly shows a white styrofoam container (which can be referred to as a box). Therefore, the premise is valid.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 13.99}
+{"image_id": 435, "raw": {"premise": "The premise of the question is valid. The bowl is visible in the image (white ceramic bowl containing the soup).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.38}
+{"image_id": 439, "raw": {"premise": "The premise of the question is valid. The table is visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.07}
+{"image_id": 443, "raw": {"premise": "The premise of the question is valid. The helmet is clearly visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.14}
+{"image_id": 447, "raw": {"premise": "none"}, "parse_ok": true, "boxes": [], "sec": 3.89}
+{"image_id": 451, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 5.09}
+{"image_id": 455, "raw": {"premise": "The question asks about the color of the table. The image shows a cutting board on a surface, but the table itself is not clearly visible or identifiable as a distinct object with a discernible color. The background is blurred and indistinct, making it impossible to determine the table's color.\n\n{\"missing\": \""}, "parse_ok": true, "boxes": [], "sec": 16.21}
+{"image_id": 459, "raw": {"premise": "The pizza is placed on a wooden board, not directly on a table. The table itself is not visible in the image.\n\n{\"missing\": \"table\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 12.21}
+{"image_id": 463, "raw": {"premise": "The premise of the question is valid. The image clearly shows a laptop computer, and its color (silver or light gray) is visible.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.92}
+{"image_id": 467, "raw": {"premise": "The question asks about the color of the dog, and the dog is clearly visible in the image. There is no missing object, person, text, or detail assumed by the question that isn\u2019t present.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.04}
+{"image_id": 471, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.5}
+{"image_id": 475, "raw": {"premise": "The question asks about the color of the dog, and the image clearly shows a dog with black, gray, and tan fur. The premise is valid \u2014 the dog is visible, and its color can be described.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.37}
+{"image_id": 479, "raw": {"premise": "The premise of the question is valid. The microwave oven is clearly visible in the image, mounted above the stove. It is silver/stainless steel in color.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.38}
+{"image_id": 483, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.33}
+{"image_id": 487, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 5.18}
+{"image_id": 491, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.0}
+{"image_id": 495, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.63}
+{"image_id": 499, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 503, "raw": {"premise": "The premise of the question is valid. The image clearly shows text on the wing of the airplane.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.27}
+{"image_id": 507, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.36}
+{"image_id": 511, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.69}
+{"image_id": 515, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.09}
+{"image_id": 519, "raw": {"premise": "The premise of the question is valid. The image clearly shows a stop sign with the word \"STOP\" written on it. There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.85}
+{"image_id": 523, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.68}
+{"image_id": 527, "raw": {"premise": "The premise of the question is valid. The text \"OSDB\" is visible on the blue and white striped umbrella in the upper center of the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.07}
+{"image_id": 531, "raw": {"premise": "{\"missing\": \"No people visible\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.47}
+{"image_id": 535, "raw": {"premise": "{\n  \"missing\": \"car\"\n}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.93}
+{"image_id": 539, "raw": {"premise": "{\"missing\": \"knife\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.48}
+{"image_id": 543, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.97}
+{"image_id": 547, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.45}
+{"image_id": 551, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.47}
+{"image_id": 555, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.67}
+{"image_id": 559, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.33}
+{"image_id": 4, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.68}
+{"image_id": 8, "raw": {"premise": "The question asks about the number of cell phones visible in the image. Upon careful inspection, two cell phones are clearly visible \u2014 one held by each person in the foreground. The premise of the question does not assume any object, person, text, or detail that is missing from the image.\n\nTherefore, the correct response"}, "parse_ok": true, "boxes": [], "sec": 14.93}
+{"image_id": 12, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.98}
+{"image_id": 16, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.23}
+{"image_id": 20, "raw": {"premise": "The question asks to count the cars in the picture. Upon careful inspection of the image, there are no visible cars. There is a white van or camper vehicle on the right side, but no standard passenger cars are present. Therefore, the premise of the question assumes the presence of cars, which are not actually visible."}, "parse_ok": true, "boxes": [], "sec": 15.18}
+{"image_id": 24, "raw": {"premise": "The question asks \"How many people are there in the image?\" and does not assume any specific object, person, text, or detail that is not visible. It simply requests a count of people, which can be determined from the image.\n\nTherefore, no missing element is assumed.\n\n```json\n{\"missing\":"}, "parse_ok": true, "boxes": [], "sec": 15.5}
+{"image_id": 28, "raw": {"premise": "The premise of the question is valid. The image clearly shows multiple people, and counting them is a reasonable request based on the visual content. No assumed object, person, text, or detail is missing.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.13}
+{"image_id": 32, "raw": {"premise": "The premise of the question is valid. There are chairs visible in the image (specifically, two blue chairs in the background on the right side).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.37}
+{"image_id": 36, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.85}
+{"image_id": 40, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.64}
+{"image_id": 44, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.92}
+{"image_id": 48, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.44}
+{"image_id": 52, "raw": {"premise": "The question asks to count the bowls in the picture. Upon careful inspection of the image, there are no clear \"bowls\" visible. There are pots, pans, trays, and a small white container (possibly a cup or small bowl) held by one person, but it is not clearly identifiable as a bowl."}, "parse_ok": true, "boxes": [], "sec": 14.81}
+{"image_id": 56, "raw": {"premise": "The premise of the question is valid. The image clearly shows two horses, one white and one brown, being ridden by two women in shallow water. There are no missing objects, people, text, or details assumed by the question that are not visible.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 14.95}
+{"image_id": 60, "raw": {"premise": "The premise of the question is valid. There are three people visible in the image: the batter, the catcher, and the umpire.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.47}
+{"image_id": 64, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.66}
+{"image_id": 68, "raw": {"premise": "The question asks \"How many dogs can you see?\" and the image clearly shows three dogs. There is no assumption of an object, person, text, or detail that is not visible. The premise is valid.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.92}
+{"image_id": 72, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.48}
+{"image_id": 76, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.63}
+{"image_id": 80, "raw": {"premise": "The question asks to count the bananas in the picture. Upon careful inspection of the image, there are multiple bunches of bananas clearly visible in the foreground and middle ground. Therefore, the premise of the question is valid \u2014 bananas are indeed present and visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.06}
+{"image_id": 84, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.2}
+{"image_id": 88, "raw": {"premise": "The question asks about the number of trains in the image. Upon careful inspection, there is one prominent train in the foreground (a yellow and maroon locomotive) and another train visible further back on a parallel track (a dark-colored freight train). Therefore, the premise of the question is valid as trains are indeed visible"}, "parse_ok": true, "boxes": [], "sec": 15.42}
+{"image_id": 92, "raw": {"premise": "The question asks to count \"tvs\" in the picture. However, the image shows computer monitors and a laptop, not televisions. While these devices have screens, they are not TVs. Therefore, the premise of the question is flawed because it assumes the presence of TVs, which are not visible.\n\n{\"missing"}, "parse_ok": true, "boxes": [], "sec": 15.52}
+{"image_id": 96, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.98}
+{"image_id": 100, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.66}
+{"image_id": 104, "raw": {"premise": "The premise of the question is valid. The image clearly shows an elephant interacting with a person. There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 10.69}
+{"image_id": 108, "raw": {"premise": "The question asks about an accessory appearing in the picture. Looking at the image:\n\n- The woman on the left is wearing earrings (visible as small hoops).\n- The woman in the middle has a name tag and is holding a pen.\n- The man on the right is wearing a cap and has a name"}, "parse_ok": true, "boxes": [], "sec": 14.97}
+{"image_id": 112, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.82}
+{"image_id": 116, "raw": {"premise": "The question asks about a piece of furniture, but the image only shows a plate of food on a table surface. No furniture (such as a chair, table frame, cabinet, etc.) is visible\u2014only the tabletop surface and the meal.\n\n{\"missing\": \"furniture\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 16.54}
+{"image_id": 120, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 124, "raw": {"premise": "The premise of the question is valid. The image clearly shows a man wearing glasses, which is an accessory.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.65}
+{"image_id": 128, "raw": {"premise": "{\"missing\": \"No Animal Visible\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 6.43}
+{"image_id": 132, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.72}
+{"image_id": 136, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.47}
+{"image_id": 140, "raw": {"premise": "The question asks \"Which vehicle appears in this picture?\" The image clearly shows the back of a pickup truck (or similar utility vehicle) with a metal rack, in which the man is sitting. Therefore, the premise of the question is valid as a vehicle is visible.\n\n```json\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.99}
+{"image_id": 144, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.38}
+{"image_id": 148, "raw": {"premise": "The premise of the question is valid. The image clearly shows a canoe, which is a type of vehicle (specifically, a watercraft). There are no missing objects, people, text, or details assumed by the question that are not visible in the image.\n\n```json\n{\"missing\": \"none\"}\n"}, "parse_ok": true, "boxes": [], "sec": 15.39}
+{"image_id": 152, "raw": {"premise": "The premise of the question is valid. The image clearly shows a desk and a chair, which are pieces of furniture. There is no missing object, person, text, or detail assumed by the question that isn't visible.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 14.37}
+{"image_id": 156, "raw": {"premise": "The question asks \"Which food item appears in this picture?\" and the image clearly shows a pizza with various toppings. The premise of the question is valid because a food item (pizza) is indeed visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.32}
+{"image_id": 160, "raw": {"premise": "The premise of the question is valid. The image clearly shows an animal (a zorse, which is a hybrid of a zebra and a horse). There are no missing elements assumed by the question.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 13.16}
+{"image_id": 164, "raw": {"premise": "The question asks about an electronic device visible in the picture. Looking at the image, there is a television set on a stand in the background. This is an electronic device. Therefore, the premise of the question is valid as it does not assume anything missing.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.62}
+{"image_id": 168, "raw": {"premise": "The question asks \"Which animal appears in this picture?\" and the image clearly shows a black and white cat. The premise of the question is valid as an animal (the cat) is indeed visible.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 11.88}
+{"image_id": 172, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 3.77}
+{"image_id": 176, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.44}
+{"image_id": 180, "raw": {"premise": "The premise of the question is valid. Both the bed and the suitcase are visible in the image. The suitcase is on the far left, and the bed is to its right.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 12.28}
+{"image_id": 184, "raw": {"premise": "{\"missing\": \"bird\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.99}
+{"image_id": 188, "raw": {"premise": "```json\n{\"missing\": \"bowl\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.83}
+{"image_id": 192, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.97}
+{"image_id": 196, "raw": {"premise": "{\"missing\": \"None\"}"}, "parse_ok": true, "boxes": [], "sec": 4.15}
+{"image_id": 200, "raw": {"premise": "The premise of the question is valid. Both the pizza and the potted plant (a small cactus in a yellow pot) are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 11.54}
+{"image_id": 204, "raw": {"premise": "{\n  \"missing\": \"fire hydrant\"\n}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 8.52}
+{"image_id": 208, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.77}
+{"image_id": 212, "raw": {"premise": "```json\n{\"missing\": \"carrot\"}\n```", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.3}
+{"image_id": 216, "raw": {"premise": "{\n  \"missing\": \"none\"\n}"}, "parse_ok": true, "boxes": [], "sec": 4.78}
+{"image_id": 220, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 5.05}
+{"image_id": 224, "raw": {"premise": "{\"missing\": \"dining table\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.44}
+{"image_id": 228, "raw": {"premise": "{\"missing\": \"cup\"}", "verify": "Yes"}, "parse_ok": true, "boxes": [], "sec": 7.39}
+{"image_id": 232, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.18}
+{"image_id": 236, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.84}
+{"image_id": 240, "raw": {"premise": "The question asks about the relative position of the car and the bus. Both a car (in the foreground on the left) and a bus (in the middle ground) are clearly visible in the image. Therefore, the premise of the question is valid.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 15.24}
+{"image_id": 244, "raw": {"premise": "The question asks to compare the size of the fork and the dining table. However, the dining table itself is not visible in the image; only a tablecloth with an embroidered pattern is shown. The fork is visible, but the table it rests on is not.\n\nTherefore, the premise of the question assumes the visibility"}, "parse_ok": true, "boxes": [], "sec": 15.04}
+{"image_id": 248, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.65}
+{"image_id": 252, "raw": {"premise": "The question asks to compare the size of the train and the horse in the image. Both the train (specifically, a steam locomotive and its cars) and the horse are clearly visible in the mural painted on the wall. The horse is on the left side of the mural, and the train is depicted in the"}, "parse_ok": true, "boxes": [], "sec": 15.4}
+{"image_id": 256, "raw": {"premise": "{\"missing\": \"bench\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.93}
+{"image_id": 260, "raw": {"premise": "```json\n{\"missing\": \"backpack\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.18}
+{"image_id": 264, "raw": {"premise": "The question asks to compare the size of the dining table and the fork. Both objects are visible in the image. The dining table is the surface on which all the food and drinks are placed, and a fork is clearly visible in the foreground, resting on a plate. Therefore, the premise of the question is valid as"}, "parse_ok": true, "boxes": [], "sec": 14.9}
+{"image_id": 268, "raw": {"premise": "The question asks to compare the size of the cup and the dining table. The cup is visible in the top left corner. The dining table is the surface on which all the dishes are placed, and it occupies the majority of the image background. Both objects are present in the image.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 14.98}
+{"image_id": 272, "raw": {"premise": "The premise of the question is valid; both the fork and the cake are visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.12}
+{"image_id": 276, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.02}
+{"image_id": 280, "raw": {"premise": "{\"missing\": \"tv\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.69}
+{"image_id": 284, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.11}
+{"image_id": 288, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.76}
+{"image_id": 292, "raw": {"premise": "The question asks to compare the size of the bed and the book. While the book is clearly visible, the bed itself (the frame, mattress, etc.) is not fully visible; only the bedding (blankets, pillows) and the people on it are shown. Therefore, the premise of comparing the \"bed\""}, "parse_ok": true, "boxes": [], "sec": 15.74}
+{"image_id": 296, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 6.24}
+{"image_id": 300, "raw": {"premise": "```json\n{\"missing\": \"laptop\"}\n```", "verify": "yes"}, "parse_ok": true, "boxes": [], "sec": 7.39}
+{"image_id": 304, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.01}
+{"image_id": 308, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.19}
+{"image_id": 312, "raw": {"premise": "```json\n{\"missing\": \"bottle\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.12}
+{"image_id": 316, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.04}
+{"image_id": 320, "raw": {"premise": "```json\n{\"missing\": \"chair\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.14}
+{"image_id": 324, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.24}
+{"image_id": 328, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.28}
+{"image_id": 332, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.02}
+{"image_id": 336, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.42}
+{"image_id": 340, "raw": {"premise": "{\"missing\": \"People\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.24}
+{"image_id": 344, "raw": {"premise": "{\"missing\": \"Chairs\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.28}
+{"image_id": 348, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.22}
+{"image_id": 352, "raw": {"premise": "{\"missing\": \"Chairs\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.23}
+{"image_id": 356, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.03}
+{"image_id": 360, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.65}
+{"image_id": 364, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 4.61}
+{"image_id": 368, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 6.09}
+{"image_id": 372, "raw": {"premise": "{\"missing\": \"Dining Table\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.53}
+{"image_id": 376, "raw": {"premise": "{\"missing\": \"People\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.99}
+{"image_id": 380, "raw": {"premise": "{\"missing\": \"Bottle\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.42}
+{"image_id": 384, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.64}
+{"image_id": 388, "raw": {"premise": "```json\n{\"missing\": \"car\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.3}
+{"image_id": 392, "raw": {"premise": "{\"missing\": \"Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.01}
+{"image_id": 396, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 5.72}
+{"image_id": 400, "raw": {"premise": "{\"missing\": \"Dining Tables\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.5}
+{"image_id": 404, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.15}
+{"image_id": 408, "raw": {"premise": "{\"missing\": \"Bird\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 4.8}
+{"image_id": 412, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.2}
+{"image_id": 416, "raw": {"premise": "```json\n{\"missing\": \"chairs\"}\n```", "verify": "no"}, "parse_ok": true, "boxes": [], "sec": 7.33}
+{"image_id": 420, "raw": {"premise": "{\"missing\": \"Text On Chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.91}
+{"image_id": 424, "raw": {"premise": "The premise of the question is valid. The image clearly shows a wicker basket (or a similar woven container) in the background, behind the cat. Therefore, no object assumed by the question is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 13.7}
+{"image_id": 428, "raw": {"premise": "{\n  \"missing\": \"none\"\n}"}, "parse_ok": true, "boxes": [], "sec": 5.19}
+{"image_id": 432, "raw": {"premise": "The premise of the question is valid. The image clearly shows a plate, and its color is visible.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.7}
+{"image_id": 436, "raw": {"premise": "The premise of the question is valid; the microwave oven is clearly visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.53}
+{"image_id": 440, "raw": {"premise": "The premise of the question is valid. The bicycle is visible in the image.\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.16}
+{"image_id": 444, "raw": {"premise": "The premise of the question is valid. The bench is clearly visible in the image.\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.46}
+{"image_id": 448, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.74}
+{"image_id": 452, "raw": {"premise": "The premise of the question is valid. The plate is visible in the image (the white surface holding the food).\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.5}
+{"image_id": 456, "raw": {"premise": "{\n\"missing\": \"television set\"\n}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.41}
+{"image_id": 460, "raw": {"premise": "The premise of the question is valid. The tray is clearly visible in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 8.32}
+{"image_id": 464, "raw": {"premise": "{\n    \"missing\": \"book\"\n}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 7.2}
+{"image_id": 468, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.74}
+{"image_id": 472, "raw": {"premise": "The premise of the question is valid. The image clearly shows a knife on the left side. It has a black handle and a metallic blade. Therefore, no object assumed by the question is missing.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 13.22}
+{"image_id": 476, "raw": {"premise": "The question asks about the color of the dog, which is clearly visible in the image. The dog is brown/tan. There is no missing object, person, text, or detail assumed by the question that isn\u2019t present.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 13.21}
+{"image_id": 480, "raw": {"premise": "The question asks about the color of the dog, which is clearly visible in the image. The dog is brown/tan. There is no missing object, person, text, or detail assumed by the question that isn't present.\n\n{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 12.94}
+{"image_id": 484, "raw": {"premise": "The premise of the question is valid. The word \"STOP\" is clearly visible on the stop sign in the image.\n\n```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 9.65}
+{"image_id": 488, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.66}
+{"image_id": 492, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 4.52}
+{"image_id": 496, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.66}
+{"image_id": 500, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.74}
+{"image_id": 504, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.74}
+{"image_id": 508, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.58}
+{"image_id": 512, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.5}
+{"image_id": 516, "raw": {"premise": "```json\n{\"missing\": \"none\"}\n```"}, "parse_ok": true, "boxes": [], "sec": 4.63}
+{"image_id": 520, "raw": {"premise": "The question asks what word is written in the picture. Looking at the image, there is a decorative banner or placemat below the cake that clearly displays the word \"JULY\" in yellow letters on a blue background with stars. Therefore, the premise of the question is valid \u2014 the word is indeed visible.\n\n"}, "parse_ok": true, "boxes": [], "sec": 15.07}
+{"image_id": 524, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.73}
+{"image_id": 528, "raw": {"premise": "{\"missing\": \"none\"}"}, "parse_ok": true, "boxes": [], "sec": 3.61}
+{"image_id": 532, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.2}
+{"image_id": 536, "raw": {"premise": "{\"missing\": \"car\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.3}
+{"image_id": 540, "raw": {"premise": "{\"missing\": \"person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.21}
+{"image_id": 544, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.03}
+{"image_id": 548, "raw": {"premise": "{\"missing\": \"chair\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 4.7}
+{"image_id": 552, "raw": {"premise": "{\"missing\": \"Sink\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.18}
+{"image_id": 556, "raw": {"premise": "```json\n{\"missing\": \"chair\"}\n```", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 8.44}
+{"image_id": 560, "raw": {"premise": "{\"missing\": \"Person\"}", "verify": "No"}, "parse_ok": true, "boxes": [], "sec": 6.22}

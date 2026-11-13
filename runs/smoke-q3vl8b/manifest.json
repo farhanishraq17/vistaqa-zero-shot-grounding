@@ -1,0 +1,13 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-8B-Instruct",
+  "limit": 12
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K02",
+   "kernel": "user11/vlm4rwd-smoke-q3vl8b-s0"
+  }
+ ]
+}

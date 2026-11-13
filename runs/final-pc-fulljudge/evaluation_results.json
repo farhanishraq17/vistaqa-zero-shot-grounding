@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.48615729296276705,
+    "text_acc": 0.6119273984442524,
+    "mask_miou": 0.523221091338165
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5323413734623076
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.44841938776996787
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.4503313531984714
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.5136852304392275
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5739197384298822
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.4061870085985425
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6928427047553024
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5373473306149862
+      },
+      {
+        "group": "math",
+        "standard_average": 0.2780487181992319
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5687720561228968
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.3061370919916774
+      },
+      {
+        "group": "science",
+        "standard_average": 0.4801936749655401
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.4184982063557788
+      },
+      {
+        "group": "true",
+        "standard_average": 0.6678025477707006
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.6678025477707006
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.44737035482892684
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.34883099789425553
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.40464147151602253,
+    "text_acc": 0.5142610198789974,
+    "mask_miou": 0.45535279121731276
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.4383204359938704
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.3118010711998339
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.4059494121561995
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.45453215909484096
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.4960120512444072
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.327571443225612
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.5902073565210442
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.4482019702617896
+      },
+      {
+        "group": "math",
+        "standard_average": 0.19973495936001812
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.497188002966894
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.2881444492516784
+      },
+      {
+        "group": "science",
+        "standard_average": 0.3530828935650522
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.3857297539075185
+      },
+      {
+        "group": "true",
+        "standard_average": 0.4554140127388535
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.4554140127388535
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4389752131856069
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.25725083192476245
+      }
+    ]
+  }
+}

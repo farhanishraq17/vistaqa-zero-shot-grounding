@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.48469356984716006,
+    "text_acc": 0.6076058772687987,
+    "mask_miou": 0.5230334845457312
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5261397234635686
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.432390877434312
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.4497947555154414
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.5076755961510777
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5837487900370403
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.41751855464619675
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6754824039543864
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5405514975973066
+      },
+      {
+        "group": "math",
+        "standard_average": 0.261428187251308
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5576883462449784
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.32657835642382416
+      },
+      {
+        "group": "science",
+        "standard_average": 0.48869187485516447
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.4013291344165649
+      },
+      {
+        "group": "true",
+        "standard_average": 0.7085031847133758
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.7085031847133758
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4308752277944855
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.3300357269135662
+      }
+    ]
+  }
+}

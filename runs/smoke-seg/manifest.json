@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "limit": 12
+ },
+ "boxes_from": "smoke-ans",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K08",
+   "kernel": "user12/vlm4rwd-smoke-seg-s0"
+  }
+ ]
+}

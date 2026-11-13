@@ -1,0 +1,293 @@
+{"image": {"image_id": 1, "width": 800, "height": 600}, "question": "Which category has the highest value in the bar chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 3, "width": 800, "height": 600}, "question": "What number is written next to vertex V?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 5, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 7?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 9, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex V?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 15, "width": 800, "height": 600}, "question": "How many vertices of rectangle SREA are labeled in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 17, "width": 800, "height": 600}, "question": "What is the x-coordinate of point Z?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 19, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Apples?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 21, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 33, "width": 800, "height": 600}, "question": "What is the radius of the circle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 35, "width": 800, "height": 600}, "question": "Which point is farthest to the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 37, "width": 800, "height": 600}, "question": "Which category has the lowest value in the bar chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 39, "width": 800, "height": 600}, "question": "What letter labels the top-right vertex of the rectangle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 41, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 4?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 51, "width": 800, "height": 600}, "question": "How many vertices of rectangle GEKQ are labeled in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 53, "width": 800, "height": 600}, "question": "What is the x-coordinate of point X?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 55, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Bananas?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 59, "width": 800, "height": 600}, "question": "What color is point Z?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 63, "width": 800, "height": 600}, "question": "What is the area of the shaded triangle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 71, "width": 800, "height": 600}, "question": "Which point is directly to the left of point Y?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 73, "width": 800, "height": 600}, "question": "Which category has the lowest value in the bar chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 75, "width": 800, "height": 600}, "question": "What letter labels the bottom-left vertex of the rectangle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 77, "width": 800, "height": 600}, "question": "How many points are above point W?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 81, "width": 800, "height": 600}, "question": "Which vertex is directly below vertex C?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 87, "width": 800, "height": 600}, "question": "How many vertices of rectangle CRPN are labeled in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 89, "width": 800, "height": 600}, "question": "What is the x-coordinate of point Y?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 91, "width": 800, "height": 600}, "question": "Which bar is immediately to the right of the bar for Walnuts?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 93, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 95, "width": 800, "height": 600}, "question": "What color is point X?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 99, "width": 800, "height": 600}, "question": "What is the area of the shaded triangle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 107, "width": 800, "height": 600}, "question": "Which point is directly to the left of point Y?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 109, "width": 800, "height": 600}, "question": "What value does the bar for Melons show?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 111, "width": 800, "height": 600}, "question": "What letter labels the bottom-right vertex of the rectangle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 113, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 1?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 123, "width": 800, "height": 600}, "question": "How many vertices of rectangle JSRD are labeled in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 127, "width": 800, "height": 600}, "question": "Which category's bar is immediately to the right of the bar for Plums?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 129, "width": 800, "height": 600}, "question": "Is the horizontal side of the rectangle longer or shorter than its vertical side?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 131, "width": 800, "height": 600}, "question": "What color is point W?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 133, "width": 800, "height": 600}, "question": "How many bars for Walnuts are in the chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 137, "width": 800, "height": 600}, "question": "What are the coordinates of point Y?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 141, "width": 800, "height": 600}, "question": "What is the radius of the circle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 143, "width": 800, "height": 600}, "question": "Which point is farthest to the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 147, "width": 800, "height": 600}, "question": "What number is written next to vertex U?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 149, "width": 800, "height": 600}, "question": "How many points have an x-coordinate greater than 8?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 151, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 153, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 155, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 157, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 159, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 161, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 163, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 165, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 167, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 169, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 171, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 173, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 177, "width": 640, "height": 480}, "question": "Is the bleach bottle to the left or to the right of the sugar box?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 181, "width": 640, "height": 480}, "question": "Is the scissors to the left or to the right of the master chef can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 183, "width": 640, "height": 480}, "question": "Which is larger, the wood block or the sugar box?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 185, "width": 640, "height": 480}, "question": "Which is larger, the pudding box or the potted meat can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 189, "width": 640, "height": 480}, "question": "How many sugar boxes are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 191, "width": 640, "height": 480}, "question": "What is the toy duck next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 193, "width": 640, "height": 480}, "question": "What is written on the pudding box?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 195, "width": 640, "height": 480}, "question": "How many egg cartons are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 197, "width": 640, "height": 480}, "question": "What color is the marker?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 199, "width": 640, "height": 480}, "question": "How many potted meat cans are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 201, "width": 640, "height": 480}, "question": "What color is the large clamp?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 203, "width": 640, "height": 480}, "question": "What is the bowl next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 211, "width": 640, "height": 480}, "question": "How many markers are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 213, "width": 640, "height": 480}, "question": "Which is larger, the bowl or the pitcher?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 237, "width": 640, "height": 480}, "question": "How many cans are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 239, "width": 640, "height": 480}, "question": "Count the objects on the table.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 241, "width": 640, "height": 480}, "question": "How many objects are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 247, "width": 640, "height": 480}, "question": "How many objects are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 251, "width": 640, "height": 480}, "question": "How many cans are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 253, "width": 640, "height": 480}, "question": "How many objects are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 255, "width": 640, "height": 480}, "question": "How many objects are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 257, "width": 640, "height": 480}, "question": "Which appears larger in the image, the power drill or the egg carton?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 265, "width": 640, "height": 480}, "question": "Which appears larger in the image, the watering can or the toy duck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 271, "width": 640, "height": 480}, "question": "Which appears larger in the image, the power drill or the large clamp?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 291, "width": 640, "height": 480}, "question": "Is the mug to the left or to the right of the extra large clamp?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 293, "width": 640, "height": 480}, "question": "Is the egg carton to the left or to the right of the glue bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 313, "width": 256, "height": 256}, "question": "Is the largest nucleus in the left half or the right half of the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 327, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 329, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 331, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 333, "width": 696, "height": 520}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 335, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 339, "width": 696, "height": 520}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 343, "width": 320, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 345, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 347, "width": 640, "height": 512}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 349, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 373, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 375, "width": 360, "height": 360}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 377, "width": 360, "height": 360}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 383, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 385, "width": 696, "height": 520}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 387, "width": 256, "height": 256}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 391, "width": 360, "height": 360}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 393, "width": 256, "height": 256}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 395, "width": 256, "height": 256}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 399, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 401, "width": 320, "height": 256}, "question": "Where is the scale bar located in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 407, "width": 360, "height": 360}, "question": "What does the scale bar say?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 409, "width": 320, "height": 256}, "question": "What does the arrow say?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 413, "width": 360, "height": 360}, "question": "Where is the flagellum located in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 415, "width": 256, "height": 256}, "question": "What color is the flagellum?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 417, "width": 360, "height": 360}, "question": "What color is the flagellum?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 421, "width": 696, "height": 520}, "question": "What does the flagellum say?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 425, "width": 360, "height": 360}, "question": "Where is the scale bar located in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 427, "width": 256, "height": 256}, "question": "What does the red blood cell say?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 429, "width": 256, "height": 256}, "question": "What color is the scale bar?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 449, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the rider?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 451, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bus or the pedestrian?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 453, "width": 1280, "height": 720}, "question": "Are there more pedestrians or traffic signs in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 461, "width": 1280, "height": 720}, "question": "Which appears larger in the image, the bicycle or the pedestrian?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 471, "width": 1280, "height": 720}, "question": "How many cars are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 477, "width": 1280, "height": 720}, "question": "How many cars are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 485, "width": 1280, "height": 720}, "question": "How many cars are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 487, "width": 1280, "height": 720}, "question": "Count the pedestrians in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 491, "width": 1280, "height": 720}, "question": "How many pedestrians are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 493, "width": 1280, "height": 720}, "question": "Which is larger, the motorcycle or the traffic sign?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 495, "width": 1280, "height": 720}, "question": "How many traffic lights are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 497, "width": 1280, "height": 720}, "question": "Is the truck to the left or to the right of the bus?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 501, "width": 1280, "height": 720}, "question": "What color is the bicycle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 503, "width": 1280, "height": 720}, "question": "What is written on the traffic light?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 507, "width": 1280, "height": 720}, "question": "Which is larger, the motorcycle or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 509, "width": 1280, "height": 720}, "question": "Which is larger, the bus or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 517, "width": 1280, "height": 720}, "question": "What color is the train?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 519, "width": 1280, "height": 720}, "question": "What is written on the bus?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 521, "width": 1280, "height": 720}, "question": "What color is the traffic light?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 523, "width": 1280, "height": 720}, "question": "How many trucks are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 527, "width": 1280, "height": 720}, "question": "What is the train next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 529, "width": 1280, "height": 720}, "question": "What is written on the train?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 533, "width": 1280, "height": 720}, "question": "What type of large vehicle is visible in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 537, "width": 1280, "height": 720}, "question": "What type of large vehicle is visible in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 539, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 543, "width": 1280, "height": 720}, "question": "What type of large vehicle is visible in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 545, "width": 1280, "height": 720}, "question": "What type of large vehicle is visible in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 547, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 549, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 551, "width": 1280, "height": 720}, "question": "What type of large vehicle is visible in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 553, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 555, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 6, "width": 800, "height": 600}, "question": "Is the Papayas slice larger than the Kiwis slice?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 8, "width": 800, "height": 600}, "question": "What number is written inside the red square near column 3?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 10, "width": 800, "height": 600}, "question": "How many values in the Art column are greater than 29?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 12, "width": 800, "height": 600}, "question": "What share does Papayas have?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 16, "width": 800, "height": 600}, "question": "Which is greater in the Art column, the Wednesday value or the Friday value?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 20, "width": 800, "height": 600}, "question": "How many circles are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 24, "width": 800, "height": 600}, "question": "What percentage is shown for Papayas?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 26, "width": 800, "height": 600}, "question": "How many circles are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 30, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Pears?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 32, "width": 800, "height": 600}, "question": "How many hexagons are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 36, "width": 800, "height": 600}, "question": "How many slices are labeled Papayas?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 42, "width": 800, "height": 600}, "question": "Which share is larger, Lemons or Oranges?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 44, "width": 800, "height": 600}, "question": "What number is written inside the pink hexagon?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 46, "width": 800, "height": 600}, "question": "How many values in the Art column are greater than 21?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 48, "width": 800, "height": 600}, "question": "Which category has the largest share of the pie chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 52, "width": 800, "height": 600}, "question": "Which is greater in the Math column, the Friday value or the Monday value?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 56, "width": 800, "height": 600}, "question": "How many orange hexagons are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 58, "width": 800, "height": 600}, "question": "Which subject has the highest value on Sunday?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 60, "width": 800, "height": 600}, "question": "What percentage is shown for Walnuts?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 62, "width": 800, "height": 600}, "question": "Is the brown circle bigger than the other shapes?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 64, "width": 800, "height": 600}, "question": "What is the value for Saturday under Music?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 66, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Dates?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 68, "width": 800, "height": 600}, "question": "How many circles are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 70, "width": 800, "height": 600}, "question": "What number is in the Sunday row of the Music column?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 72, "width": 800, "height": 600}, "question": "How many slices are larger than 15%?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 78, "width": 800, "height": 600}, "question": "Which share is larger, Plums or Figs?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 80, "width": 800, "height": 600}, "question": "What number is written inside the red pentagon near column 2?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 82, "width": 800, "height": 600}, "question": "How many values in the Math column are greater than 11?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 84, "width": 800, "height": 600}, "question": "Which category has the largest share of the pie chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 88, "width": 800, "height": 600}, "question": "Is the Math value for Sunday greater than the one for Tuesday?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 98, "width": 800, "height": 600}, "question": "Are there more squares or pentagons in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 100, "width": 800, "height": 600}, "question": "What is the value for Saturday under Sport?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 102, "width": 800, "height": 600}, "question": "Which slice is next to the Papayas slice?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 104, "width": 800, "height": 600}, "question": "How many orange pentagons are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 108, "width": 800, "height": 600}, "question": "How many slices are larger than 15%?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 114, "width": 800, "height": 600}, "question": "Which share is larger, Kiwis or Dates?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 118, "width": 800, "height": 600}, "question": "How many values in the Saturday row are above 50?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 120, "width": 800, "height": 600}, "question": "Which category has the largest share of the pie chart?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 122, "width": 800, "height": 600}, "question": "What shape is directly above the orange pentagon?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 124, "width": 800, "height": 600}, "question": "Which is greater in the Art column, the Friday value or the Wednesday value?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 126, "width": 800, "height": 600}, "question": "What color is the Peaches slice?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 130, "width": 800, "height": 600}, "question": "Which subject has the highest value on Saturday?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 136, "width": 800, "height": 600}, "question": "What is the value for Saturday under Sport?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 138, "width": 800, "height": 600}, "question": "Going clockwise, which slice comes right after Lemons?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 144, "width": 800, "height": 600}, "question": "How many slices are labeled Peaches?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 146, "width": 800, "height": 600}, "question": "How many purple squares are in the figure?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 150, "width": 800, "height": 600}, "question": "Is the Melons slice larger than the Pears slice?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 152, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 154, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 156, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 158, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 160, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 162, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 164, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 166, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 168, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 170, "width": 640, "height": 480}, "question": "Which object is closest to the camera?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 172, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 174, "width": 640, "height": 480}, "question": "What object is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 176, "width": 640, "height": 480}, "question": "What color is the master chef can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 178, "width": 640, "height": 480}, "question": "What is written on the foam brick?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 180, "width": 640, "height": 480}, "question": "What is written on the foam brick?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 182, "width": 640, "height": 480}, "question": "What is the extra large clamp next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 184, "width": 640, "height": 480}, "question": "What is the cracker box next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 186, "width": 640, "height": 480}, "question": "How many extra large clamps are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 188, "width": 640, "height": 480}, "question": "What color is the master chef can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 190, "width": 640, "height": 480}, "question": "Is the extra large clamp to the left or to the right of the pitcher?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 196, "width": 640, "height": 480}, "question": "Which is larger, the scissors or the tomato soup can?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 198, "width": 640, "height": 480}, "question": "What is the foam brick next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 200, "width": 640, "height": 480}, "question": "Which is larger, the foam brick or the mustard bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 202, "width": 640, "height": 480}, "question": "What is written on the bowl?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 206, "width": 640, "height": 480}, "question": "Which is larger, the gelatin box or the mustard bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 208, "width": 640, "height": 480}, "question": "What is written on the scissors?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 212, "width": 640, "height": 480}, "question": "What is the scissors next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 214, "width": 640, "height": 480}, "question": "How many bananas are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 238, "width": 640, "height": 480}, "question": "Count the objects on the table.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 240, "width": 640, "height": 480}, "question": "Count the objects on the table.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 242, "width": 640, "height": 480}, "question": "Count the objects on the table.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 244, "width": 640, "height": 480}, "question": "How many objects are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 246, "width": 640, "height": 480}, "question": "How many cans are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 250, "width": 640, "height": 480}, "question": "How many objects are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 252, "width": 640, "height": 480}, "question": "Count the objects on the table.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 254, "width": 640, "height": 480}, "question": "How many cans are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 256, "width": 640, "height": 480}, "question": "How many cans are on the table?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 258, "width": 640, "height": 480}, "question": "Which appears larger in the image, the toy ape or the hole punch?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 260, "width": 640, "height": 480}, "question": "Which appears larger in the image, the watering can or the toy cat?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 266, "width": 640, "height": 480}, "question": "Which appears larger in the image, the sugar box or the scissors?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 268, "width": 640, "height": 480}, "question": "Which appears larger in the image, the watering can or the glue bottle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 270, "width": 640, "height": 480}, "question": "Which appears larger in the image, the tomato soup can or the marker?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 296, "width": 640, "height": 480}, "question": "Is the toy duck to the left or to the right of the egg carton?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 314, "width": 320, "height": 256}, "question": "Is the largest nucleus in the left half or the right half of the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 318, "width": 256, "height": 256}, "question": "Is the largest nucleus in the left half or the right half of the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 326, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 328, "width": 320, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 330, "width": 360, "height": 360}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 334, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 336, "width": 360, "height": 360}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 338, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 344, "width": 320, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 346, "width": 256, "height": 256}, "question": "Which half of the image contains more nuclei, the left or the right?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 372, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 374, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 376, "width": 696, "height": 520}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 378, "width": 360, "height": 360}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 380, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 382, "width": 360, "height": 360}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 384, "width": 320, "height": 256}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 386, "width": 360, "height": 360}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 388, "width": 360, "height": 360}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 390, "width": 360, "height": 360}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 392, "width": 256, "height": 256}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 394, "width": 320, "height": 256}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 396, "width": 256, "height": 256}, "question": "How many nuclei are visible in this microscope image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 400, "width": 360, "height": 360}, "question": "Count the cell nuclei in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 404, "width": 640, "height": 512}, "question": "What does the red blood cell say?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 422, "width": 360, "height": 360}, "question": "Where is the scale bar located in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 426, "width": 256, "height": 256}, "question": "What color is the arrow?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 428, "width": 320, "height": 256}, "question": "What color is the flagellum?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 430, "width": 360, "height": 360}, "question": "What color is the scale bar?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 440, "width": 1280, "height": 720}, "question": "What color is the traffic light showing?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 470, "width": 1280, "height": 720}, "question": "Count the traffic signs in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 472, "width": 1280, "height": 720}, "question": "How many traffic signs are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 474, "width": 1280, "height": 720}, "question": "How many pedestrians can you see?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 476, "width": 1280, "height": 720}, "question": "How many buses are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 478, "width": 1280, "height": 720}, "question": "How many trucks are visible in this street scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 482, "width": 1280, "height": 720}, "question": "Count the bicycles in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 488, "width": 1280, "height": 720}, "question": "Count the cars in the image.", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 496, "width": 1280, "height": 720}, "question": "What is the train next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 502, "width": 1280, "height": 720}, "question": "Is the train to the left or to the right of the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 506, "width": 1280, "height": 720}, "question": "How many buses are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 508, "width": 1280, "height": 720}, "question": "Which is larger, the bicycle or the traffic sign?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 512, "width": 1280, "height": 720}, "question": "Which is larger, the motorcycle or the truck?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 514, "width": 1280, "height": 720}, "question": "What is written on the motorcycle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 516, "width": 1280, "height": 720}, "question": "What color is the motorcycle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 518, "width": 1280, "height": 720}, "question": "How many motorcycles are there in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 520, "width": 1280, "height": 720}, "question": "What is the motorcycle next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 524, "width": 1280, "height": 720}, "question": "What is the train next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 526, "width": 1280, "height": 720}, "question": "Is the bus to the left or to the right of the traffic sign?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 528, "width": 1280, "height": 720}, "question": "Is the motorcycle to the left or to the right of the bus?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 530, "width": 1280, "height": 720}, "question": "What color is the bicycle?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 532, "width": 1280, "height": 720}, "question": "What is the train next to?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 534, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 542, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 544, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 546, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 550, "width": 1280, "height": 720}, "question": "What type of large vehicle is visible in the scene?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 552, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 554, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}
+{"image": {"image_id": 556, "width": 1280, "height": 720}, "question": "What type of vehicle is furthest to the left in the image?", "prediction": {"text": "", "masks": []}}

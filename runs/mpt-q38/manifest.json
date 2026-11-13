@@ -1,0 +1,21 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3.8-27B",
+  "quant": "nf4",
+  "max_memory": [
+   "21GiB"
+  ],
+  "expand_short": true,
+  "seg": "",
+  "thinking": true,
+  "max_new_tokens": 4096,
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "PC1",
+   "gpus": "1"
+  }
+ ]
+}

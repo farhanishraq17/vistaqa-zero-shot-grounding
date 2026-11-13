@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.47178946529000937,
+    "text_acc": 0.5998271391529818,
+    "mask_miou": 0.5213371984829939
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5311636205812587
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.48696679171659935
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.45044480429545175
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.44680381557857757
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5469899240704126
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.38181728238387685
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6656824359114265
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5548336130663187
+      },
+      {
+        "group": "math",
+        "standard_average": 0.20719793963887997
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5151797272501757
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.35078353213205743
+      },
+      {
+        "group": "science",
+        "standard_average": 0.46784335634587965
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.4108427180789334
+      },
+      {
+        "group": "true",
+        "standard_average": 0.6354140127388536
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.6354140127388536
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4647811781170052
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.2806916161247197
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "cfg": {
+  "vlm": "google/gemma-4-31B-it",
+  "quant": "nf4",
+  "pip": [
+   "bitsandbytes"
+  ],
+  "max_memory": [
+   "14GiB",
+   "14GiB"
+  ],
+  "seg": "",
+  "premise": "only",
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K11",
+   "kernel": "user08/vlm4rwd-gp-p3-s0"
+  }
+ ]
+}

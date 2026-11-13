@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.45846344557753865,
+    "text_acc": 0.6024200518582541,
+    "mask_miou": 0.4711998269829083
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.46026073998727696
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.3679092562416532
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.4853511460480545
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.5309940219056003
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5318253357400157
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.37693119984617857
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6556669465705162
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.48701081822829184
+      },
+      {
+        "group": "math",
+        "standard_average": 0.2743785297250326
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5514509943780526
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.321524174558111
+      },
+      {
+        "group": "science",
+        "standard_average": 0.4147757662779057
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.46216157358625415
+      },
+      {
+        "group": "true",
+        "standard_average": 0.4485350318471338
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.4485350318471338
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4993741176125718
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.37236936208955257
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{"image_id": 4, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.6353808563340329, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 7, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.059761131164971205, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 18, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.06215902303435092, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 23, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.045559380404666866, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 26, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.8462741009906564, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 29, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.8991461598930193, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 35, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.07711580048350629, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 53, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.06816204230697728, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 59, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.09783630317445868, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 64, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.07431799887881547, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 68, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.08105260907765433, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 76, "task_type": "counting", "domain": "coco", "is_hallucination": false, "instance_group": "multi_instance", "standard_average": 0.04720836344733683, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 413, "task_type": "hallucination", "domain": "coco", "is_hallucination": true, "instance_group": "zero_instance", "standard_average": 0.01, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}
+{"image_id": 538, "task_type": "hallucination", "domain": "coco", "is_hallucination": true, "instance_group": "zero_instance", "standard_average": 0.01, "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ"}

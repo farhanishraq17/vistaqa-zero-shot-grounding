@@ -1,0 +1,28 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-8B-Instruct",
+  "premise": "only"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K01",
+   "kernel": "user16/vlm4rwd-final-prem-s0"
+  },
+  {
+   "shard": 1,
+   "alias": "K03",
+   "kernel": "user06/vlm4rwd-final-prem-s1"
+  },
+  {
+   "shard": 2,
+   "alias": "K04",
+   "kernel": "user10/vlm4rwd-final-prem-s2"
+  },
+  {
+   "shard": 3,
+   "alias": "K05",
+   "kernel": "user04/vlm4rwd-final-prem-s3"
+  }
+ ]
+}

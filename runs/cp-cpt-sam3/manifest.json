@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "data": "inline"
+ },
+ "concepts_from": "cp-q36-27b",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K17",
+   "kernel": "user01/vlm4rwd-cp-cpt-sam3-s0"
+  }
+ ]
+}

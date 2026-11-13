@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "count_only": false
+ },
+ "concepts_from": "final-prem",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K09",
+   "kernel": "user07/vlm4rwd-v2-veto-s0"
+  }
+ ]
+}

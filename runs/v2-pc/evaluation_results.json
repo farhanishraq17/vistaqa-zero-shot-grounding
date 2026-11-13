@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.4824669858299326,
+    "text_acc": 0.6032843560933449,
+    "mask_miou": 0.5322286107130252
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5440267166097904
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.4957671609243142
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.46512975661578
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.46299498004583417
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5479223473672437
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.3909649184280671
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6862531395248938
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5784483258744305
+      },
+      {
+        "group": "math",
+        "standard_average": 0.21431544005227232
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5277841750627742
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.33618362655956224
+      },
+      {
+        "group": "science",
+        "standard_average": 0.48127216659258876
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.4254973933632645
+      },
+      {
+        "group": "true",
+        "standard_average": 0.6354140127388536
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.6354140127388536
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.46783829680582445
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.32333067898364604
+      }
+    ]
+  }
+}

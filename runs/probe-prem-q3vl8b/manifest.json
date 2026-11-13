@@ -1,0 +1,15 @@
+{
+ "cfg": {
+  "vlm": "Qwen/Qwen3-VL-8B-Instruct",
+  "premise": "only",
+  "pip": [],
+  "data": "inline"
+ },
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K07",
+   "kernel": "user18/vlm4rwd-probe-prem-q3vl8b-s0"
+  }
+ ]
+}

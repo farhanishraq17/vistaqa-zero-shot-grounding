@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.4840309749518681,
+    "text_acc": 0.6076058772687987,
+    "mask_miou": 0.5205233321676995
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.5261397234635686
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.432390877434312
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.44571697735664945
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.5076755961510777
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5837487900370403
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.41751855464619675
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6754824039543864
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.540868751355906
+      },
+      {
+        "group": "math",
+        "standard_average": 0.261428187251308
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5564808972176918
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.3259959694494347
+      },
+      {
+        "group": "science",
+        "standard_average": 0.48634617921722473
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.40031297511187586
+      },
+      {
+        "group": "true",
+        "standard_average": 0.7087898089171975
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.7087898089171975
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4308752277944855
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.32656762046072046
+      }
+    ]
+  }
+}

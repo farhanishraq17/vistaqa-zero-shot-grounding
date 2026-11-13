@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "epsilon": 0.01,
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "total_samples": 1157
+  },
+  "overall": {
+    "standard_average": 0.443458613029697,
+    "text_acc": 0.550561797752809,
+    "mask_miou": 0.49349668053926204
+  },
+  "breakdown": {
+    "task_type": [
+      {
+        "group": "attribute",
+        "standard_average": 0.4915898607283028
+      },
+      {
+        "group": "comparison",
+        "standard_average": 0.4336463858555845
+      },
+      {
+        "group": "counting",
+        "standard_average": 0.39462660830750135
+      },
+      {
+        "group": "identification",
+        "standard_average": 0.4599971073344147
+      },
+      {
+        "group": "ocr",
+        "standard_average": 0.5123860960468585
+      },
+      {
+        "group": "spatial",
+        "standard_average": 0.3751551147964822
+      }
+    ],
+    "domain": [
+      {
+        "group": "av",
+        "standard_average": 0.6376056506257936
+      },
+      {
+        "group": "indoor",
+        "standard_average": 0.5279586950494249
+      },
+      {
+        "group": "math",
+        "standard_average": 0.20149681568699968
+      },
+      {
+        "group": "outdoor",
+        "standard_average": 0.5173367681989368
+      },
+      {
+        "group": "robotics",
+        "standard_average": 0.28500057553565383
+      },
+      {
+        "group": "science",
+        "standard_average": 0.4285838104737489
+      }
+    ],
+    "is_hallucination": [
+      {
+        "group": "false",
+        "standard_average": 0.3546638378118144
+      },
+      {
+        "group": "true",
+        "standard_average": 0.6818471337579618
+      }
+    ],
+    "instance_group": [
+      {
+        "group": "zero_instance",
+        "standard_average": 0.6818471337579618
+      },
+      {
+        "group": "single_instance",
+        "standard_average": 0.4008266739072471
+      },
+      {
+        "group": "multi_instance",
+        "standard_average": 0.2432749701483411
+      }
+    ]
+  }
+}

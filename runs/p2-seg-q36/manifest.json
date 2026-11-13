@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "seg": "@/models/sam3",
+  "data": "@/data/proxy2"
+ },
+ "boxes_from": "p2-q36-27b",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "PC2",
+   "gpus": "0"
+  }
+ ]
+}

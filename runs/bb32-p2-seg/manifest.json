@@ -1,0 +1,14 @@
+{
+ "cfg": {
+  "seg": "kaggle:chonlanawawa/sam3/pyTorch/default",
+  "data": "vlm4rwd-proxy2"
+ },
+ "boxes_from": "bb32-p2",
+ "shards": [
+  {
+   "shard": 0,
+   "alias": "K13",
+   "kernel": "user14/vlm4rwd-bb32-p2-seg-s0"
+  }
+ ]
+}
