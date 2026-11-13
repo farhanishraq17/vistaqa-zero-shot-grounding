@@ -1,7 +1,7 @@
 {
   "metadata": {
     "epsilon": 0.01,
-    "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+    "judge_model": "Qwen/Qwen2.5-14B-Instruct",
     "total_samples": 1157
   },
   "overall": {
