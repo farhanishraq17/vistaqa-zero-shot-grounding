@@ -3,7 +3,7 @@ Secrets.env
 *.env
 Scripts/.kaggle_home/
 
-# data (re-download: see PLAN.md)
+# data (re-download: see README.md)
 Competition Data/VistaQA/
 Competition Data/proxy_dev/
 Competition Data/premise_probe/

@@ -115,5 +115,6 @@ for ax, g, t in texts:  # the comparison box goes 5 pt under the panel's text, w
     ax.add_artist(AnnotationBbox(compare(g), (0, y), xycoords=ax.transAxes, xybox=(2, -5), boxcoords="offset points",
                                  box_alignment=(0, 1), pad=0.35, annotation_clip=False,
                                  bboxprops=dict(boxstyle="round,pad=0.35", fc="#eef4fd", ec="#a9c4ee", lw=0.5)))
+(ROOT / "report").mkdir(exist_ok=True)
 fig.savefig(ROOT / "report" / "qual.pdf", dpi=200, bbox_inches="tight", pad_inches=0.02)
 print("->", ROOT / "report" / "qual.pdf")
