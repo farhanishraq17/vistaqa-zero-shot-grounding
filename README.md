@@ -198,7 +198,7 @@ The proxy guided every decision. The first two stages were scored on VistaQA aft
 
 <p align="center">
   <a href="images/premise-check.png">
-    <img src="images/premise-check.png" alt="Left: horizontal bars of the premise check's gain on false-premise questions and loss on grounded questions per domain and task, with the net marked; the net is negative for robotics, identification, and counting. Right: per-domain operating points, the share of false-premise answers replaced against the share of grounded answers replaced; robotics sits at 34% false alarms, and the two dev sets sit above every VistaQA domain." width="860">
+    <img src="images/premise-check.png" alt="Left: horizontal bars of the premise check's gain on false-premise questions and loss on grounded questions per domain and task, with the net marked; the net is negative for robotics, identification, and counting, and +3.5 overall. Right: per-domain operating points, the share of false-premise answers replaced against the share of grounded answers replaced; robotics sits at 34% false alarms, and the two dev sets sit above every VistaQA domain." width="860">
   </a>
   <br>
   <sub><strong>The premise check gains on false premises everywhere and pays for it on grounded questions.</strong> (a) Change in each group's GROVE when the check is added to answers and boxes: points gained on false-premise questions, points lost on grounded ones, and the net. The net is negative only for robotics, identification, and counting. (b) The share of false-premise answers the check replaces against its false alarms, per domain. Robotics pays 34% false alarms for 60% of its false premises, and both dev sets overstate the check's recall. From the paper.</sub>
@@ -252,10 +252,10 @@ Brackets are paired-bootstrap 95% intervals in GROVE points (AWQ judge, ε = 0.0
 
 <p align="center">
   <a href="images/transfer.png">
-    <img src="images/transfer.png" alt="Left: a forest plot of twelve changes, each with its pooled dev-set effect (hollow) and VistaQA effect (filled) and 95% intervals; only the premise check and the 8B weight edit sit clearly above zero on both. Right: dev effect plotted against VistaQA effect, with most points far from the diagonal." width="860">
+    <img src="images/transfer.png" alt="Left: a forest plot of twelve changes, each with its pooled dev-set effect (hollow) and VistaQA effect (filled) and 95% intervals, marked with a check when the two signs agree and a cross when they do not; only the premise check and the 8B weight edit sit clearly above zero on both. Right: dev effect plotted against VistaQA effect, with most points far from the diagonal." width="860">
   </a>
   <br>
-  <sub><strong>Most dev-set effects did not reappear on VistaQA.</strong> (a) Each change's pooled dev-set effect (hollow marks) and VistaQA effect (filled marks), with 95% intervals, sorted by the VistaQA effect; blue rows agree in sign and orange rows do not. (b) The same pairs as points; a change that transferred lies near the diagonal. From the paper.</sub>
+  <sub><strong>Most dev-set effects did not reappear on VistaQA.</strong> (a) Each change's pooled dev-set effect (hollow marks) and VistaQA effect (filled marks), with 95% intervals, sorted by the VistaQA effect. Indigo marks a change whose two signs agree (✓) and raspberry one whose signs do not (✗); the shaded rows are the entry's two stages. (b) The same pairs as points; a change that transferred lies near the diagonal, in a shaded quadrant where the two signs agree. From the paper.</sub>
 </p>
 
 The dev sets gave the right sign for 5 of 12 changes, and the two gains that held both target false premises. We read this as absence carrying over better than appearance. A missing object poses much the same problem on COCO as on VistaQA, whereas a new backbone or prompt meets images that the proxies only approximate.
