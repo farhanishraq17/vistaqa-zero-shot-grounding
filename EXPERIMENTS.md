@@ -25,7 +25,6 @@ Built by `python src/build_proxy_dev.py` (seed 0). `devall-X` = merge of `dev-X`
 | dev-ts-q3vl8b | Qwen3-VL-8B, **two_stage** (reason_v1 → native GROUND per target) | K01,K02,K09 | 58.56 | 65.0 | 67.6 | 38 s/it. halluc 53.3→64.2, comparison mIoU 50→71 (boxes both objects), but spatial text 74→34% (terse "right"), ocr mIoU 65→46 |
 | dev-tsv-q3vl8b | two_stage + **verify** (yes/no existence per target) | K07,K08,K11 | 57.41 | 64.8 | 65.9 | verify ≈ no-op on halluc (model says yes to its own targets), hurts counting |
 | dev-tsv-q3vl4b | Qwen3-VL-4B two_stage + verify | K16,K17 | 50.20 | 58.0 | 64.7 | 8.5 s/it. halluc 64.5 (text 72%); comparison/spatial text 17% (terse) |
-
 | dev-es-q3vl8b | 8B v0 + expand_short | K01,K02,K09 | **62.31** | 71.6 | 64.3 | +3.7 over v0 58.60 (296/560 answers were ≤3 words) |
 | prem-q3vl8b | 8B premise check only (`premise: "only"`) | K07,K08 | — | | | halluc caught 148/150 but flags 105/410 grounded; **+ yes/no confirm: 138/150, 17/410 false** |
 | prem-q36-27b | 27B premise check only | K12..K15 | — | | | 142/150, 57 false; + confirm 135/150, 36 false (27B says "no" too easily) |
